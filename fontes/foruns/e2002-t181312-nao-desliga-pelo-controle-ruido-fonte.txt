@@ -1,0 +1,43 @@
+ Tópicos semelhantes
+ »  encerrado - tv semp 1492 lav u16 não desliga pelo controle remoto 
+ »  (enserrado) tv semp 2088(I)M não desliga pelo controle remoto 
+ Anuncios
+ Nenhum anúncio
+ TV Semp Toshiba TV2134 (SK11) - Não desliga pelo controle remoto e ruído na fonte 
+ 3 participantes
+ Fórum Eletrônica2002 (Brasil) --> ::  REPARAÇÃO EM GERAL 
+ Página 1 de 1 
+  por  Rafael Silveira Seg 29 Jun 2015, 19:24
+ Eu estou consertando essa tv que veio com o STR-W6554A da fonte em curto (coloquei o STR-W6556A) e um resistor de 10W de 2R2 queimado. Após a troca dos componentes a tv voltou a funcionar, mas ao ligar, a imagem ficava com uma faixa preta do lado direito da tela e um risco azul de cima até em baixo. Troquei alguns eletrolíticos da fonte e do horizontal e o problema foi resolvido. Os anéis de convergência e pureza também estavam desregulados e já coloquei no ponto.
+Ainda restam mais dois problemas que estou apanhando pra achar. O primeiro é que ao desligar pelo controle, ela aparece uma tela azul com o texto SEMP TOSHIBA em vermelho e essa tela azul vai se fechando dos lados para o centro e aí ela deveria desligar, mas ela desliga e liga bem rápido, só que só tem a imagem. O controle não atua outras funções e fica sem volume, como se estivesse desligada. Aí se eu pressionar o botão power no controle novamente, ela "liga", voltando o som e as demais funções do controle.
+O segundo defeito, que ainda não consegui detectar é um ruído na fonte. Ainda não tenho 100% de certeza que seja na fonte, mas pelo que eu verifiquei e escutei, tem tudo pra ser nela. Parece ser até no trafo da fonte. Os capacitores da fonte eu troquei quase todos, apenas o grandão da fonte, os cerâmicos (azuis) que não troquei. Também um de 330uF porque não tenho outro pra por no lugar, mas essa semana irei sair e ver se compro.
+_________________
+ “O covarde nunca tenta, o fracassado nunca termina e o vencedor nunca desiste.” 
+ Deus, obrigado por tudo. 
+ Rafael Silveira Técnico
+ Data de inscrição : 01/01/2010
+ Gosto Não gosto 
+ Re: TV Semp Toshiba TV2134 (SK11) - Não desliga pelo controle remoto e ruído na fonte 
+  por  Eletrônica Soares Ter 30 Jun 2015, 08:58
+ O defeito de não desligar pelo controle pode estar nos transistores Q604, Q605.
+ "A vontade de Deus nunca irá leva-lo aonde a graça de Deus não irá protege-lo" 
+ Eletrônica Soares Moderador do fórum
+  por Conteúdo patrocinado 
+ Conteúdo patrocinado 
+  por  Rafael Silveira Sáb 18 Jul 2015, 19:45
+ Eletrônica Soares escreveu: O defeito de não desligar pelo controle pode estar nos transistores Q604, Q605.
+Me desculpe amigo Soares por ter "abandonado" o tópico, mas é porque dei uma parada com a eletrônica para cuidar da saúde, mas em breve voltarei a atividade e irei seguir sua dica. Essa tv é minha mesmo, então larguei de lado. hehehe
+  por  Dematos Sáb 18 Jul 2015, 20:04
+ Pode ser coincidência ou não,mas este chassis eu detectei um defeito de apito bem agudo repetindo-se em outros e era numa bobina no horizontal.Nesta bobina tem um nucleo em forma de pastilha que descola do topo e fica zunindo devido a frequencia deste estágio.
+Mas pode ser que resolva com uma boa ressolda em toda a fonte e horizontal.É bom retirar o choppper lixar de leve seus terminais e ressoldar no lugar.
+Verificar as condições do grampo que fixa o ferrite do flyback.
+ Dematos Moderador do fórum
+ Data de inscrição : 07/12/2011
+  Tópicos semelhantes 
+ »  tv semp 2092LAV U16 nao desliga pelo controle remoto 
+»  Resolvido TV TOSHIBA U16 NÃO DESLIGA PELO CONTROLE REMOTO 
+»  [Resolvido]tv-toshiba chassi-u15 não desliga pelo controle remoto 
+ Fórum Eletrônica2002 (Brasil)  ::  REPARAÇÃO EM GERAL 
+ Início 
+ Forumeiros.com  |  © phpBB  |  Fórum gratuito de ajuda  |  Denunciar um abuso  |  Fórum grátis 
+ http://www.eletronica2002.com.br/index.html 

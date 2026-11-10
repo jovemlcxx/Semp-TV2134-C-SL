@@ -1,0 +1,165 @@
+ TOSHIBA C - 1453 MUDANDO DE CANAIS AUTOMATICAMENTE, SEM PARAR. IC 101 (P83C055BBP/165) TROCAR O MESMO BARRETO CRUZ 
+ TOSHIBA C - 1453 NÃO LIGA. DIODO 603 TROCAR 0 MESMO BARRETO CRUZ 
+ Semp TV1454 Modo de serviço Pressione menu no controle e depois 19 . Para sair pressione sair Richardo 
+ SEMP 1454(P) SL Tv fechado imagem com faixa preta encima e embaixo A causa era o resistor de 39k na posição R210 e o capacitor c217 É só trocar eles que resolver AssisTec - Manari/PE 
+ semp Tv 1454 psl tv não liga, apenas fonte pulsando, oscilando, led fica piscando, fonte baixa e oscilando depois de muito analizar encontrei um terminal do trafo choper partido, jumpiei e parti plo abraço Otacilio eletrônica G.G 
+ SEMP TOSHIBA TV1454 P SL Sem som Regravar o eprom Deixo aqui os dois arquivos ( https://www.4shared.com/zip/rxmW3l1bea/TV_1454_P_SL_EPROM.html ) NATO ELETRÔNICA 
+ SEMP 1454(P)SL Sem som Transistor V701 com fulga Fazer substituição do transistor e ficou ok Izaias 
+ SEMP 1454 (P)SL tv liga com a tela toda colorida tipo arco-iris sem os cacteres Ci do vertical. N401. (utc78040) avariado trocar Colocar um ci (stv9302b) fica show Andre mamilha 
+ SEMP 1454 Inoperante ledy do stand bay apagado L503 Trocar o juper L503 perto do str e pronto a tv vai ficar funcionando normal. Sinailson furtado 
+ SEMP TV1454(P)SL Vertical com 4 centímetros fechado na parte de cima 1k8 alterada dando 4k9 perto do saída vertical TROCAR EletroClaudioPE 
+ SEMP 1454 (P) SL SEM SOM IMAGEM NORMAL RESISTOR RUIM R604 TROCA DO MESMO ASSISTEC 
+ SEMP TV1454 Piscando led e oscilando tensões na fonte secundária antes dos diodos V601 EL431 Marcondes Ohm Eletrônica Jaicós PI 
+ SEMP 1454 (P)SL Com imagem normal mais não tem som Trocar o c704, c705 c706, c717 d704. Após a trocar voltou a funcionar Eletrônica Francisco 
+ SEMP TV1454 demora vim o som C603 com baixa capacitancia troca do mesmo ws eletronica 
+ SEMP 1454(P)AV liga na tomada más fica apenas com led piscando e todas as tensões baixas flyback bsc25-n3217 totalmente em curto trocar e defeito solucionado! rafael lima 
+ SEMP TV1454(P)SL Não liga fazendo barulho na fonte R509=2k4 alterado medindo 4k substituir por outro e correr pra outra Antonio Carlos (Eletrônica Renascer) 
+ SEMP 1454 (P)SL ULTRA SLIM TV inoperante, nem acendia o Led, e sem som. nada funcionava. depois de averiguar varios componentes, nada de solução, descobrimos uma resistencia pequena L232 proximo ao CI Faz Tudo aberta. troca da resistencia L232 proxima ao Faz tudo. dai beleza e a tv lugou. batista eletronica-confresa,MT 
+ SK11 as vezes sem audio ou roncando audio c603 470uf 25v na fonte de 12v trocar c603 beto2828 
+ SEMP TV1454(P)SL Liga aparece a imagem meio escura e tremula cheio de linhas retraços ,Quando aumenta o screen tela estica desliga ,abaixa o screen liga Fuga no pino do ABL do fly back BSC 25-N3218K ,Troquei pelo novo ,Resolvido a imagem ficou ok Defeito resolvido Andre 
+ SEMP 1454(P)SL SEM SOM NO MEU CASO FOI O LA42102 SUBSTITUIR O LA 42102 POR LA42032 FICOU BLZ VIDEO SOM 
+ SEMP TV1454(P)SL LED PISCANDO R 620 DE 100K ABERTO SÓ TROCAR FICOU BOA NOVIN 
+ SEMP TV 1454 (P)SL Vertical fechando e com linhas de retraço na superior D401 DELFONSO DS ELETRONICA AFRANIO-PE 
+ SEMP TV1454(P) TV NÃO SINTONIZAVA OS CANAIS AS TENÇOES BÁSICAS PRESENTE EX: 33V,5V EXCETO UMA (AGC) RESISTOR DO AGC ABERTO SÓ TROCAR E FICOU BELEZA... Adriano SB 
+ SEMP TV 1454 (P) SL Led stand bye apagado, com tenções no primario R503 e R504 ambos de 120k Um Resistorestava aberto e o outro estava alterado. Ambos substituidos, caso resolvido! Paulo Cezar - PC 
+ SEMP 1454(P)S liga e desliga capacitor c512 quebrado perto do str trocar capacitor 512 eletronica globa 
+ SEMP TV1454 Não funciona C613 em curto Agnaldo 
+ SEMP TV-2134(B) SK11 TV liga funciona e rele bate e as vezes aciona desmagnetização Trocar sem Testar Q401 = 2SC1815. 
+ SK11 Quadro reduzido, tela cinza, linhas brancas, risco branco horizontal(vert. fechado) e desligando. Obs.: fonte com 147v. Alta demais. R633 de 220k com valor alterado( 285,7k) Maxx Eletronica 
+ sk11 sem som, fuciona com som ,depois de alguns minutos o som para cap eletrolitico c636 ,1000x 16v djpituka 
+ Sk-11 Sem áudio R225 de 100k ou R224 de mesmo valor Trocar junto com o capacitor 636 Rogério TV 
+ Sk11 Volume indo ao zero após um tempo mesmo retirando as teclas Zd203 com fuga ou em curto Troca o zd 203 Rogério TV 
+ SK11 Não liga, led acesso bate o relé e apaga Os 2 capacitor de 47uf por 160v Troca dos mesmos AssisTec - Manari/PE 
+ SK11 Quando aumenta o volume a imagem começa a tremer A causa do defeito era o c613 de 102k próximo ao strw da fonte primária Para resolver foi feito a troca por outro AssisTec - Manari/PE 
+ Semp 2134 (c)sl Põe na tomada, estrala o relé várias vezes para aí fica piscando led de estand by , e fonte sobe pra 150v +b e não liga e só fica nisso Trocar resistor de 36k no primário da fonte R609 , no meu caso tava alterado pra 70k Tiago eletrônica 
+ SEMPRE TV2134(C)SL FUNCIONANDO,MAIS SÓ COM UMA LINHA VERTICAL NO MEIO DO TUBO JÁ TINHA VERIFICADO TODAS DIGAS,E ERA O TRANSISTOR Q 606 FAZ OS 5V NO PINO 2 DO MIGRO TINHA VERIFICADO TODAS AS DIGAS AQUI COMENTADAS,TROQUEI O Q 606 E RESOLVI NPN BR8050 FRANCISCO NASCIMENTO 
+ SEMP TV2134 desligando desligando e ligando sozinha troca do r 218 de 27k gilvan araujo 
+ SK11 sem som em av e rf retirar o q402, responsavel pelo mute djpituka 
+ SEMP 2134 Tv liga em seguida desliga e fica batendo o relé e não liga mais e o capacitor da fonte primária fica carregado A causa do defeito era o resistor R633 de 220k que estava alterado foi só trocar e a tv volto a funcionar Trocar o R633 de 220k AssisTec - Manari-PE 
+ SK11 Liga e desliga antes de desligar falhava o som por isso imaginei que não fosse o q606 C 613 próximo ao str de princípio achei que fosse o q606 Trocar c613 carbonizado Rogério TV 
+ SK11 Liga normalmente ao aumentar o screen aparece uma linha horizontal na tela e fica reiniciando. R333 eo c636 Trocar o r333 de 220 homens e o c636 de 1000uf16v tv funcionando perfeitamente! Sinailson 
+ SEMP TV2134(C)SL caracterio e imagem duplicando barulho na bobina defletora serrilhado basta inconsta a ponta da chave de fenda que tenha imã,em cima da bobina l 302 que vc vai ver a mudança pegue um imã de lente de dvd e cole em cima da bobina que resolve o problema de fabrica vem com é esse ima mas com o tempo ele cai RONY ITAPORANGA PB 
+ SK11 Liga batendo relé e desliga com linha vertical C 636 de 1000x16v seco Trocar por um novo resolvido Gabriel E C 
+ SEMP 2134 B som roco e chiando trocar c 627 Raul de saja ajude pra ser ajudado! 
+ TOSHIBA 2134 BSL OU CSL Aquecendo e queimando saída vertical por conta do +b está acima de 114v Trocar o r633 de 220k que deve estar alterado por um de 200k Os 16v e -16v estiver acima dessa voltagem colocar um resistor de 200k no r633 Fábio 
+ SEMP TV2134 Pisca led uma vez e não liga fonte com uns 200v e vai caindo R604 antes do fotoacoplador Marcondes ohm Eletrônica JAICÓS -PI 
+ TOSHIBA 2134 Liga parece que vai e desarmar capacitor da fonte carregar Era o capacitor c634 47UF por 160v trocar o mesmo pelo novo e correr pró abraço Wanderson 
+ SK11 Sem áudio R405 75k e R404 100K aberto Trocar os dois resistor fazer uma varredura nós demais Rogério TV 
+ SEMP 2134(B)SL Sem som no rf Capacitor c218 de 10uf ligado do pino 6 do processador para o gnd Trocar o capacitor e agradecer a Deus Daniel 
+ SK11 Tv não liga acende o led e paga rapidamente quando conecta na energia capacitor da fonte carregado. A caisa do defeito era o resistor R604 próximo ao foto Após troca o mesmo a tv voltou a funcionar perfeitamente José Isael - AssisTec - Manari-PE 
+ TOSHIBA TV2134 Tela esverdeada trocar sem testar q507, q508, q509, fuga imperceptível a 20 megahoms HAHNRAHN 
+ SEMP TV2134 Ligando e desligando, se aumentar o screen vê o vertical fechado Transistor Q606 BR8050, matando os 5V do pino 2 do micro. Pode colocar BC337D Eletrônica Cecé. Brumadinho MG 
+ SK11 tv com quadro reduzido vertical e horizontal Era os capacitores c636,c628,c621,c619 de 1000mf por 16 volts auterados. dei uma geral nos capacitores e parti pro abraço Eletronica Melo-Boa Viagem-Ceará 
+ SEMP 2134(B)SL Imagem fechada nas laterais C635, C636, C309 e conferir também C325 Marcones de araripina PE. 
+ SK11 som em av normal, em rf som rouco distorcido trocar r805 djpituka 
+ SK11 Liga e desliga rapidamente, batendo relé Resistores R309 e R308 alterados e saída vertical queimada IC301 Trocar R309 e R308 (Os dois resistores de 0.33 ohms), trocar IC 301 (UTC78045) Bruno - Minas Fax 
+ SK11 Funciona normal depois ficam com cintura de pilão Q325 Troca q325 Cicero Santos ajudem pra se ajudado 
+ SK11 Liga e desliga intermitente fonte +B 128v Alta O defeito foi causado pelo r633 de 220k que estava medindo 248k ou seja tava alterado Após a troca do mesmo a tv voltou a funcionar ASSISTEC - MANARI-PE 
+ SEMP 2134 Inoperante sem stand bay Ic601 c607 Trocar o ic601 que é o str w6554A eo c607 de 220uf450v aberto e é só correr pro abraço. Sinailson 
+ SEMP 2134(C)SL LIGA COM LINHAS ENTRLAÇADAS, NA PARTE DE BAIXO, PARECENDO SER BOBINA DEFLETORA DIODO D305 ALTERADO TROCAR D305 MARCONES DE ARARIPINA-PE 
+ SEMP 2134 CSL Vertical fechado do meio para baixo. C318 de 1000uf/25v estufado. E por precaução troque tbm o c314 de 220uf/50v. DEUS É FIEL! 
+ SEMP 2134 Depois de um tempo o som da interferência é ficar roco Resistor 225 100k Troca por mesmo Edval 
+ SEMP TV2134 Apenas atualizando a dica anterior do sintoma faltando som tambem é necessário adicionar os jumpers J806,J807 e trocar o R208 por um jumper. o resistor R804 controla a atenuação do sinal de audio pode ser mudado o valor pra ajuste. Edfersom 
+ SK11 Tv tem o saída de audio ok e todas as tensões porem não tem som essa versão da tv tem o CI equalizador de audio analogico IC851 na placa perto do varicap. CI equalizador com defeito, trocar ou se não tiver outro adicionar na placa os seguintes componentes (Q801- BRC1815,R804-470Ω,R739-56KΩ,R740-1KΩ) o jumper J801 e J802. A tv volta normalmente o som com equalizador de audio atuando se for trocado o CI, se for feita a modificação o som volta normal (volume atuando) mas o equalizador não atua mais... (Tec, Edfersom Varjota-CE) Edfersom 
+ SK11 T1 Com som, sem imagem só umas manchas na tela Diodo (D 305) Substituição do diodo D 305 (BA158) Eletrônica Garcia paraíso do to 
+ SK11 Tem som em av e em RF não tem IC801 LA72703 TROCAR EletroClaudioPE 
+ SK11 LIGA, E DESLIGA SOZINHA. C635 (330uf/50V) seco. TROCAR C635. MARCONES DE ARARIPINA-PE. 
+ SK11 com a letra M no canto da tela Entrar no modo serviço clicando Menu no remoto em seguida 1 e 9, e pressionar a tecla 100 no remoto Entrar no modo serviço clicando Menu no remoto em seguida 1 e 9, e pressionar a tecla 100 no remoto dj pituka 
+ SK11 liga e desliga, vai fechando na horizontal e desliga e depois liga novamente, trocar cap c613, 102, ele fica esquentando trocar cap c613, 102,no primario da fonte ao lado no strw dj pituka 
+ TOSHIBA 2134 CSL IMAGEM FECHADA NAS LATERAIS capacitor C635 330uf/50v com capacitãncia baixa trocar C635 MARCONES DE ARARIPINA-PE 
+ SK11 liga com linhas verrtical no topo da telas,como se fosse akele cap de 100uf. trocar resistor r333 ,de 220r dj pituka 
+ SK11 liga e desliga depois de 1 minuto trocar o q805, transistor 8050, coloquei um bd139, e so trocar a base e coletor. pituka 
+ SK11 nao liga, ligo na tomada o led acende, bate o rele como se fosse ligar mais nao liga, soluçao trocar diodo zener zd202 de 5v6 , ao ldo do micronas , falta a tensao de 5v no pino 2 do micronas trocar diodo zener zd202 , 5v6 ao lado do micro pituka 
+ SK11/SK91 LED STANDBY ACESSO MAS NÃO ACEITA COMANDOS (NÃO LIGA) DIODO ZENER ZD202 NA LINHA SDA DA MEMORIA COM FUGA. VALDEMAR ELIAS 
+ TOSHIBA 2134 Nao liga batendo relê trocar o transistor 606 s8050 Leandro Souza 
+ SEMP TOSHIBA TV 2134 (CSL) Liga com vertical fechado + ou - 3 cm. O problema é no próprio ci vertical UTC 78045. Trocar saída vertical UTC 78045 (SUBSTITUTOS: AN5522, TDA8172, TDA9302,STV9302 e LA78040.O mais indicado é o STV9379A Robson TALL TEC Eletronica. 
+ SK11 Não liga , bate o rele 2x e não liga , e o led stanby fica apagado direto, fonte fica com 145v a tensão de 3,3v fica com 3,7v. Trocar micronas ic201 Dj pituka 
+ SK11 O televisor não conseguia partir, a tela ficava totalmente escura mesmo subindo o screen, e ficava constantemente reiniciando todas as tensões de fonte ok, sinais de pulso H, ok. ja os de V faltando. encontrei a tensão de 5V que alimenta o micro com 3,6V. Depois de trocar o CI micro e não mudar o sintoma soltei o jumper 733 e os 5V voltaram no Q606, decidi soltar cada peça ligada a linha de 5V então peguei o CI 801 (decodificador estéreo BTSC) em curto. Substituir IC801. (Tec Edfersom- Varjota-CE) Edfersom 
+ SEMP TV 2134 Depois de alguns minutos, fica desligando e ligando. R608 de 6k8 próximo do str. Rofoso 
+ SK11 Imagem ficando azulada Resistor R506, 15k, alterado Substituição do componente Francisco 
+ SEMP TV2134 Vertical fechando pela metade, parte superior da tela com listras branca Trocar diodo D304 BA158 (pode usar também UF4007), se caso as lista continuarem troque o CI LA78045. Cezzar Augusto 
+ SEMP 2134 CSL LIGA E DESLIGA DIODO D305 NA ALIMENTAÇÃO DO -16V DO VERTICAL. HORA MEDIA NORMAL, HORA NÃO. TROCAR D305 (FR104) MARCONES DE ARARIPINA-PE 
+ SEMP 2134 CSL LIGA E DESLIGA CONSTANTEMENTE. DIODO DO -16V DO VERTICAL D305 ALTERADO. TROCAR D305 MARCONES DE ARARIPINA-PE 
+ SK11 Fonte alta(200v) led piscando intermitente Q 604 Ricardo Silva 
+ TOSHIBA 2934 Vertical fechado com linhas espaçadas na parte inferior dando impressão que é defletora.a tela Q606 com fuga. No emissor tem que ter 5 volts e só tinha 3,9.Trocar TECMIL/MILTON 
+ Sk91 Tv arranca com forte barulho nos autos falantes(parece que a tv estava gemendo)e sem imagem Capacitor 634 de 100 X 160 seco, medi o +B assim que ela arrancava chegava a 130v e caia, fiz logo a troca do capacitor e já acertei de primeira Trocar capacitor 634 pode estar seco ou com os terminais enferrujado ou rompido DTECeletrônica Massapê-ce 
+ SK-91 Liga treme imagem desliga volta a ligar e desliga repetindo isso Capacitor polieste próximo ao str queimado Apenas troquei e a tv ficou ótima Deus abençoe sempre todos Rogério TV 
+ SEMP TOSHIBA TV2934(C)SL LIGA NORMAL, PORÉM COM IMAGEM NA HORIZONTAL ESTICADA COM CARACTERES FORA DA TELA CAPACITOR C301 DE 27nF 630V PARALELO AO D301 ESTAVA EM CURTO TROCAR CAPACITOR C301 Carlos 
+ SK91 Imagem serrilhando por toda a tela Flaybek em curto por dentro. Trocar Paraense 
+ SEMP 2934 Após colocar para funcionar a imagem apresentou quadro pouco reduzido com cintura no meio Trocar Stk630, R325 e R324! (Alguns caso os resistores dão bom no teste tem que trocar) Pronto só correr para abraço 
+ TOSHIBA 2934 Nao liga ,fonte secundaria com todas voltagens baixa Ci horizontal em curto 
+ SK91 Não liga toda apagada sem funcionar nada som a Fonte Boa led apagado D611em curto Subistitui d 611 ela ficou bom novamente Reis eletrônica 
+ SK91 Não liga toda apagada sem funcionar nada som Fonte Boa led apagado D611em curto Subistitui d 611 ela ficou bom novamente Reis eletrônica 
+ SEMP TV2934 nao tem imagem fonte baixa +b136v baixa com 60v vertical em curto Eletronica Arni- L. Leal 
+ SEMP TOSHIBA 2934 Ao ligar tv Fica com Zumbido Alto! Barulho forte como se fosse saída de áudio! O único capacitor condesador que essa tv tem estava alterado (talvez foi de outro conserto de alguém) trocar colocar original! 
+ SEMP 2934 Tv nao liga! sem sinal de nada! Depois de tirar toda solda Fria, capcitor tufado troquei epron, ela ligava e desligava, entrao troquei trafo (Isso depois de trocar varias peças e IC e nao resovel)! Substitui Trafo e Tv ficou Perfeita! 
+ SEMP TV2934 LINHAS DE RETRACO E ARCOIRIS D304-INTERMITENTE TROCAR SEM MEDIR WHATS 18997043159 MARCELO 
+ SK91 queimando transistor horizontal, esquenta ate queimar trocar bobina L301ao lado do flyback. dj pituka 
+ SEMP TV2934BSL nao entra canal em rf , tds tensoes no varicap presente trocar r106 de 10k ao lado do varicap dj pituka 
+ SK91 TV com a imagem toda verde Q503 Retirar da placa RGB o trânsistor Q503 a imagem vai ficar normal. Sinailson furtado 
+ SK91 queimando saida H C 307 7n6 aberto EletroFenix 
+ SK91 Liga com a imagem fraca como si foce o tubo de imagem. Troquei o tubo mais não era o tubo de imagem! L301 Trocar sem medir a bobina L301 790uH e é só correr pro abraço! Sinailson furtado 
+ SK91 Liga com a imagem fraca como si foce o tubo de imagem. Troquei o tubo mais não era o tubo de imagem! L301 Trocar sem medir a bobina L301 e é só correr pro abraço! Sinailson furtado 
+ SK91 Fonte secundaria alta e desarma Trocar o diodo D613 e pronto funcionou normal Pedro Bezerra de Almeida 
+ SK91 Vertical fechado do meio para cima com uma listra clara no meio da tela e a imagem um pouco escura do meio para baixo Causa diodo D304 não adianta medi tem que troca Troquei o mesmo e a tv volto ao normal ASSISTEC 
+ SK91 liga normal com linha na parte superior da tela, linhas vertical trocar resistor r333 .220r, ao lado do ci vertical DJ PITUKA 
+ SK91 nao liga, bate so o rele tv bate o rele,, led fica apagada -trazesto q604 -trazesto q606 capacitor c311 glaydysom rio branco ac 
+ SK91 liga com uma faixa preta nas laterais do horizontal, efeito tarça almofada trocar resistor r325 .56k DJ PITUKA 
+ SK-91 Fonte baixa 50V Tl431 alterado Imagem 
+ SK91 TV liga normal com zumbido na fonte como se fosse vazamento de flaybek, as vezes alto as vezes baixo C633 não tá em curto está rachado sem capacitancia Substituir C633 561k X 2kv TIÃO SERRA 
+ SEMP TV2934BSL Fonte alta, bate o relé Trocar R D614 Zener 30v AGNALDO 
+ SEMP 2934 TV acendia led batia relé e pisca o led de 20 em 20 segundos Resistir 270 aberto R632 270 aberto Igor augusto 
+ SK91 CONTROLE REMOTO NAO FUCIONA. TROCAR DIODO ZENER ZD200,5V1 DO LADO DO MICRONAS. DJ PITUKA 
+ SK91 Oscilando mais não liga com um chiado baixo parecendo ser o trânsito horizontal .. Defeito era o D612 alterado, só troca e correr pro abraço César 
+ SEMP TV2934 Imagem com retraços e flyback chiando C311 47x200 esgotado Só trocar Paial.eletros 
+ SK91 nao obedeçe controle e teclado marrento Chaves do volume com fuga substituir GDP2 
+ TOSHIBA 2934 Não apresenta imagem tubo com defeito troca o tubo Cicero 
+ SEMP 2934 Linhas de retraço em toda a tela som normal Processador com defeito Trocar o processador Eletronica Carlos Viseu-PA 
+ SK91 Não liga, apenas uns estulros baixinhos nos auto falantes. CAP 607 fica carregado! Cap. C634 100uf/200v, C311 47uf/200v esgotados, trocar os dois. Conferir o Q604. Trocar os Capacitores e Conferir o Q604 que no meu caso estava em curto base e coletor. SAMU LassanceMG 
+ SK91 Efeito almofada e demora a liga, rele bate. Diodo zener ZD210 5v1 aberto. Obs: Trabalha no cantinho da placa próximo a marca do chassis. Este diodo estabiliza a tensão de 5v1 do pino 22 do micro. Após a troca a tv funcionou normalmente George Pontes 
+ SK91 nao liga, so carrega o capacitor de entrada trocar diodo zener zd601 33v DJ PITUKA 
+ SEMP TV2934 funciona normal em AV, mais em RF faz um barulho estranho L101 e C106 os dois com oxidação nos terminais substituir por outro e correr pra outra Antonio Carlos (Eletrônica Renascer) 
+ SK91 Imagem embaçada, efeito tipo arco-iris. A TV ligava e desligava, causa Q606 que estava ruim, após a troca a imagem abriu porém embaçada com efeito arco-iris, a solução foi a troca do IC201. IC201 - TDA12165PS Rodrigues 
+ SK91 nao liga verificando as tensoe, vi q a tensao do 5v, tava baixa, retirando o micronas voltou, soluçao trocar o micronas DJ PITUKA 
+ SK11 nao liga, bate so o rele. trocar R248, 3K3, DO LADO DO MICRONAS DJ PITUKA 
+ SK11 imagem efeito tarça e nao pega o controle remoto trocar r325 56k e trocar o sensor do remoto DJ PITUKA 
+ SEMP 2934 C SL nem acende led apagado total R602 troca sem medo Deus seja louvado Rafael 
+ SEMP TV2934 Inoperante ledy de stand bay não liga e o capacitor da fonte super carregando! R602 Trocar o r602 de 68k Sinailson furtado 
+ SEMP TV2934 Não liga fica só com uma zoada na fonte como se fosse a saida horizontal que tivesse pifada D302 Trocar o d302 e pronto a tv vai ficar funcionando normal. Deus seja louvado! Sinailson furtado 
+ SEMP TV2934 Liga normal mais despois de alguns minutos a tv começa a feixar as laterais e a TV desliga! Q606, Trocar o q606 br8050 colocar no lugar desse transistor o bc547 ao contrário. Deus seja louvado! Sinailson furtado 
+ SEMP TV2934 A TV liga mais não auxila o relé arma e a TV morre. Tubo, r304 Trocar o tubo de imagem e o R304 de 1k. Deus seja louvado! Sinailson furtado 
+ SEMP TV2934 Ligando forçada C311,r322 Trocar o C311 de 47µF/250v e o R322 de 22KΩ Sinailson furtado 
+ SEMP TV2934 Liga com a tela cintura de pilão C304,c301,q302,c311 Trocar 0 c304 a tv vai ligar normal mais com a tela expandida trocar é so trocar o c301 a tela vai ficar normal. Mais depois de alguns minutos fucionando a imagem fica retrocedendo e a tela fica expandida é só trocar o q302. Deus seja louvado Sinailson furtado 
+ SEMP TV2934 Pifando a saida horizontal L301,c305,c06 Trocar a bobina l301si a bobina tiver aquecendo muito é só trocar o c305 do c306! O valor da bobina l301 é 790uh. Deus seja louvado Sinailson furtado 
+ SK91 Fonte não arma, capacitor fica carregado. ZD601 em curto, fica no canto do dissipador do Strw6554 Adrian Chapadão do Céu Goiás 
+ SEMP TV2934CSL liga fuciona com barulho zumbido como se fosse no flyback trocar cap eletrolitico do +b ,c311 e c634 ,47x250v e 100x200v DJ PITUKA 
+ SEMP TV2934CSL liga e aparece a imagem reduzida e desliga, a fonte com 18v, normal 130v trocar q601, TL431. DJ PITUKA 
+ SEMP TV2934 TV não liga tensões baixas, faz só um barulho nos alto-falantes Q604=2SA1013 substituir por outro e correr pra outra Antonio Carlos (Eletrônica Renascer) 
+ TOSHIBA TV2934 Efeito taça colorida, fica como um cone colorido com bordas pretas Diodo com fuga de 200 Megaohms Trocar sem testa D306, D305, caso não solucionar, efetuar troca da saída Vertical IC301 LA78141 HAHNRAHN 
+ SEMP 2134 SL SK-11 Efeito taça ou barril C310 47x50 Trocar direto sem testar 
+ TOSHIBA TV 2134 (B)SL SK-11 strw 6554a em curto antes da troca do mesmo,strw6554a verificar capacitor da fonte 330x400v o mesmo esta vazio.elee o calsador da queima do strw 6554a e quima tambem a ponte retificadora trocar capacitor da fonte primaria, e ponte retificadora. ELETRONICA SALES NATAL.RN 
+ SEMP TV 2134 (B)SL SK-11 QUANDO LIGA SOM NORMAL, APOS 3~~5 MINUTOS COMEÇA UM CHIADO NO SOM, E VAI BAIXANDO O SOM E ACABA O SOM. DEFEITO: R225=100k ABERTA TROCOU TÁ PRONTO! TV CENTER-FRANÇA-MACAIBA-RN 
+ SEMP TV-2134(B)SL SK-11 tela esverdeada com linhas de retaço c-329 esgotado e r-525 aberto trocar e parti para outra ok.. ADRIANO ELETRÔNICA 
+ SEMP TV2134(B)SL-SK-11 vertical fechado com imagem na parte inferior e com listras na parte d cima tipo taça D 304 troca e partir pra o abraço. Eletronica Visao. João Hamilton 
+ SEMP TOSHIBA TV2134(B)SL SK-11 vem fonte, um pouco alta(140v) e corta c634 47/160v aberto trocar, pode ser 100mf por 250v ou mais jasvan souza 
+ SK11 Não tinha som em RF apenas no video C718 de 10/16v Troca o mesmo c718 de 10/16v Rogério Tv 
+ SEMP 2134 (B) SL SK11 vertical fechado linha superior CI vertical queimado capacitor 1000uf 25v seco Diodo 306 em curto resistor 308 aberto substituir os mesmo e partir para outra Mundo das Peças 
+ SK11 Tv sem audio total No meu caso era o resistor R404 que leva 4.8v para mute. Trocar o mesmo por outro ok Adriano SB 
+ SEMP TV2134 B SL SK11 SEM FOCO, IMAGEM EMBAÇADA. AJUSTE DE FOCO NÃO ATUA DIREITO C309 SECO INTERTEC ELETRÔNICA 
+ SEMP TOSHIBA TV 2134 (B) SL SK11 Fica armando proteção e a fonte vem um pouco alta de 140v a 150v C634 (+B da fonte de 133v) - estava totalmente seco trocar sem medir e receber o trofeu Paulo Soares 
+ SK11 VARICAP CHINES (TDQ-6FT/13F9S), NAO SE ENCONTRA EM NENHUMA LOJA PARA REPOSIÇÃO TROCAR PELO VARICAP TECC1040PG38P(SAMSUNG)QUE É USADO NA PHILCO TP1454 , FUNCIONA PERFEITO. OBS.: TECC1040PG32T FOI TESTADO TBM MAS NAO PEGOU ALGUNS CANAIS DE VHF. TROCAR E PARTIR PARA O ABRAÇO !!! EDGAR THIZ 
+ SEMP TV2134 (B) SL SK11 Queimando imediatamente o C.I 601 (STRw6554A) CAPACITOR C607 de 220mF/450V antonio dos santos 
+ SEMP TV2134 (B) SL SK11 Com faixa preta nos cantos direito e esquerdo,distorção na imagem e esticamento da imagem no sentido vertical Q302 (STK630) 
+ SEMP TV2134 B SK11 assim que liga a tv vai fechando o horizontal q 606 troca o mesmo por um bd 135 Tele sat eletronica 
+ TOSHIBA TV 2134 SK11 imagem escura com manchas +b do vertical baixo d306 aberto trocar sem testar antonio nobrega(patos pb) 
+ SEMP TV 2934(B) SL SK-91 Letra M na tela Letra M aparece na tela Entrar no modo de serviço ,Menu 1 e 9 do controle remoto depois apertar a tecla 100. usando o controle da linha lumina. Paulo Cesar Bevolo 
+ SEMP TV 2934 (B) SL SK-91 Vertical fechado e linha com dois dedos fechados de cada lado. Alimentação de 5 Volts dando 3 Volts Troca do transistor Q606, coloquei BD135 com um dissipador, fica próximo a saída de som. fabiusmax 
+ SEMP TV2934[B]SL SK-91 não liga led da uma piscada e apaga c634 100ufx200v estufado subist. por 150uf x350v c635 330ufx50v estufado subist. por 470ufx63v subistituir c634 c635 toninho da eletronica 
+ SEMP 2934 (B) SL SK-91 Vertical fechado Diodo (D-306) aberto Trocar o mesmo por um SK4F1/10 Ademar Videira sc 
+ TOSHIBA TV2934(B)SL SK-91 Com vertical fechado e com linhas grossas abaixo da linha vertical e reduzindo o quadro Q606 (MUITO CRÍTICIO) DEFICIENTE REDUZINDO A FONTE DE 5V DO MICRO. COLOCAR BC337 OBSERVANDO OS TERMINAIS QUE SÃO INVERTIDOS COM RELAÇÃO AO ORIGINAL. eletronicarotary 
+ SK-91 ARMANDO PROTEÇÃO LIGANDO E DESLIGANDO DIODO D306 TROCAR SEM MEDIR CLM ELETRONICA 
+ SEMP TV2934 (B)SL SK91 Efeito taça C304 - 634N/400V aberto, esquenta e até pode queimar, como queimou Q302 - STK630 Trocar C304 - 634N/400V, Q302 - STK630 Claudio Brito Surubim PE 
+ SEMP TOSHIBA 2934(B)SL SK91 liga e desliga ao mesmo tempo essa tv ao ligar se desliga ao mesmo nem da tempo de acender o tubo aumentando o screen da pra ver a tela com mancha como se fosse o tubo no meu caso era o vertical naelson silva pe gravata 
+ SEMP TV 2934 (B) SL SK91 vertical normal só na parte de baixo, a parte de cima com forma de taça, parece defletora mal. Sem tensão no pino 6 do saida vertical Diodo que vai do pino 3 ao pino 6 aberto, fica ao lado do ci. jasvan souza 
+ SEMP TOSHIBA TV2934 (B)SL SK91 Funcionando com barulho C311 47uf X 200v Trocar Elias2305 
+ TOSHIBA TV2934 SK91 modo de serviço modo de serviço presione menu e depois aperte tecla 1 e depis tecla 9 robson eletronica layser 

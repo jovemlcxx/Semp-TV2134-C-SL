@@ -1,0 +1,32 @@
+ (resolvido) tv Toshiba tv2134 (b) sl sk-11 nao liga 
+ Full Version: (resolvido) tv Toshiba tv2134 (b) sl sk-11 nao liga 
+ Forum TecTonny   Dicas de aparelhos resolvidos 
+ (resolvido) tv Toshiba tv2134 (b) sl sk-11 nao liga By: gilbert81 Date: 09 Dez 2013, 16:31
+ Modelo:     tv2134 (b) sl sk-11 
+ Boa tarde, estou com essa tv com o seguinte defeito:Liga na rede, bate o rele logo em sugida bate de novo como quando aciona a magnatizadora e fica nisso, nao acende led. Nos 180v esta com 130, +B= a 130v, coletor do tsh 100v no micro tem os 3,3v e os 5v. O q troquei foram os capacitores c634,635,636 e o q606 e ate o fly, fora isso nao consegui encontrar mais nada. Gostaria mto da ajuda de vcs. Grato. 
+gilberto Re: tv Toshiba tv2134 (b) sl sk-11 nao liga By: Sergio Freitas Date: 09 Dez 2013, 17:19
+Pino 2 do fly está com quantos volts?
+Coletor do driver está com quantos volts?
+Quando da a partida o coletor fica com quanto? Re: tv Toshiba tv2134 (b) sl sk-11 nao liga By: gilbert81 Date: 09 Dez 2013, 17:47
+ Citação de: Sergio Freitas online 09 Dez 2013, 17:19 
+Quando da a partida o coletor fica com quanto?
+ como havia dito o pino 2 +B esta com 130v
+coletor co 100v aproximadamente e nao oscila
+Obrigado Re: tv Toshiba tv2134 (b) sl sk-11 nao liga By: Sergio Freitas Date: 09 Dez 2013, 19:21
+Vou aguardar você dizer qual tensão está coletor do driver.
+ Re: tv Toshiba tv2134 (b) sl sk-11 nao liga By: gilbert81 Date: 09 Dez 2013, 19:29
+ Citação de: Sergio Freitas online 09 Dez 2013, 19:21 
+ coletor do drive com 160v Re: tv Toshiba tv2134 (b) sl sk-11 nao liga By: marcosbr Date: 09 Dez 2013, 22:41
+ +B com 130V, coletor do saída com 100V, e o driver esta com 160V...
+ Esta brincando ou não sabe qual é o driver???? Re: tv Toshiba tv2134 (b) sl sk-11 nao liga By: marcosbr Date: 09 Dez 2013, 22:43
+ Outra coisa... Use o controle e veja se acende o led. Re: tv Toshiba tv2134 (b) sl sk-11 nao liga By: gilbert81 Date: 10 Dez 2013, 13:34
+ Citação de: marcosbr online 09 Dez 2013, 22:41 
+ +B com 130V, coletor do saída com 100V, e o driver esta com 160V...
+ Esta brincando ou não sabe qual é o driver????
+ Opa desculpa a o erro gramatical, o coletor h esta com 16v. sobro um zero rsss Re: tv Toshiba tv2134 (b) sl sk-11 nao liga By: gilbert81 Date: 10 Dez 2013, 13:41
+ Citação de: gilbert81 online 10 Dez 2013, 13:34 
+Opa desculpa a o erro gramatical, o coletor h esta com 16v. sobro um zero rsss
+ ja havia feito este teste, nao muda nada. Vlw Re: tv Toshiba tv2134 (b) sl sk-11 nao liga By: Sergio Freitas Date: 10 Dez 2013, 16:39
+baixe o esquema, essas tensões estão erradas. Re: tv Toshiba tv2134 (b) sl sk-11 nao liga By: gilbert81 Date: 13 Dez 2013, 18:40
+Defeito resolvido,O fly back ja havia trocado, mas como as tencoes nao batiam com o do esquema, resolvi  tirar o fly original de outro chasis, entao a fonte estabilizou, gerou alta mas em seguida cortava, entao  o 3v3 no micro caia para 0,8v e era o  Q602 (c1815), esse nao adianta medir, tem q trocar.Foi trocar o q602 e blz.
+ SMF Archive by  Free Forum Hosting 

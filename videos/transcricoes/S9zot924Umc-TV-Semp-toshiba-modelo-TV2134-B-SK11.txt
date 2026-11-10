@@ -1,0 +1,31 @@
+Título: TV Semp toshiba modelo TV2134(B) SK11
+Canal: jc eletronica
+URL: https://www.youtube.com/watch?v=S9zot924Umc
+Duração: 333s
+--- Descrição ---
+Neste vídeo mostro como resolver o defeito de uma TV Semp que apresentava o seguinte defeito: ao liga-la acendia o LED e depois apagava, apresentava chiado mas sem alta tenção e não chegava a acender o tubo de imagem e nem tinha som.Se você gostou nao deixe de deixar o seu comentario e assistir meus outros vídeos. http://youtu.be/S9zot924Umc
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+Olá pessoal estamos aqui mais uma vez para mostrar essa TV LG e vou mostrar modelo dela para vocês ela é a TV
+TV 2134 SL fk11 é uma TV sempre sempre e ela estava chegou aqui ela partia mas ela não continuava ligado ela
+desligar e não tinha é alta tensão então nós passamos a pesquisar encontramos esse capacitor trocamos esse
+capacito que é 47 fica parado por 170 volts dela e ele está seco vou mostrar para vocês como ele está se
+comportando porque o capacitor ele ele tem que fazer o movimento no ponteiro do teste vou colocar ponteira do
+teste ou na escada de x 10 por um teste vou mostrar para vocês como o capacitor está se comportando nas duas
+os dois terminais do capacitor e o ponteiro do teste ele tá parado e teria que vir e voltar devagar nós vamos
+falar um pouco sobre manutenção eletrônica porque é o seguinte muitas vezes nós fazendo esses vídeos né às
+vezes algum técnico Pode ser que algum técnico ele ele aproveita esses vídeos mas muitas vezes o técnico coisa
+assim que o técnico já sabe só que tem outras pessoas também que gostam de ver esse vídeo de repente tem
+alguma televisão com algum defeito é assim como eu às vezes gosto de pesquisar então muitas vezes tem defeito
+como solda fria e quando nós pegamos um aparelho a primeira coisa que nós devemos fazer é a inspeção a limpeza
+e a inspeção visual do aparelho segundo lugar é que nós partimos para medida de tensões e depois testes e
+troca de componentes ela é muito apresentada no aparelho porque o aparelho quando tá com acertividade com
+certo tempo de uso ele começa a solda começa a ficar com 30 e a pessoa então deve usar uma lupa e Observar se
+essa foto está com trinca fazer a ressaldagem então do aparelho muitas vezes o defeito só Só precisa da
+ressoaldade é solda fria chamada solda fria então voltando para falar sobre televisor Então já troquei o
+capacitor e vou mostrar para vocês então como ficou vou dar uma pausa depois continua mas é fraca mesmo da TV
+foi trocar capa normalmente 634 que alimenta então o horizontal circuito horizontal foi trocada TV é
+importante observar porque muitas vezes [Música] isso faz com que a TV não funciona porque um detalhe quando
+nós pegamos um aparelho a primeira coisa primeiras tensões pois limpeza a expressão visual mas devemos medir
+as tensões principalmente a questão da fonte não tiver funcionando não vai funcionar se você gostou dê um
+legal
+

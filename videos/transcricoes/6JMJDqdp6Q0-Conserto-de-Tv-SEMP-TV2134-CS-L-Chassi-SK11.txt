@@ -1,0 +1,25 @@
+Título: Conserto de Tv SEMP TV2134 CS L Chassi SK11
+Canal: MARSAPE BR
+URL: https://www.youtube.com/watch?v=6JMJDqdp6Q0
+Duração: 213s
+--- Descrição ---
+Aqui ensino como foi fácil consertar uma tv da marca Semp, que ligava e desligava.A solução foi a  troca de  alguns capacitores com valores alterados e um transistor bipolar do tipo npn.
+Quem gostou,clique em gostei e divulgue para os seus amigos!
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+alô galera vou explicar para vocês sobre um conceito de uma televisão que me chegou aqui na minha bancada que
+ela gerava e cortava ela funcionava E depois ligava é sempre É assim É sempre tela plana modelo 2134 CSL
+entendeu o chassi dela é o sk11 ok bem gente que que acontece é a primeira coisa que eu fui o vídeo e depois
+não desligava imediato em cima do capacitor de filtro da fonte o grandão e aí atenção que Deus deu 238 então
+atenção da fonte da Beleza era o capacitor 634 tava pouca pasta troquei ela funcionou Será que Ficou
+desligando desligando de novo aí vem aqui ó um trânsitozinho aqui que eu botei 547 é o quê seis sempre junta
+de gravação aqui da fonte para vocês verem quantos eu vou te dar o capacito da fonte [Aplausos] 120 volts ó o
+Terra é o Terra do tubo tá gente negativo da terra do tubo eu tô trazendo ligada tô medindo atenção em cima da
+fonte 119 volts 120 praticamente 120 volts aí vamos medir a tensão de 46 Tá ok atenção de 12 volts o capacitor
+de 12 volts vamos medir não tem não só tem um desenho de 12 volts 12 volts 12.600 a imagem completa entendeu
+capacitor de filtro da fonte agora deixa eu mostrar as peças aqui porque tem problema sim gente as peças que
+eu troquei foi esse capacitou aqui vocês 634 De quantas em 60 o outro capacitor de 60 é o c311 né Encontrei
+também esse trânsito aqui com fuga é o q606 que normalmente ele é 8047 com o lado virado o emissor é para cá
+Claro que não era o outro só que a posição dele não é igual a posição que era o outro né Essa aqui é sempre
+modelo 2034 e Quem gostou pode querer o que para mim aquele joinha muito bacana E compartilhe com seus amigos
+a gente se vê no próximo vídeo até mais Um forte abraço
+

@@ -1,0 +1,106 @@
+Título: tv semp 2134  skýw lpd sk11 acende o led  não  liga.
+Canal: Eletrônica Gomes
+URL: https://www.youtube.com/watch?v=wKN8ASUJGXo
+Duração: 1080s
+--- Descrição ---
+
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+Oi bom dia boa tarde ou Boa noite pessoal Olha só outra outra ter mesinha da sempre acabou de chegar aqui ó
+outros linha também é a semana das sempre quis vir já que era do vídeo anterior tá aqui ó ainda tá aqui o
+cliente correio mas não veio pegar ainda EAD do vídeo Antes desse aqui cliente pegou ontem pela manhã vou
+dizer também aqui é de ordem do vídeo anterior isso aqui acabou de chegar ainda há pouco e a cada um sintoma
+diferentes aqui ó vai colocar o clube de uma tomada aqui ó apertar a tecla do pau aqui ledzinho ok e a
+televisão no arco E aí você vai de novo acende apaga e não abre eu vou segurar aqui vou apertar a tecla canal
+que vão servir como o da uma piscada na terra não sei se vai dar agora viu eu apertei entendeu apertar a tecla
+canal E aí de novo [Música] E aí e não dá mais nada nem pisca aquela da sua renda no pescoço então abre ela
+aqui que pode ser o mesmo problema da e da outra passada aí ou pode ser outra coisa pela tá com os problemas
+são parecidas agora as peça lá dentro que vão ser diferente com certeza ou pode ser mesmo a gente vai abrir aí
+só essa conferência aqui vamos conferir isso agora beleza vou passar o modelo para vocês aqui ó o modelo dela
+é esse aqui ó cheguei a pouco aí ó modelo TV sky1 wlp de TV 2134 o da não tinha visto esse tipo de modelo aqui
+não ainda não tinha chegado aqui na minha bancadinha não o consumo 65 anos Gabriela aí o que que tá
+acontecendo beleza é avó em abril o aparelho ele não tá muito sujo não mas tá bastante empoeirado aqui e aqui
+ó eu já vi aqui eu já vi aqui ó tô dois capacitor Zinho aqui no vertical estufado já estão danificados
+capacitor que eu acabo showzinho aqui ó ele é o c318 c319 de mil por mil micro por 25 rosto visualmente Já
+percebi que eles tão ruim aí tão restante da placa e te mostrar uma coisinha vou fazer a limpeza agora o Gui
+pode aqui uma virada na placa aqui ó vamo pegar a referência do capacitor e já vi né muita falta feia eu vou
+trocar para ir atrás desses capacitor Zinho aí ó se você 319 você 1318 a fazer a resolve Como sempre faço na
+placa todinha vim para menor elefante aqui passando pelo flyback aqui no círculo horizontal ó e vou ligar o
+aparelho vamos ver se ele vai ligar se ele não ligar que vai procurar o defeito a gente vai medir aqui ó aqui
+no que do q606 E que você seja do nada para fazer esse tipo de problema da estive defeito aqui ó q606 aqui nos
+terminal Dele quem saiu da filha também pode ver aí ó tá Coroado Zinho aí o telefone tá uma lástima Mas ele
+tem sal da filha dela que eu ia deixar aqui então eu vou trocar Pastor fazer uma só de ligar e vamos ver se
+ela se não ligar vamos procurar o defeito Beleza daqui a pouco eu volto é só que eu já queria que os capacitor
+Zinho aqui ó o desenho 1919 c3018 eles estão aqui ó ó Oi bom dia o Oi bom dia de 1000 microfab sonho micro
+Faro o 25 Hold On o microcrédito 25 Roots eu e os outros novo aqui então aqui ó 1025 também eu vou colocar
+eles lá agora é visivelmente só os que estão danificadas Então vou colocar o novo lá fazer a resolve como eu
+falei para você quer fazer e ligar o aparelho se ligar bem senão ele enche o WhatsApp defeito beleza e se
+ligar normalzinho e tudo que vai conferir todas as tensões para estão todos corretos se tiver todos corretos
+participar abraço senão que vai colocar o d-fine Beleza agora logo só que o chefe a resposta da placa já
+coloquei os capacitores em dia o seu 319c 318 já estão aqui saudade assim já fiz a resolda na placa todinho
+toda toda toda minha até puro mico tudo fala para evitar um possível retorno que ele nos que eu faço eu vou
+tirar o defeito negócio de soldar placa tudinha e foi pensa coloca festa e passa a Repsol lá na praça todinha
+e aqui nesse Nescau também já refiz tudo bom então as peças que tá aparentemente danificado era aquela lá eu
+dois capacitor Zinho e agora nós vamos ligar o aparelho a e conferir as medições o tem a Maria do tuba último
+tá aqui na escala de tc200 outros a e agora vou ligar e vamos medir mais baby e as outras questões aí vai está
+tudo normal acabei de falar umas palavra agora deu uma lavada continue na placa não na placa aqui como na
+plaquinha dotto e me conte uma ligar agora o aparelho ver E aí E aí ó o Aurélio entendeu pagou televisão na
+bobina defletora já trabalhou se até lá vou ver se eu acender o acendeu e agora vamos na medida demais B
+primeira missão que eu faço aqui no mais ver a medição pino dono do playback e é o mais B e 114 tem que ter
+que é normal ao conectar dor na fonte lá a 122 mais de alta que a 114 ó e aqui no YouTube Tem que dar 180 e
+três tá aqui ó o Olá dando há 186 a 180 Então se o mais bebê tá dando 122 Lógico que as outras pessoas todas
+vão tá alto só essas tensões aqui mais baixa de 12 duas pessoas de Deus que tá dando normal aqui e aqui ó eu
+coloquei a de 46 fazendo 47 aqui embaixo Aqui é a de 12 tá dando 12 mais baixo aqui ó e mais 12 e vocês são
+dois dos que nada têm Me responde aí ó vou de 12 ela te conhecer essa é a fonte da alta e aqui ó eu vou dar
+uma olhada conferida bem aqui esse resistor vir aqui o Johnny tá porque tá é o 633 que ela é danada para
+alterar alterar subir ar ou mais vezes por dia onde então vou fazer isso agora vê se ela tá alterada ela deu
+uma medida meio estranho aí eu prefiro eu vou tirar uma pedrinha dela e ninguém para ver como é que tá
+desligar o aparelho aqui eu vou dar uma perninha do 633 de 220k E aí 633 de 220 carros ver quanto é que ela tá
+dando beleza fazer isso já volto que voltando aqui para Terezinha aqui na placa aqui hoje já eu bloquei
+conferir essa resistência vim aqui eu falei para você esperar um pouquinho e ar 633 ela tava boa tava não tá
+boa amiguinho certinho 220k meio-dia aqui o povo de ouro são Todos normais que ela tá com fonte altos eu já
+tava com 122 Então desse aqui testei aqui o o que 604 tá bom o site aqui aí resolvi trocar o que 601 que eu
+ter 431 a z que é E aí troquei junto com ele com TL eu já troquei logo para compradores são responsáveis por
+curar fonte do controle da fonte eu troquei e nada não resolveu meter outro novo resultado aí aqui em cima
+desse desse pdro e se verifica é uma resistência regulagem da fonte de um tricozinho ele que falou regular
+regular da fonte também então o que eu fiz liguei o aparelho Liguei a TV e coloquei o último no mais B lá no
+de ouro sim decidiu dormir aqui ó no d614 só por cima da placa né e eu comecei a pegar uma chavinha de fenda
+comecei regular aumentando mais a resistência dele que ele variado né regulando e olhando um mosquito aí foi
+baixando conseguir foi baixado e eu baixei ela conseguir regular aqui neste pode vim que ele é procurar
+regulagem em paralelo com esse aqui ó com você pode desempenho resistência [Música] dir-618 e quatro cai no
+esquema é pa tocar pa 3:53 ela fica paralela aqui um pózinho suportar mesmo a regulagem aí eu pego leite e
+consegui baixar a tensão lá no time titular para 114 voltou normal e quando vai poder sair testar nas outras
+pessoas estavam todas as altas de vertical dia de sair daqui você já tava tudo alto e falar atenção de
+vertical normalizou que é menos 16 mais 16 normalizou aqui eu já mostrar para vocês e atenção aqui de 180 a
+com 186 ela baixou para 173 Me responde agora normal se aqui não tá dando 180 Vamos para o capacitor dentro do
+traje aqui ó da linha de 180 que ele é o c601 e se sente viajar ou 329 [Música] testei atenção vai papo com
+todas normais batendo certinho e eu toquei aqui na por cima da placa e eu passei o dedo então não tem nada
+esquentando me resistor em conta do comprador no ML conferir as voltagens tomar mas vou mostrar para você aqui
+agora vou ligar sim encontrei na fonte a fonte esse aqui como alterar o comercial esse vídeo Hoje a Noite Não
+deu para mim ver não a situação desse capacitor Zinho aqui olha ele achar ele é o chefe aqui na ponte ele é o
+613 aqui ó e fica ligado aí no final do do STF da ponte aqui ó ó ficou ligar aqui ó que os terminais em dele
+aqui e aqui ó e ele é um capacitor Zinho de colher 15 e 21 coca uma coca magoou falando para você ele é 102 ou
+2kv ele é um micro ou Esse é um micro lá na frente dois o meu número mano é o do meu rosto está rachado eu
+coloquei já outro lá o mesmo mim toca a cobrar que eu amarelinho entulho e agora eu vou ligar a TV aqui e
+fazer essas medidas medir aqui mostrando para você vou ligar aqui na cromada o jogo já dizem acendeu e não
+briga aqui em controle liguei a televisão já ligou lá a e agora vou mostrar as pensões para vocês como tava em
+122 depois da regulagem do tripoide aqui do rc-701 com aquele pozinho e vender pino do mar B do playback mais
+então marido dela Olá 114 e a Maria aqui mostrar para você aqui no topo tem que 180 174,5 aqui as tensões
+vertical vou medir aqui no diodo de 305 já tensão negativo Olá - 16 Tá certo atenção positivo do de 306 o Alan
+e mais 16 positivo beleza aqui na as fontes mais baixo aqui 46 volts aqui ó eu quero de 613 Ah tá com 44 tá
+bom no de 612 você a tensão de 12 volts há 11 a Hinode 610 a 12 volts 1190 e diante da 12 vai tá aí aí agora
+deu 12 e minha mão balança aqui ele lá então acho que é só normalizou a terra essa atenção aqui que essa
+atenção aqui que sai do transporte Zinho aqui ó vou vender ela é para dar dois e olhando esquema ali é dois e
+meio e vai lá para r633 Então vou colocar aqui no tempo pode dizer aqui ó o Mack vai lá para r63 lá tá dando
+dois quase 2:30 dois alguma coisa vale meio a mesma atenção que tá chegando aqui no é mas 633 E desfaz todas
+essas medidas aí essa parte da s633 para cá você pode eu tenho 400 81 é ele quem faz o controle da fonte e
+como se vira aí normalizou a fonte mas só que essa televisão ela tá cheio de problema no problema era só
+faltava inoperante G1 a normalizar pode coloquei para ligar aquele aspecto civil e ela ligou normalizei a
+fonte agora mas olha só do jeito o jeito aí mais tarde aí mais tarde escura é muito vermelha a bem vermelha é
+mágico e os caracteres são da principalmente na barra de volume é é São João vivo apertar aqui e a só volume
+vocês vão ver com a barra de se ver tá preta ó o time Conseguiu ver aí eu tava pensando aqui amanhã de novo
+apaixonar mais preto preto tá na pele com tudo escuro então aí já é outro problema bom então vou fazer a
+continuação desse vídeo eu coloquei para funcionar agora vou finalizar o vídeo por aqui que até levantar de
+tudo é mas agora eu vou tô tentando analisar essas cores e ver se consigo levar os caracteres Canal Verde sim
+só bom então Assiste aí a segunda parte do vídeo A beleza não várias cores Uber Por enquanto é só isso aqui eu
+já tentaram realizar cor e aguardem a continuação do vídeo
+

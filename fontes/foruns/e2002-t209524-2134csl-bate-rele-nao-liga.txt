@@ -1,0 +1,110 @@
+ Tópicos semelhantes
+ »  [RESOLVIDO]tv toshiba 2134(b) sl led acende rele bate mais nao liga 
+ »  TV SEMP 1454[PS] L BATE RELÉ MAS NÃO LIGA,LED ACESO 
+ Anuncios
+ Nenhum anúncio
+ [Resolvido]Tv Semp Toshiba 2134csl bate relé mas não liga 
+ 4 participantes
+ Fórum Eletrônica2002 (Brasil) --> ::  DEFEITOS RESOLVIDOS 
+ Página 1 de 1 
+  por Claudinho@10 Qui 29 Jul 2021, 01:15
+ Olá amigos!
+Tô com uma tv aqui de modelo Semp Toshiba 2134csl apresentando o se seguinte defeito: quando ligo na tomada a tv bate relé mas n liga, assim se repetindo o processo a cada 10 segundos. A mesma tem as tensões no secundário, porém os 12 volts do relé apenas com 9.45 e que tenta partir todas as tensões vão a 0v. Já foi trocado Q606, foto acoplador, c634 e os demais da fonte. Se alguém puder me ajudar agradeço.
+ Claudinho@10 Participante
+ Gosto Não gosto 
+ Re: [Resolvido]Tv Semp Toshiba 2134csl bate relé mas não liga 
+  por  MARIO Y. SEGAWA Qui 29 Jul 2021, 15:31
+ Já soltou alimentação(+B) principal que vai no pino n. 2 do fly pra ver se a tensão +B estabiliza???
+ MARIO Y. SEGAWA Técnico
+ Data de inscrição : 21/04/2011
+ Claudinho@10 gosta desta mensagem
+ Gosto 1 Não gosto 
+  por Conteúdo patrocinado 
+ Conteúdo patrocinado 
+  por Claudinho@10 Qui 29 Jul 2021, 18:16
+ MARIO Y. SEGAWA escreveu: Já soltou alimentação(+B) principal que vai no pino n. 2 do fly pra ver se a tensão +B estabiliza???
+ já sim amigo, não alterou em nada.
+  por  Paranista Sex 30 Jul 2021, 11:33
+ Claudinho@10 escreveu: Olá amigos!
+ Conferiu o s filtros dessa fonte? isso é sintoma de capacitor ruim
+_________________
+Tenho osciloscópio
+ A receita de vida melhor será sempre melhorar-nos, através da melhora que venhamos a realizar para os outros. 
+ Paranista Moderador do fórum
+ Data de inscrição : 04/04/2012
+  por Claudinho@10 Sex 30 Jul 2021, 11:42
+ Paranista escreveu: Claudinho@10 escreveu: Olá amigos!
+ sim, já verifiquei todos e estão bons.
+  por  Paranista Sex 30 Jul 2021, 12:09
+ Confira se R637 nao está alterado e se C628 nao está sem capacitancia, a fonte de 12V tem que estar correta.
+  por Claudinho@10 Sex 30 Jul 2021, 12:27
+ Paranista escreveu: Confira se R637 nao está alterado e se C628 nao está sem capacitancia, a fonte de 12V tem que estar correta.
+ verifiquei amigo. Mas r637 é da linha dos 12v do som, essa linha tem os 12v. A fonte que está com 9.89V é que alimenta o relé, na qual dessa mesma linha sai os 8v do micro.
+  por Claudinho@10 Sex 30 Jul 2021, 12:30
+ Não sei se isso é normal e se aumenta após a tv começar oscilar.
+  por  Paranista Sex 30 Jul 2021, 12:40
+ o +B ao ligar vem normal ?
+  por Claudinho@10 Sex 30 Jul 2021, 12:46
+ Paranista escreveu: o +B ao ligar vem normal ?
+ sim, 130V
+  por  Paranista Sex 30 Jul 2021, 13:08
+ No esquema consta 114Vdc, se estiver alta o circ de proteção entraria em ação.
+Essa tv nao era de dar problemas complexos, confira com um multimetro de precisao se os R 633, 614, 617 e 618 nao estao alterados (minimo que seja alteram o +B).
+Veja se a linha dos 3v3 está correta
+  por Claudinho@10 Sex 30 Jul 2021, 13:26
+ Paranista escreveu: No esquema consta 114Vdc, se estiver alta o circ de  proteção entraria em ação.
+ Você tem razão amigo, eu tava confuso aqui em achar que tava normal o +B de 130v. Vlw pela dica! Vou já verificar.
+  por Claudinho@10 Sex 30 Jul 2021, 14:12
+ Verifiquei os componentes mensionados e estão todos ok. Os 3.3v também tá ok
+  por  MARIO Y. SEGAWA Sex 30 Jul 2021, 14:41
+ Agora, ficou bem claro que a TV está entrando em proteção por tensão acima da pormal.
+  por  Paranista Sex 30 Jul 2021, 14:49
+ O circuito de controle é feito com :
+R633, R617, R618, CC618, C617, R615, R614, Q501 e ic602
+Como disse acima, nao espere grandes alterações, os valores sao "precisos".
+  por  everardes Sex 30 Jul 2021, 15:58
+ 5V que alimenta o micro baixa devido funcionamento 
+alterado do Q606 causa isso troque sem medir
+ everardes Técnico
+  por Claudinho@10 Sex 30 Jul 2021, 16:16
+ Paranista escreveu: O circuito de controle é feito com :
+ Já verifiquei e já troquei parte deles e continua na mesma
+  por Claudinho@10 Sex 30 Jul 2021, 17:57
+ everardes escreveu: 5V que alimenta o micro baixa devido funcionamento 
+ tem os 5V, mesmo assim já troquei por precaução.
+  por  Paranista Sex 30 Jul 2021, 18:20
+ Claudinho@10 escreveu: Paranista escreveu: O circuito de controle é feito com :
+R633, R617, R618, CC618, C617, R615, R614, Q501 e ic602 
+ Quem controla a fonte sao esses componentes, se tem certeza absoluta que estao corretos . . .
+Outro detalhe, Verticalaciona proteção, Mat idem (cap largura)
+  por  MARIO Y. SEGAWA Sáb 31 Jul 2021, 01:44
+ Vamos continuar trabalhando com tensão do+B alta(130V). Meça capacitância do capacitor eletrolítico C619, da fonte baixa;
+O resistor R1, que alimenta o coletor do transistor driver Q303 esquenta muito? Se estiver esquentando muito, teste os capacitores C223(10uF) e C224(0,1), que pode estar em curto. Esses capacitores estão ligados no pino nº 23, do micro IC201;
+Verifique se há 5V nos pinos nº 2 e 54, do micro IC201;
+Veja se chegam os 5V no EEPROM(IC202).
+  por Claudinho@10 Sáb 31 Jul 2021, 02:23
+ MARIO Y. SEGAWA escreveu: Vamos continuar trabalhando com tensão do+B alta(130V). Meça capacitância do capacitor eletrolítico C619, da fonte baixa;
+ já troquei o C619 e já verifiquei todos esse mensionados. Também já constatei os 5V no micro e na memória.
+  por  MARIO Y. SEGAWA Qui 05 Ago 2021, 00:49
+ Experimenta trocar a memória.
+  por Claudinho@10 Qui 05 Ago 2021, 03:02
+ Caros amigos até que enfim consegui resolver o defeito, era apenas a saída horizontal aberta. Obrigado a todos!
+  por  Paranista Qui 05 Ago 2021, 10:35
+ Como assim ? o Q 301 aberto?
+Troque 0 C325 por precaução , C305, C306, C307 e C321 confira a capacitancia dos mesmos.
+  por Claudinho@10 Qui 05 Ago 2021, 11:48
+ [quote="Paranista"]Como assim ? o Q 301 aberto?
+Troque 0 C325 por precaução , C305, C306, C307 e C321 confira a capacitancia dos mesmos.[/quite] Isso eu já havia conferido amigo. O defeito era realmente a saída horizontal totalmente aberta. Eu até já tinha pegado um defeito semelhante, só nao tava mais lembrado. Troquei e a tv funcionou perfeitamente.
+  por  Paranista Qui 05 Ago 2021, 12:44
+ Ok, encerramos o topico entao
+Grato pelo retorno.
+ “Tópico Resolvido, Bloqueado e Movido para o Fórum de Defeitos Resolvidos. Caso o autor do tópico precise reabri-lo, basta enviar um alerta do mesmo." 
+ gilson leite gosta desta mensagem
+  Tópicos semelhantes 
+ »  [Resolvido] tv semp 2134 bate o rele e nao liga 
+»  (Resolvido) tv semp 2134 (c) não liga bate o relé e fica tentando ligar e desligando 
+»  [Resolvido]Tv LG 29FE8RL bate rele e não liga 
+ Fórum Eletrônica2002 (Brasil)  ::  DEFEITOS RESOLVIDOS 
+ Início 
+ Criar um fórum  |  © phpBB  |  Fórum gratuito de ajuda  |  Denunciar um abuso  |  Fórum grátis 
+ http://www.eletronica2002.com.br/index.html 

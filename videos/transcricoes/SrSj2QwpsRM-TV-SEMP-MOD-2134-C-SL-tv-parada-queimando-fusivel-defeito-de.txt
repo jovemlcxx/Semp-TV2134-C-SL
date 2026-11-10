@@ -1,0 +1,100 @@
+Título: TV  SEMP  MOD: 2134 (C)SL tv  parada queimando fusível  defeito de fonte como consertar
+Canal: Deuzanir Eletrônica
+URL: https://www.youtube.com/watch?v=SrSj2QwpsRM
+Duração: 1228s
+--- Descrição ---
+
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+Olá meus amigos velho beleza meus amigos é o seguinte estou aqui novamente com mais a televisão Semp Toshiba
+outro Slim outros slim e boa boa demais agora essa aqui chegou maquiada viu essa aqui chegou a bateria Então
+mas chegou uma criadinha deu um tiro a chave dela tava direto aqui direto hein só que ela lá deu um circuito
+na rua e não se cuida e ela parou tá bom e vem para cá e vamos lá vamos lá a já tá aqui desmontada agora ela
+que tá suja hein Tá é suja tá suja demais bota sujo nisso viu vamos ver se nós acha que eu mandei para vocês o
+modelo modelo que tá suja meus amigos tá vendo aí ah meus amigos aqui tem terra Olha gente beleza vamos embora
+modelo Aqui meus amigos meus amigos dela aqui para gente passar para você vai ser um pouco meio complicado
+olha como é que tá aqui mas dá para entender todas só modelo só estante modelo TV 2134csl Tem mais alguma
+coisa na frente dela beleza Qual é o problema dela aqui gente eu já tirei os Caco aqui joguei aqui embaixo não
+vou nem procurar aí eu comecei botei nada ó o outro aqui também besteiramente tem que fazer uma análise Por
+que que você cortou Esse é o ideal aqui mais um fusível 0 [Música] 3 amperes dá para a gente ver 3, 3,5 3
+amperes pronto 3.15 250 volts Então esse é o fusível Vamos botar outro pronto pronto só com a mão só aqui não
+é fácil não hein Olha olha tá ligado aqui ó se eu ligar ela direto na tomada ela vai dar um pouco aqui ó vai
+vai desligar até a chave lá fora viu vamos para o trabalho então você analisando que aqui é a chave que liga e
+desliga e aqui e aqui é o fusível bem Aqui é a ponte de diodo tem quatro de ouro viu a gente vai visualizar
+aqui a gente fazer uma análise aqui como multímetro ou digital ou analógico você tanto faz vou fazer um aqui
+uma análise por cima Sem tirar nada agora tem muita Terra viu eu vou nem passar por cima dela mas é bom eu
+gosto de lavar eu faço a lavar Tá vou botar a escala no bip no bip vocês eu agora Então vamos lá Olha tá aqui
+os 4 dias você precisa eu fazer o pincel fica melhor gente trabalhar aqui é tão chato essa Poeira só para aqui
+é gripe dá certo e esse susto todinho vamos lá primeiro de outro são quatro de ouro hein é uma ponte de diodo
+de um lado nada Olha deu Claro se der também do mesmo jeitinho direto porque Deus segurou vai lá do outro lado
+Ah meu amigo aqui ó veja que o positivo tá do lado só positivo tá do lado de lá olha negativa deu e segurou
+vamos virar para o lado de cá agora deu deu vai virar no quarto de outro meus amigos tem curto aqui o primeiro
+diodo não tá mostrando nenhum curto mas do segundo para o terceiro e no quarto tem curto vamos ver se é todos
+os três em curto ou se é realmente só um curto dois vamos lá então vou tirar vou tirar aqui o diodo você você
+dá para ver que o cabo de força olha acabou aí está aqui em cima ela é você não pode fazer uma análise desse
+passando a mão aqui com essa televisão na tomada não hein tem que ligar isso aqui ó beleza e outra coisa tem
+que cuidar também nesse capacitor aqui de força sei que não é bem prático na área você teve esse cuidado esse
+aqui tô passando para você você que não é prático aí na área ainda começando né Tá engatinhando como eu também
+aqui ainda tem que esse capacitorzão aqui é o capacitor de carro a capacidade da fonte primária você tem que
+descarregar Ele tem muita gente descarrega com a chavezinha mas eu tenho aqui um uma lâmpadazinha de
+microondas no outro descarrego só para você agora Olha aqui ó o fio da um dos fios do cabo ele tá aqui passa
+por aqui pela chave e chegar aqui retorna vai lá para o fusível aí passa pelo fuzil aqui vem aqui ó para cá
+vem aqui tem o filtro de linha a outra ponteira aqui a outra ponta do fio do cabo vai aqui ó ele vem aqui
+daqui tá vendo aqui daqui esse dois camaradas aqui esses dois Polo aqui ó segue viagem aí vem para cá os
+quatro de outro que eu falei para você naquela hora que tem um diodo que tem outro diodo tem mais outra aqui
+tem mais outra aqui então nós vamos tirar esse esse beleza vamos tirar aliás três um dois três e outro parece
+que me parece que o 604 vai ficar ele tá bom Agora a minha dúvida tá nesses 3D aqui tá bom de uma de um
+terminal do fio do cabo e o outro aqui passa por aqui isso aqui linha serve para tirar aqueles ruídos tá bom
+da rede elétrica tá e algum aparelho que passa por aqui beleza é isso aí primeiro eu vou dar uma soldinha uma
+saudazinha no Polo que vou tirar você não pode meter o ferro numa peça e tentar puxar para ladrão que você
+terminar até quebrando o terminal do componente você passa primeiro na soldazinha nova para renovar só para
+dar uma amolecida no ambiente tá no mínimo do lado que você vai tirar porque de ouro resistor se ele vai tirar
+só um lado beleza para poder botar outro no lugar do outro então vamos lá porque que eu lhe falei que se você
+não der uma soldinha aqui por aqui uma sardinha uma renovada de solda aqui ó para Renovada na solda se você
+não dá a Renovada sol de puxar com cuidado vai quebrar alternar porque quer quebrar porque a fábrica ou o
+engenheiro ou os montadores de em componentes eletrônicos que eles botam essas peças dobrada eles montam essas
+peças deixa dobrado e aí vem um alguma máquina ou algum outros técnicos e solda mas essa peça fica dobrada viu
+ele tem que tirar cuidado Beleza então o seguinte eu já removi os componentes e os quatro componentes levantei
+ó eu vou medir saber qual é um desses três ou os três ou menos dois tá em curto esse time aqui não tirei não
+porque tá bom no teste tá bom então vamos lá esse primeiro que eu não tirei tá bom normal nada de Bip agora o
+segundo terceiro agora virar de novo lá o quarto não tá tá tudo bem Ó então queimou qual queimou aqui o d603 e
+o d66 tá em curto o Dê 601 e o d604 tá tudo normal Então vamos botar esses dois para falar para você é verdade
+essas televisão de tubo ou mesmo de LED OLX qualquer TV moderna ou não porque você tem que ter placa aqui uma
+sucata aqui ó olha aqui ó tem quatro diodo aqui ó original aqui nessa placa aqui o que é que eu vou fazer vou
+tirar esse vou tirar dois tanto faz um com o outro tira dois sucata você você tem a sua loja e tem só
+eletrônica eletrônica a oficina tem que ter sucata a loja não a loja Você só vende sucata se caso ela tiver
+boa tá bom se tiver alguma peça alguma pessoa quiser aproveitar alguma coisa você pode revender também quiser
+mas você consertar fácil vou tirar todos desse aqui e botar no lugar daquele lá Olá meus amigos estou com dor
+de outros primária fonte de entrada você pode botar não é nem precisa nem olhar por referência porque são as
+mesmas televisão entendeu então tá aqui vou fazer o teste ver como é que tá vou botar o bico do lado aqui ó
+nada vou virar se desse Bíblia tá queimado nada fica mais fácil você achar agora vamos botar no lugar Será que
+faz vergonha a gente botar uma peça não rapaz não faz vergonha não porque essas peças são usadas mas são
+original sabe o que é que faz vergonha é você ou eu qualquer um de nós somos técnico colocar uma peça mesmo
+nova e Pirata da pior qualidade sabe por quê Porque nem você mesmo vai dar tempestade ela vai explodir na sua
+própria cara Então coloque peça mesmo e segunda vai ser original isso que é o importante tá bom estou
+removendo aqui os dois diodo Opa tirei um ah tirou o outro tá aqui os dois e os outros para botar os outros
+estão lá beleza pô as peças no lugar eu quero mostrar para vocês uma coisa peça porque você já achou o defeito
+não tá preste atenção lá do Positivo de iodo tá vendo essa faixinha aqui preta é o lado positivo do diodo
+pretinha tem uma faixinha não é preta não mas é branca essa esse lado dessa faixinha chamando para todo aquele
+lado só preta chamado Beleza então É isso aí tem que ter muito cuidado isso aí vamos botar a peça mas com amor
+e carinho e cuidado não você perde seu serviço olha aqui ó botar para aquele lado do Pretinho Beleza vou botar
+para aquele lado lá você está vendo beleza Tá bom meu amigo pois é meus amigos vamos lá vamos lá meus amigos
+tem as peças no lugar não quer dizer tá tudo resolvido não muitas vezes você vai fazer o seu teste em série Tá
+bota o fusível aqui direitinho bota um fuzil sensível e bota em série aí você vai fazer o teste se muito pelo
+contrário às vezes essa peça aqui também tem curta o Strike sabe porque que curto esse camarada 6554 porque
+esse cara aqui ele seca quando ele seca ele curto aqui força esse camarada mas vamos apelar Vê se não tem nada
+grava aqui tá bom então vamos lá vamos fazer o teste já já tô confiante de testar tô com uma tomada aqui cabo
+de força já tá com a chave ligada direto eu vou colocar aqui em série essa tomadinha aqui é série e essa aqui
+também é série também essas aqui não é sério não tá é 220 na rede é assim como aquela lá também 220 na rede tá
+bom então Comporta olha e acender apagou ligou lá olha Então significa como a minha série é fraquinha é são
+três lâmpadinha de 40 que não achei de 200 Então ela fica acendendo e apagando mas aquele curso que tinha
+aquele curto safado já era então vamos ligar direto na rede beleza funciona na rede vamos lá outras meus
+amigos aí lindona lindona fazendo normal defeito é isso aí tá gente ponto de diodo beleza era aí viu bem
+pertinho de força só que eu vou capacitor da entrada eu vou eu vou ter que desligar ele aqui vou fazer um
+teste no capacitor ver se ele tá normal 100%. eu outra coisa bem aqui também esse capacitor aqui perto do
+rescaldo também tá estufado olha só com defeito Não é isso não em breve essa televisão meu negócio é esse aqui
+agora eu posso conversar com criança ele não quer fazer um serviço geral Então essa dica agora vou ligar um
+cabo de antena aqui vou ligar aqui o receptor isso é importante [Música] pronto Olha gente olha a televisão
+ligada aí ó funcionando normal olha aí mais normal funcionando de boa viu eu desliguei aqui só tem iPhone
+[Música] meu abraço a todos estamos juntos viu gente se inscreva aí gente se inscreva tá bom comenta aí
+divulga nosso canal [Aplausos]
+

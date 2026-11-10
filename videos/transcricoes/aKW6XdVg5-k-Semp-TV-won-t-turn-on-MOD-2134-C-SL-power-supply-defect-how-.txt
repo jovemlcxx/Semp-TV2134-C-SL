@@ -1,0 +1,119 @@
+Título: Semp TV won't turn on MOD:2134 (C) SL power supply defect how to fix the issue not working
+Canal: Deuzanir Eletrônica
+URL: https://www.youtube.com/watch?v=aKW6XdVg5-k
+Duração: 1124s
+--- Descrição ---
+
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+Olá, meus amigos. Bom dia. Boa tarde, boa noite. Bom dia, galerinha maravilhosa do YouTube. Outra slim. TV da
+marca Semp. Liga na tomada, gente. Tanto faz, tanto fez. Não acende nada, não pisca nada, nada, nada se faz
+aqui. Nada, nada, nada, nada, nada. Ela não bate nem relé, nada. Vou desligar da tomada. Vamos virar a TV
+aqui. Pegar o modelo para vocês, gente. Modelo da TV. Modelo TV 21 A 34 C S L. TV desmontada. Vamos tirar
+aqui. Aqui tem uma travinha, você pode puxar a travinha. Puxou. Aqui. Gente, é o seguinte, sempre eu falo que
+essa chave aqui a gente tem que tirar esse botãozinho antes de acontecer o acontecer o pior. No puxar aqui a
+chave dobrou um pouquinho para o a placa rodou um pouquinho depois que quebrou, ó. Quebrou o pino da chave
+dentro, olha aqui, ó. Essa chave, sempre eu falo, eu tenho um vídeo aí falando, tirar sempre esse botão antes
+de puxar, antes de de pegar e virar para o outro, só que ela quebrou no puxar. Ou já estava quebrada, eu não
+sei. Tá aqui, mas eu vou colar ela. Vou botar uma chave nova aqui. Mas o defeito não é nem chave, não é. Fazer
+aqui as medidas, gente. Tirar isso aqui, ó. Vamos ver o que está acontecendo aqui. Vou ligar a TV no na tomada
+de novo. Já liguei na tomada. Antes de nós testar aqui lâmpadazinha aqui de micro-ondas ou qualquer outra
+lâmpada 220, eu vou ver se está carregado o capacitor. Tá desligada da da TV, peraí, eu desliguei da Desligar
+a tomada, quer dizer. Olha aqui, desligar a tomada. Aí. Carregado o capacitor, carregado. Se eu botar a mão
+aqui, eu pegava uma descarga alta, viu? Então, nesse caso, se tá carregando o capacitor da da da da de fio de
+entrada, então o defeito não é cabo, o defeito não é capacitor, o capacitor o capacitor tá acumulando carga.
+Quando o capacitor acumula carga, fica normal. Não é capacitor. Agora é o seguinte, vamos vamos ver o que tá
+acontecendo aqui. Vemos que aqui, ó, que é o cabo de força que tá aqui, ó. Ele vem aqui, aqui passa para pela
+chave, ela retorna de volta aqui, ó, e sobe aqui pelo fusível, passa pela bobina de linha, ela desce por aqui,
+ela entra aqui nos quatro diodos, que é o diodo a fonte de diodo, correto? E dá aqui nos diodos, dessa daqui
+dos diodos aqui, ó, vem aqui, positivo aqui e aqui negativo. Aqui tem essa peça que trabalha como se fosse um
+fusível. Aqui vem pelo negativo já. Aqui já é o positivo. Entra aqui no no capacitor de filtro, positivo. Aí
+vem aqui pro shop, que é o que é o transformador que chamamos, o drive grande. Entra aqui no pino dois e ela
+vai sair aqui no pino quatro. Aí vem e entra aqui no STRW. Vem aqui, ó. Daqui o STRW o STRW vai fazer esse
+controle aqui, que é o ele é o responsável pela fonte primária. Beleza? Então, vamos fazer ver o que está
+acontecendo aqui direitinho. Eu descarreguei o capacitor já. Descarreguei. Deixa eu ver aqui. Eita, mas aqui
+tem mau contato, olha gente, como é que tá. Tudo solto, olha. Como se for pegar aqui, não pega com ela ligada
+não, tá? Olha gente. Olha o tanto de falha aí. Descarrega também o capacitor também, viu gente? Antes de ficar
+nessa brincadeira aqui, tá? Olha meus amigos. Olha o tanto de falha aqui gente, olha. Tudo solto, olha gente.
+Tudo solto, olha. Tudo solto, mau contato. Vamos ressoldar aqui, vamos ver o que acontece aqui gente. Vamos
+ressoldar. Vamos ressoldar aqui esse negócio. Para melhorar o negócio aqui. Eita, tudo solto. Vocês sabiam que
+o STRW ele queima com mau contato? Esse daqui se não tiver queimado é sorte. O STR não pode trabalhar com mau
+contato. Se a TV tiver ligando e desligando, se e ela ainda ligar e você ver ela desligando e e ligou de novo,
+você quando ela desligar, você tira ela da tomada e não liga mais. Ah não, você vai ficar assim mesmo e
+ressoldar isso tudo direitinho. Se não tem problema. Porque ela ela queima o STR com esse desligamento. Agora
+vou ligar lá na na tomada de novo. Vamos ver o que acontece aqui gente. Vamos ligar aqui de novo na tomada.
+Ainda nada. Corrigir se tem alguma coisa errada. Vou descarregar o capacitor de novo que está com certeza está
+carregado ó. Olha aí ó, carregado. Tem muito mau contato, aqui também tem ó. Olha como é que está lá ó. Deixa
+eu ver onde é que tem mais. Aqui você dá para fazer isso aqui por cima aqui ó. Olha. Esse esse transistor aqui
+é o transistor de baixo que ele é o 306. Bem aqui ó. Olha. Tudo solto. Eita, tudo solto. Ele é o Q606. Ele faz
+ela não ligar e também bater relé. Vamos fazer a solda e vamos ver o que acontece aí. Vamos ver aqui. Muito
+mau contato aqui viu gente. Amigos, eu soldei tudo aqui. E nada, a TV nem nem o standby acende, nada nada
+nada, está morta. Com certeza esse STRW ele queimou por motivo de mau contato. Aqui só tem um remédio, é botar
+outro STRW aqui no lugar e ver o que vai acontecer. Vou descarregar o capacitor novamente. Pra poder tirar o
+STRW. Pra não haver algum dano maior aqui. Vamos lá. Olha aí, descarregou. Tirar o capacitor, tirar o STRW pra
+botar outro. Nem que seja usado, isso não importa não, estando bom. STRW 6554. O 6556 dá no lugar também, tá?
+É a mesma coisa. Então os dois são bons, de de ótima qualidade, são original. Pois é, tô aqui com a TV aqui, a
+placa da TV que eu tô trabalhando e tô aqui com outra placa que é que a gente fica matando aqui em alguma
+coisa, tirando outra. Já tem o STRW aqui, ó. Com a mesma referência lá, ó. 6554. Só que o 6556 dá no lugar
+também, mesma coisa. Vamos tirar ele. Já tirei. Estou com ele aqui, ó. E vamos lá colocar de no lugar daquele
+lá. Tirei também, ó. Tá aqui. Vou pegar o outro aqui que eu tirei, que eu tô tirando da placa, botar na placa
+também. Coloquei já, é só parafusar. Parafusar só dar uma apertadinha bem pouquinho. Se apertar demais ele
+dessolda lá e roda. Tem que dar só encostar o parafuso depois e soldar e apertar com força. Encostou aqui,
+agora vamos soldar. Vamos fazer a solda. São seis pinagem, seis pinos. Vamos ligar ela. Série. Eita, olha. Tá
+em curto. O que eu achei e botei aqui tá em curto, não presta. Já não prestava e eu não sabia. Ó lá não tá
+acesa lá, se não fosse direto, acabei com o que eu ia cortar aqui, sabe o que era? Fusível. Tá vendo ele tá em
+curto, tem os diodo aqui. Vou tirar e caçar outro aqui. Meus amigos, eu encontrei outro aqui, viu? Agora esse
+aqui que eu encontrei, ele é o que eu falei para vocês que dava no lugar, ó, o STRW 6556. O que tá queimado
+dele aqui é esse aqui, ó. É o 6554. Então, já com aquele lá que eu já tava com ele aqui já, esse aqui, esse
+aqui é o que eu botei queimado que não prestava também. Agora eu encontrei esse outro aqui, ó. Pois eu coloco
+ele aqui. Tá com a pinagem tudo limpinha, vamos botar lá. Ele é com seis pinagem, gente. Tão limpinho o local,
+é fácil de colocar, viu? Ó, só botar parafuso aqui e apertar um pouquinho depois soldar. Encostou aqui, agora
+só soldar. No ponto. Agora a gente vai Às vezes você ligar a TV emborcada é até bom pra placa, porque se tiver
+de explodir alguma coisa não não explode em você. Também eu sei usar também óculos, não é bom óculos. Outra
+coisa, gente quero falar uma coisa pra vocês. Vamos testar agora, viu? Meus amigos é o seguinte, vocês estão
+aqui com Deuseni Deuseni Eletrônica, você aí que acaba de entrar no nosso canalzinho, você que é novato aí,
+novo, chegou acabou de entrar. Seja bem-vindo, tá bom? Você que já é nossos nossos seguidores aí, amigos e
+quem o prazer de estar com a gente aqui, você que é mais velho aí, que é desde o início. É um grande prazer
+saber que você está conosco, tá bom? E aqui eu vou logo dizendo pra você tudo de bom na sua vida, tá certo?
+Que Deus abençoe cada um de nós. Outra coisa, vamos falar pra vocês, esse tipo de defeito que acontece, quando
+o STR queima. Gente, o STRW, ele é um circuito da fonte. Ele é um oscilador da fonte, ele é o ele é um
+transistor, ele é um CI principal da fonte. Que que acontece aqui? Esse cara queima por dois motivo. Ou seja,
+melhor, por três motivo. Qual? Primeiro motivo, uma alta tensão acima do específico ele queima. A tensão entra
+aqui, alta demais, ele não suporta e aí ele vai, se parte. Se e um dos motivos também pra ele queimar é quando
+há mau contato, o cliente fica batendo um lado, ó. A televisão, ela queima. Outro, a maioria das queima dele
+também, maioria ela ela esse esse problema está em em primeiro lugar, para assim dizer, quando esse cara aqui
+seca quando esse capacitor está seco, não tem mais filtração, ele vai queima correto gente? Então ele ele
+entra em danos, força o o diodo da a ponte de diodo queimar, entrar em curto um ou dois então faz isso aí.
+Esse cara só queima que esse fusível são original, só queima por esses danos diodo em curto ou STRW em curto
+beleza? Quando ele se parte, que ele queima dentro, que ele que a sua estrutura se destrói, esse fusível não
+queima e esse diodo também não entra em curto porque esse cara aqui apenas abriu correto? Então vamos para
+para o teste agora vou colocar em série de novo, porque se tiver algum curto de novo no que eu botei, já não
+vai dar nenhum problema olha, acendeu e apagou e aqui ó, bateu olha aí gente, ó olha a luzinha aqui ó ou
+porque a fonte é maneira é leve demais, a minha lâmpada é pouca, fraca ou porque tem defeito ainda, mas eu vou
+ter que eu vou me obrigar a botar direto tá pedindo, vamos lá direto bateu o relé olha lá olha lá meus amigos
+deixa eu tirar aqui do meio essa TV meus amigos, ó, só o que vejo olha gente sabe o que já já aquela sombra lá
+é a lâmpada, é o é a minha câmera que faz isso rapaz, ficou zero a zero a zero a zero a zero ó, vou desligar
+lá olha lá gente, ó, fica olhando aí, ó olha aí, bateu o relé agora implica essa lâmpada aqui não tá
+acendendo, esse ledzinho não tá acendendo de jeito nenhum olha aí gente, olha, tá lá em AV, ó aí coisa linda,
+viu o que é isso aí? Gente, é o seguinte. Agora vamos testá-la com imagem. Só tem um problema. Essa chave aqui
+eu quebrei, ao de puxar para cá eu quebrei ela, eu vou colar ela aqui. Aqui eu volto. Agora ao de apertar
+aqui, olha, deu certo aqui, olha, agora eu vou apertar aqui. Vai desligar da tomada, você segura aqui por
+trás, olha, e aperta. Olha. Porque apertadinho, o calor da peça passa para esse pano de calor. Beleza? E eu já
+colei aqui o botão, olha. Com essa cola doida aqui, olha. Colei aqui o pedacinho quebrado, espero que eu dei
+também uma uma soldinha com ferro quente. Derretendo o ferro, olha, o plástico, não sei se vai dar certo aqui,
+gente, vou tentar aqui. Certo, ficou assim torto para um lado. Tomara que não dê problema na hora de eu
+fechar. Agora eu vou testar a televisão. Já que nós retocamos conversado, meus amigos velhos, testar com a
+imagem. Vamos lá. Aqui com cuidado para não quebrar de novo. Para não quebrar de novo, porque se quebrar de
+novo aí pode esquecer, só outra chave. Tem que alinhar lá dentro direitinho, olha, para passar no buraquinho,
+olha. Passou, de boa. Passou de boa. Colocar no lugar aqui também, olha. Vamos virar a televisão aqui. Vamos
+testar agora aqui. Bateu o relé. Bateu, tempo. Olha, bateu o relé. Olha aí, funcionou, olha, a televisão aí.
+De De agora vamos pegar aqui um cabo. Colocar. Vou colocar o branco no amarelo porque o branco tá com defeito,
+o meu o amarelo tá com defeito. Vou colocar o branco no lugar do amarelo, faz de conta que o branco é amarelo,
+viu gente? Aqui é só fazer teste, tá? Tô usando aqui a mesma coisa, De boa gente. Meus amigos, se inscreva aí
+no canalzinho, vocês estão aqui com Deusany Eletrônica gente, tá? Vocês estão com Deusany Eletrônica, meu
+abraço, amo vocês. Sempre vai em frente, não desista dos seus sonhos. Seja persistente, seja insistente nos
+seus sonhos. Lute por eles. E você vai conseguir, tá? Tá bom? Um beijão. Coração em cada um de vocês. Meu
+abraço, divulgue nosso canalzinho pra todo mundo, pra família. Pra titia, pro papai, pra vovó, pro vovô, pro
+pro neto, pro pro bisneto, tá bom? Gente, divulga pro papai gente, pra mamãe também, tá? Meus amigos. Tá aí.
+Aí é o seguinte gente, aí a imagem tá assim fazendo as balançadas, isso aí é problema da câmera, viu? Meu
+abraço, até mais, Deusany Eletrônica é com você, fui.
+

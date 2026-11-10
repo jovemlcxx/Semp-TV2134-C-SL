@@ -1,0 +1,30 @@
+Título: #26 CONSERTO TV SEMP 2134 SK11
+Canal: 𝐀𝐧𝐭𝐞𝐜𝐡 𝐄𝐥𝐞𝐭𝐫𝐨𝐧𝐢𝐜𝐚
+URL: https://www.youtube.com/watch?v=1uJ5HPAC9NU
+Duração: 302s
+--- Descrição ---
+
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+[Música] ó pessoal mais um vídeozinho de bancada aí ó da Semp Toshiba o modelo 2134 S k11 está vendo essa
+extensões aí marcadas 3.35b15 volts 8 volts 12 volts então aqui nós vamos testar essas tensões de uma por uma
+para começarmos analisarmos analisar esse defeito aqui ó que coloca na tomada ela desce batidinha de relé mas
+não liga pronto ela já bateu não ligou O que que a gente vai fazer aqui nós vamos medir primeiro essa fonte
+não vou testar componente nenhum agora nem vou arrancar componente eu vou medir as tensões a princípio vou
+logo medir bem que esse vertical né o mais 18 menos 18 para ver se ele aparece lá ó 18 volts no vertical menos
+18 e mais 18 era para TV tá ligado né 120 volts colocar aqui o multímetro perto aqui para pronto aqui agora
+vou testar o 5 volts e o 3g3v3 está aqui nesse transistor 602 vejam lá ó 3, 3,5 agora nós vamos medir os 5
+volts que sai lá do q606 q6 [Música] que é para ter 5 volts nós temos aí só 3,6 correto bom aqui a princípio
+podemos analisar que concluir a nossa análise dizendo que esse transistor está defeituoso desde que não haja
+nenhum curto aqui na frente na linha dele no emissor nós temos um curto aí 9 volts 67 no coletor e na base nós
+temos 5.8 e no emissor nós temos 3,6 volts correto [Música] a base tem que ser mesmo maior do que o emissor
+porque é um transistor npn que é o S80 então a base seria não é maior do que o emissor Tá certo vamos fazer a
+troca desse componente logo vamos retornar aqui com o resultado já troquei o componente agora vamos fazer o
+teste é o componente é o que 606 [Música] você pode ver aqui ó 606 é quem manda a tensão de 5 volts aqui para
+demais circuito que vão ser alimentado pela atenção e agora eu vou pedir aqui para Nossa assistente Vieira né
+colocar aqui na tomada e a gente vai ver aqui a tensão de 5 volts estabilizada no emissor desse transistor que
+606 qualquer TV qualquer aparelho eletrônico você vai começar a medindo aí as tensões da fonte certo a TV já
+ligou aí Era só o que tava faltando era essa atenção para poder ligar agora nós vamos ver para onde essa
+atenção vai qual o que que ela chega aqui 5 volts vindo dois e o pino 8 chega 8 volts também desaparecer essa
+TV Possivelmente não vai ligar Então tá aí tá feito teste TV já está consertada Valeu um abraço a todos até o
+próximo vídeo se inscreva no canal Deixa aí o seu joinha valeu
+

@@ -1,0 +1,34 @@
+Título: tv Semp 2934 sk91 fechado o verical
+Canal: Eletrônica Nua e Crua , Reparos de tvs e sons...
+URL: https://www.youtube.com/watch?v=WNrcnW2waZk
+Duração: 216s
+--- Descrição ---
+fiz todos os procedimentos de teste básico da indentificar se era algum setor do vertical que estava com  problema e identifiquei que era um problema no circuito principal, o oscilador interno do vertical circuito faz tudo não estava gerando a frequência de 60 hz para a saída vertical...
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+Olá boa tarde galera aqui da eletrônica no inclua tô com essa televisão Semp Toshiba 29 34 chassis sk91 mas
+todos vocês com essa televisão Semp Toshiba de 29 essa televisão chegou aqui com o seguinte problema ela
+estava com LED piscando a fonte estava como se tivesse pulsando e fez uma verificação no primário troquei a
+foto acoplador dessa placa troquei o tl431 Troquei as capacitor de filtro + b e fiz todo aquele procedimento
+básico né procurei esse defeito defeito também foi trabalhoso aí eu fui bem próximo daqui de uma resistência
+ela é uma resistência que próximo doce e 39 ficar ela deveria dar 39 aqui próximo do STR o 6756 e ele tava
+operado 39 tava para 70 coloquei a televisão girou normal tudo as tensões parou de LED ficar batendo relé e
+piscando mas após tudo isso é Verifiquei que o vertical não abria outro problema mais fiquei muito preocupado
+fiz os fiis aqueles testes básicos que a gente faz né troca a saída vertical olha alimentação aqui que sai do
+playback 16 mais 16 - que alimenta aqui a saída vertical e as tensões normais que o capacitor de 220 por 50
+que eu também outras televisões é de 100 por 50 troquei o capacitor fiz o teste na bobina defletora que é um
+teste básico para ver se ela tá boa Coloquei outra mesmo defeito e aqui eu fui batendo batendo muito
+preocupado fez uma ressolda gen na placa e se gostou muito tempo o que foi que eu fiz O que é que tá esse
+defeito eu deveria agora entrar na parte do se deveria ver se o oscilador vertical estava mandando a
+frequência de 60 rede para saída vertical e a gente tem dois procedimentos você pode usar o seu frequencímetro
+né vou ver aqui essa frequência lá entra aqui no pino 1 do vertical E aí tem que ter uma frequência de 60 head
+ó Oi tá entrando mas entrando significa ainda que ela esteja a ser vertical seja trabalhando o que que eu fiz
+eu utilizei agora o meu osciloscópio já que na saída vertical no pino 5 e fica bem aqui para sair uma vai sair
+aqui ó Aonde Ó dando tudo OK tá funcionando 60 Hatch saindo funcionando só não amplificado e todo esse
+trabalho que demandou mais de 1 dia por não ter o povo não desconfia lógico blog do ceir quela um teste básico
+e descobri que o oscilador interno de você e não estava gerando a frequência 60 head troquei botei EA
+televisão funcionou de boa Tá aí ó nós vamos funcionando então sem problema né a gente faz teste básico mas a
+primeira coisa que a gente tem que fazer é verificar as extensões são normais que alimenta vertical os
+capacitores estão normais não estufado fazer o teste da frequência e tudo isso resultou no que e é no esse do
+trabalho então Agradeço a todos nossos amigos são a dica para aqueles que estão debatendo com esse problema e
+que espero que dê tudo certo
+

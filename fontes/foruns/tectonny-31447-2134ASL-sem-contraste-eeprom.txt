@@ -1,0 +1,45 @@
+ TV SEMP TOSHIBA TV2134(A)SL SL11 Sem contraste - EEMPROM (RESOLVIDO) 
+ Full Version: TV SEMP TOSHIBA TV2134(A)SL SL11 Sem contraste - EEMPROM (RESOLVIDO) 
+ Forum TecTonny   Dicas de aparelhos resolvidos 
+ TV SEMP TOSHIBA TV2134(A)SL SL11 Sem contraste - EEMPROM (RESOLVIDO) By: Marcones Oliveira Date: 16 Dez 2010, 14:08
+ Defeito:     Sem contraste - EEPROM corrompida - Preciso de dados EEPROM ou entrar no modo de serviço 
+ Este TV estava sem contraste, depois de cuidadosa pesquisa no circuito abl, vi que o defeito não era nessa etapa. Resolvi colocar uma memória virgem (visto eu não ter nem encontrar na net os dados já gravados) e o contraste voltou ao normal, entretanto, outros dados não ficaram perfeitos como linearidade, largura, altura etc.
+Estou precisando, portanto, saber como entrar no modo de serviço (modo service) ou os dados da eeprom já gravados.
+Não tenho o manual de serviço do modelo em questão mas tentei entrar com o dados do modelo TV2134(B)SL (embora o chassi seja o mesmo e o circuito ser idêntico, pra não dizer igual) - Mas não consegui! As informações a seguir foram retiradas no manual de serviço do modelo TV2134(B)SL:
+Os ajustes no chassi são feitos através do próprio controle remoto do TV.
+Para entrar no modo de serviço siga os passos abaixo.
+COMO ENTRAR NO MODO SERVIÇO (PAGINAS 0 , 1 , 2 e 3)
+1. Pressione a tecla MENU no controle remoto, e observe que o MENU aparece na tela do televisor, 
+em seguida pressione a tecla 1 e depois a tecla 9 no controle remoto, a pagina (0) aparece na tela. 
+2. Para acessar as paginas 0 e 1 pressione a tecla MENU ou as paginas de 0 a 3 também podem ser selecionadas pressionando as teclas de 0 a 3 no controle remoto.
+Os endereços são selecionados com as teclas CH +/- do controle remoto e os dados são ajustados com as teclas VOL +/-.
+COMO ENTRAR NO MODO DESENVOLVIMENTO 
+1 Com o televisor no modo de serviço pressione a tecla "0" no controle remoto e com as teclas CH+ selecione (VELIN), em seguida pressione as teclas 8 e se seguida a tecla 9 do controle remoto.
+A pagina "0" aparece na tela do televisor, pressione a tecla MENU para selecionar as paginas de 0 a 15.
+Observação: Para sair do modo serviço ou modo desenvolvimento pressione a tecla "S"
+1.    A memória IC202 só deverá ser substituída por uma memória gravada fornecida pela Semp. 
+Se for utilizada uma memória sem os dados de ajuste, o televisor ira ligar porem não ira funcionar
+corretamente. Os dados da memória são diferentes entre os modelos TV2134(B)SL e o TV 2934(B)SL 
+Marcones Oliveira RESOLVIDO By: marcones-oliveira Date: 18 Dez 2010, 11:00
+Agradeço a todos que nos bastidores estavam procurando me ajudar e não se manifestaram.
+Em primeiro lugar quero dizer que me equivoquei, porque o modelo TV2134(B)SL é um chassis diferente do TV2134(A)SL. Esse último é do mesmo chassis do modelo TV-2177 (A)SL e ambos têm o mesmo micro (A8879CSCFG7C11) e memória 24W16 (SMD).
+Consegui entrar no modo de serviço usando o método tradicional da semp toshiba que está descrito no final.
+Comparei os dados da memória corrompida com o da memória virgem (após o micro ter carregado  os dados por padrão automaticamente – quando coloquei a memória virgem o TV demorou mais de 10 segundos para sair do standby, pois estava carregando os dado na memória virgem)  e pude notar que a corrompida tinha zerado todos os parâmetros do setor de RGB. Salvei os dados da virgem-carregada pelo micro e da corrompida que veio no TV. Fiz uma tabela (com a caneta) de todos os parâmetros e seus respectivos dados de abas a memórias. Mesmo colocando os dados (pelo modo de serviço) no setor RGB a imagem não ficou boa, embora tenha melhorado. E colocando os dados dos  parâmetros de geometria ( da corrompida, que na geometria estava perfeita) a geometria ficou razoável, e a maioria dos clientes não percebem diferença. Mas em cenas estáticas com diversos quadros dava pra notar algumas pequenas distorções em alguns quadros. Dei-me por satisfeito e acredito que até surgir um melhor arquivo melhor, o arquivo abaixo pode servir.
+Dados da EEPROM: (não está 100% mas pode quebrar o maior galho e ganhar tempo, até que algum colega disponibilize os dados 100% perfeitos)
+ http://www.4shared.com/file/OIM6FVlX/SEMP_TOSHIBA_TV2134_A__SL_11_-.html 
+ http://www.4shared.com/document/W8eyPP8u/tv-2177_a_sl.htm 
+Os ajustes deverão ser feitos somente com controles remotos que contenham todas as  opções ("completo").
+1)Pressione no controle remoto a tecla MUTE, até surgir a mensagem SOM DESLIGADO
+2)Pressione novamente MUTE e aperte ao mesmo tempo MENU no painel  do televisor .Nos modelos em que a tecla MENU não existir, pressione ao mesmo tempo VOL + e VOL - ) modelos com sufixo FAV).
+3)Aguarde até aparecer a indicação S no canto superior da tela.
+4) Os endereços e dados aparecem no canto superior esquerdo.
+5)os endereços são selecionados pelas teclas CH + e CH - no controle remoto.
+6)Para ajustar os dados, use as teclas VOL + e VOL -.
+7)Para sair do modo de serviço, desligue o televisor e ligue - novamente. Re: TV SEMP TOSHIBA TV2134(A)SL SL11 Sem contraste - EEMPROM (RESOLVIDO) By: Claudio Carvalho Date: 18 Dez 2010, 18:41
+Pode apostar que muitos membros quiseram sim ajuda-lo.
+Quando há um chassi que se tem dificuldade de achar, acontece isto!
+Eu mesmo já tive um problemão com um chassi 29K30 da LG, que tem dois modelos com o mesmo chassi e os secundários são totalmente diferentes!
+Colega, penei muito, apesar de ninguém ter me respondido!
+A vida é assim mesmo!  Quando há uma infelicidade de algumas pessoas que realmente sabem de eletrônica, não verem o tópico em questão, acontece isto!
+Mas, vida que segue, estarei movendo o seu tópico para os resolvidos e espero que nada disto o incomode!
+ SMF Archive by  Free Forum Hosting 

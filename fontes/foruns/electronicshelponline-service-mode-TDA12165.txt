@@ -1,0 +1,136 @@
+ Electro help: How to enter the service mode of TVs using TDA11105, TDA11115, TDA11145, TDA12165, TDA12196 Micro-jungle IC, and service mode adjustments 
+ Electronic Equipment Repair Assistance
+ Saturday, February 23, 2019 
+How to enter the service mode of TVs using TDA11105, TDA11115, TDA11145, TDA12165, TDA12196 Micro-jungle IC, and service mode adjustments
+configuration instructions:  NT11106PC201AG 
+the following NXP or Trident Micro-Jungle:  
+ TDA11105PS, TDA11106PS, TDA11115PS,
+TDA11126PS, TDA11145PS, TDA12135PS, TDA12136PS, TDA12165PS, TDA12196PS 
+ Introduction to UOC-TOP technology (series TDA11106PS) 
+TDA11106PS / N2 series mainly adopts the form of pin package SDIP64 With the
+200 channels in memory 
+Image processing includes brightness control, contrast control, control color,
+system color control, image enhancement and five image modes. 
+Users can edit the LOGO, show the LOGO when starting up and without signal 
+Have the perpetual calendar and the game function. 
+New OSD style, compatible with English, Thai, Vietnamese, Indonesian, Persian, Turkish,
+French, Bulgarian, Russian, Portuguese, Roman, Spanish, Italian, German, Dutch,
+Swedish, Norwegian, Hungarian, Polish, Czech, Slovenian, Croatian, Macedonian, Serbian,
+Compatible with the FS and VS tuner 
+With the screen change function, the up and down mode, and the left mode and Right
+The AKB function of all products is optional. When AKB is disabled, the energy
+in the cost of use can be reduced 
+Added the left and right line suppression setting for an easy configuration of
+different parameters of the image tube 
+Added CORING and the black extension in the image processing, obviously the
+image quality is improved. 
+ Description of IC pins 
+peripheral controller TDA11106 PS: EEPROM: 24C08 
+control IC: NEC code / SANYO code. The factory debug instructions. 
+   How to enter the Factory
+1: In normal use, press the [MENU] key, the menu is displayed "Image".  
+ When it is displayed, press the numeric keys "6, 4, 8, 3" in sequence
+and the television enters the factory mode. 
+2: Use the [PROOF] button on the factory-specific remote control: 
+control of the NEC code, press the [PRESET] key first, then press the [TEST]
+key within 2 second.   
+ The TV enters production mode and the screen shows the
+production mode indicator. 
+control of the SANYO code, press the [TEST] button. 
+ The TV enters production
+mode, display screen, show tips for the mode of production. 
+[TEST] or [POWER] to switch from production mode to status normal work. 
+[- / - -] in the [PROOF] state to enter the [BUS OPEN] state. 
+[BUS OPEN], press the [- / - -] key to return to the factory state. 
+ Enter the debug / configure menu method 
+debugging menu: press the [TEST] or [MENU] key plus the numeric key "6, 4,
+8, 3", enter the white balance debug state " B / W BALANCE "and
+then press [TEST] or [Display] to enter the "M0" menu, then press the
+[MUTE] button to enter the "M1" menus and "M2" 
+User configuration menu: set "SETUP SELECT" in the menu "M2"
+to "1", press the [MENU] key again to enter the "M3" menu ~
+In the "M0" ~ "M9" state, press the [Display] button to
+enter "FACTORY" mode. 
+ Description of the debugging project of the menu: Factory. 
+ Image debugging menu, take the PHILIPS / PAL test card (or
+select the built-in verifier signal). 
+adjustment so that the horizontal centerline of the test card is in the upper
+Adjust V.POSI so that the vertical center of the image is consistent with the vertical
+Adjust V.SIZE so that the vertical amplitude of the image complies with the requirement,
+and the re-emphasis rate = 90% 
+Adjust VSC to make the vertical correction of the best image S 
+Adjust H.PHASE so that the horizontal center of the image is consistent with the
+horizontal center of the CRT 
+  H.BLK.L (0 ~ 15), you can adjust the line
+erase position to the left 
+  H.BLK.R (0 ~ 15), you can adjust the line
+cutting position on the right side 
+Take the PHILIPS test card (NTSC) and adjust the 60 Hz value to the base original
+50 Hz. On the basis of increase or decrease. 
+the white balance (after the values recommended in the table) 
+"TEST.S" select the signal with the remote control. 
+Then select the item "VSD", press the "V +" button to enter
+the state of the horizontal line. 
+The numeric key "2" reduces "R.BIA", the numeric key
+"3" increases "R.BIA" 
+The numeric key "4" reduces "G.BIA", the numeric key
+"5" increases "G.BIA" 
+The number key "6" reduces "B.BIA", the number key
+"7" increases "B.BIA" 
+When adjusting to white, adjust potentiometer G2 on the FBT so that on the screen
+appears one line horizontally, then press the "V +" button to return
+to full screen status 
+Set the values of "R.DRV, G.DRV, B.DRV" until it reaches the desired
+white balance 2 (after setting the recommended values in the table) 
+in "TEST.S" select the signal with the remote control. 
+Select "R. BIA ", press [Display] to display a horizontal line 
+the "V +" and "V-" keys to adjust the compensation. Press
+the keys "P +" and "P-" for any of the following options:
+R. BIA, G. BIA and B. BIA 
+adjusting to the white, adjust potentiometer G2 on the FBT so that the screen
+appears one line horizontally, then press [Display] to return to full screen
+the values of "R.DRV, G.DRV, B.DRV" until it reaches the desired
+ The temperature of the color sought. 
+the signal of the VH color bar of 60dB (1mv) and adjust the menu value AGC
+(high or low voltage). The noise in the image is gradually reduced until the
+noise simply disappears. At that moment, the tension of the point of TP-AGC
+test, and the voltage is the desired AGC voltage. This tension is the tension of
+AGC adjustment of the machine in the future. 
+"SETUP SELECT" is set to "1", press the "Mute"
+button to enter between the menus after "M2". Get in. 
+ Start LOGO input method: LOGO
+M_MODE, press [Display] to enter the editing status of the LOGO. 
+[1] / [2]: Vertical position adjustment of the LOGO, [1] above, [2] below; 
+[3] / [4]: horizontal position adjustment LOGO, [3] to the left, [4] to the right; 
+[5] / [6]: Color selection of LOGO character, [5] adjust the first color of line,
+[6] adjust the second color; 
+[7] / [8]: Adjust the character size of the LOGO, [7] adjust the first line
+size, [8] adjust the second line large or small 
+[0]: Delete the entered letter 
+[up arrow] / [down arrow]: LOGO character selection (0 ~ 9; A ~ Z; a ~ z;
+":. + - * / @", SPACE); 
+[arrow to the left] / [arrow to the right] to move the cursor; 
+the [Display] key: Exit the LOGO editing status, the information of the LOGO is
+stored in EEPROM, returns M_MODE; 
+the tuner is used without band change, PIN 28 is the UHF output, PIN 30 is the
+VHF-L output and PIN31 is a VHF-H output, all are "output from OPEN DRAIN
+", and they need to connect a pull-up resistor to 5V. 
+When [HALFTONE] and [MENU BG] are all "ON", the interface OSD is of
+semi-transparent brightness. 
+When [HALFTONE] is "ON" and [MENU BG] is "OFF", the
+interface OSD is completely transparent 
+When [HALFTONE] is "OFF" and [MENU BG] is "ON", the OSD
+interface is opaque. 
+ Electro help - Service Modes, Circuit Diagrams, Firmware Update procedure, Disassemble procedure, Universal remote control set-up codes, Troubleshooting and more....
+ Professional technician for all kind of electronic equipment. Doing since 1974. 
+ How to enter the service mode of TVs using TDA1110... 
+ Philips 43PFH4082-96 How to enter the service mode... 
+ How to enter service mode - Panasonic TX42G30J Pla... 
+Remote Control Codes 
+Electronics Repair Help Hindi 
+Medical equipment repair 
+ HOW TO DIAGNOSE A FAILED T'CON BOARD - HOW TO REPLACE A T'CON BOARD 
+ RCA - SYSTEMLINK-3 _ UNIVERSAL REMOTE _ TV SETUP CODE LIST _ SETUP PROCEEDINGS _ CODE SEARCH _ RETRIEVING THE SEARCHED CODE 
+ HOW TO ENTER SERVICE MODE TO ONIDA COLOR TELEVISIONS - Promise-14 - Promise-20 
+ Videocon 21 inch CTVs circuit diagrams – TDA 12135 and TDA12020H-SMD – Jungle ICs 
+ HOW TO DETECT T-CON BOARD FAULTS WITH LCD TV 

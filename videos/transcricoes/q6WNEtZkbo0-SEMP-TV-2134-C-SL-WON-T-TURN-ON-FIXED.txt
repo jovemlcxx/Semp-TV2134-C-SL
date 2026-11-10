@@ -1,0 +1,95 @@
+Título: SEMP TV 2134(C) SL WON'T TURN ON. FIXED 👍
+Canal: Eletrônica Gomes
+URL: https://www.youtube.com/watch?v=q6WNEtZkbo0
+Duração: 907s
+--- Descrição ---
+
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+pessoal bom dia boa tarde ou Boa noite não sei que hora que vocês vão assistir esse vídeo mas aqui é o
+seguinte chegou mais uma antes da minha viagem vou viajar de novo chegou mais uma tevezinha eu resolvi fazer o
+vídeo é uma S vamos ver aqui o modelinho dela aqui vir aqui modelo dele é esse aí pessoal modelo TV 21 34c SL
+65 w e aqui o cliente me passou que liga ela na na tomada e ela apenas acende a luzinha ele chama de luzinha a
+luzinha que ele chama o ledzinho e apaga e não dá mais nada faz só um barulho e a gente vai ligar ela aqui a
+situação desse cabo aqui aproveitar e trocar logo esse cabo dela também tá muito feio eu tenho bastante aí cab
+usado mas tá num bom estado bom estado Então vamos ligar ela aqui e ver se o que ele fala é realmente o que
+ele diz ó acendeu o ledzinho lá sei se para vocês ver vou desligar ela aqui vou ligar agora azinha acende
+apaga ela faz um um barulho Zinho aqui um chiado Zinho aqui dentro aqui ó quer ver Vou vou desligar aqui vou
+ligar de novo não sei se vai dar para vocês ouvir ela faz um barulho Zinho aqui ó liguei talvez não dá para
+você mas dá para vocês ouvir não mas ela faz um chiado Zinho então e não dá nada na tela não liga vai só arma
+e desarma lá o o relé e não dá nada então aqui a gente vai abrir ela agora eu vou abrir ela agora aqui ver o
+que que tá acontecendo lá dentro vou fazer isso pessoal e fazer alguma limpezinha e daqui a pouco eu volto com
+o vídeo Beleza já V deixando um like aí se vocês os inscritos os que não são inscritos também deixa o like
+deixar pro final do vídeo vocês termin esquecendo Beleza se inscreva no nosso canalzinho também pessoal
+voltando aqui já abri o aparelho aqui como vocês podem ver e bastante poeira aí isso não é novidade nas TV de
+tu nessas TV nova também elas acumulam muita sujeira tem muita sujeira aqui e mesmo aqui mesmo com essa
+sujeira toda ó o que eu já percebi aqui ó capacitor inchado esse aqui esse outro aqui ó os dois aqui ó estão
+estufado mesmo que toda essa sujeira Eu já percebi isso aí e aqui os outros aqui não tô vendo nenhum estofado
+mas pode ter mais capacitor ruim aí Ali na saída da da da fonte ali ó do transformador aqueles lá eu não tô
+vendo nemum estufado mas pode algum com capacita baixa Sr a Sr de algum deses aí pode est ruim também eles
+aqui a gente já vai trocar logo de cara porque já tão estufado E então agora seginte vou fazer logo a limpeza
+dessa placa PR gente visualizar o endereço dos componentes a referência na placa E aí eu passo a referência
+dele lá o endereço dele na placa beleza vou fazer essa limpeza do tubo vou limpar todo aqui daqui a pouco eu
+volto beleza a eu já vou trocar eles logo e volto já já com o vídeo problema pode ser eles dois pode sim pode
+ser eles ou pode ter ser eles e mais alguma coisa algum resistor aberto algum diodo Em Curto aberto mesmo é
+vamos trocar logo aqui o seguinte vamos trocar logo ele ele lá que é os que estão visual visualmente
+denificado visualmente danificado é eles nós troca logo depois faz uma uma varredura na placa beleza vou fazer
+isso daqui a pouco eu volto aqui gente eu já fiz a a limpeza da plaquinha aqui tá bem limpinho agora dá pra
+gente ver a referência dos componentes uma limpezinha no tubo aí também ó tá mais limpo agora e os capacitor
+em questão que estão estufado esses aqui ele esve olhando ali por baixo da placa ele é o C300 el parece que é
+aqui ó c310 é um capacitor 4.7 microf 50 V parece e o outro aqui não tá dando para ver quantos microf não mas
+deve ser de 100 ou de 47 esse aqui ele é um capacitor de acoplamento ele ele não tem a faixinha do negativo
+aqui igual os outros capacitores tem aqui ó faixinha branquinha que é o negativo dos capacitor não tem nem num
+lado nem no outro ele é um capacitor de acoplamento já esse outro aqui que tá estufado ele é Ó esse aqui é o
+c310 e esse aqui é o c311 esse aqui é da linha do mais B lá transformador para alimentar aqui oack a
+alimentação passa por ele e aí aqui virando a a a plaquinha eu tô vendo aqui ó bem aqui no C do vertical ol
+desse pino aí ó ol é que ele tá a gente vai dar uma corrigida também pode ter depois que ela ligar pode ter
+alguma coisa no vertical pode alguma coisa ventil vai dar uma conferida também e os capacitor é esse aqui ó
+esse aqui que é o de acoplamento ele é o c 310 c310 e o outro aqui é o c 311 ó lá ó c310 e e c311 eles estão
+estufado então aqui é o seguinte dando uma descida mais aqui procurando alguma solda fria também aqui a gente
+vai dar uma conferida logo em tudo vai trocar esse capacitor e vamos ligar o aparelho ver se ele vai ligar
+normal ou se não ligar V onde é que tá chegando tensão onde é que tá faltando tensão beleza n é que a corrente
+tá tá chegando se na troca dos dois capacitor el Ligar normal e a gente fizer a medida aqui de todas as
+tensões ti normais é beleza a gentea só alguma ponto de solda fria que tivesse e achar já faz a ressalta vem
+aqui na plaquinha do tubo dá uma olhada aqui e deixa ela em teste beleza vou fazer isso já já eu volto Então
+pessoal aqui eu já fiz a troca dos dois capacitor Zin aí ó do C 310 e do c311 coloquei do mesmo o c310 ele é
+de 4.5 4.7 o f de acoplamento eu coloquei um de 10 o f 50 que o que tá aí é de 4.5.7 não Lembo 50 esse que eu
+coloquei de 10 uf por 50 o c311 que fica na linha do mais B ele é de 47 160 e esse aqui ó que sai da fonte da
+linha do mais B também o 634 ess bem aí ó C 634 aí ó já D alimentação do mais B junto com o c311 ele faz a
+filtragem do mais b vaib e eu medir aqui no Nozinho vou triscar aqui as ponteira Cap cheque Olha só onde é que
+ponteiro tá gente triscar aqui ó ó ó o ponteiro no vermelho aí ó e as pontas da triscado aqui ó terminar dele
+aqui ó tá lá no vermelho ele não estufou feito feito igual c311 que fica na mesma linha dele mas tá alterado
+ele então ele teria que dar aqui no verde aqui ó Nessa escala de 10 aqui ó na terceira escala de 10 tem que D
+aqui no verdez inho aqui ó final de escala aqui ó vocês vi que tá no vermelho não presta a gente já vai tirar
+logo já vou tirar ele logo aqui esses aqui pessoal ó o que tava lá já troquei que é o de acoplamento de 4.7
+por 50 V is aí ó é 4.7 por 50 e esse aqui o c311 ó quando meti o ferro de solda lá numa perna e tudo Ele já
+caiu porque ele tava com a perna quebrada já também estufado e com terminalzinho quebrado quebrado lá ó você
+não presta de jeito nenhum já tem os dois já estão lá são capacitores não são novos mas são usado e testado
+aqui por por os aparelhos estão marcando bom e agora tô com esse aqui para colocar no 634 aqui na aqui na
+plaquinha ele é usado também já medi a Sr dele medi de a capacitância fuga tá carregando descarregando tá
+normal Então vou colocar lá tirar aquele lá colocar e vamos ligar o aparel para ver o que que vai dar Beleza
+então pessoal voltando aqui já fiz o que tinha que ser feito na plaquinha aqui tá os capacitor e depois que
+daquela parte do vídeo passado que eu mostrei os outros capacitor eu saí medindo com capach aqui encontrei
+esse aqui também ó já alterado isso aqui é da filtragem do dos 180 aqui do tuba ele ele é esse aqui ele é o
+capacitor C 329 que faz filtragem dos 180 que para vir aqui pra plaquinha do tuba alimentar os RGB aí ó ele é
+de 4.7 ele é de 4.7 por 250 V 4.7 tá ruim 4.7 250 o que eu coloquei lá não é um usado é um novo que eu tenho
+aqui no meu estoque aqui ó Muito capacitor eletrolítico novo aqui e agora esses outros que eu coloquei usado
+mas bom estado S bom capacitância boa aí o que foi trocado foi aí ó esses quatro capacitores aqui e tinha
+muita solda fria também eu refi a solda tudinho aqui ó tudo tudo tudo muita solda trincada mesmo ress soldei
+aqui os pinos do soquete aqui do tubo e agora assim coloquei acabei de colocar o cabo cabo de força já é outro
+o velho tá aqui no chão ó tá com essa emenda aí ó isolando aí aqui eu passei é eu lixei aqui ó os terminais do
+do cabo de força lixei e coloquei o antif ferru com meu ficou brilhante Zinho ó acabei de soldar aqui na os
+terminais dele na placa e agora a gente vai ligar o aparelho já coloquei um est anoz lá no varicap e vamos
+colocar aqui agora na tomada olhando pro ledzinho bloquei ledzinho acendeu apagou televisor já ligou vamos ver
+lá ó ó lá já tem imagem desligar aqui a luz fic melhor de visualizar já tem imagem aparelho ó a imag tá um
+pouco meio chuviscada pessoal porque é só no estanho lá que tá tá sem s porque tá desconectado lá os
+altofalantes Mas pode ver que ela tá ligando agora tá ligada imagem bonita nada aí ó as tensões lá eu conferi
+com com multímetro tão tão normal a tensão de 180 antes de trocar o capacitor Zinho que tava ruim Tava com 175
+com a troca do capacitor foi para 181 extensão de vertical normal é men1 e mais 16 mais B tá com 115 que o
+normal do se telão é 114 mas até 115 tá bom dá para trabalhar normal e a imagem continua lá pessoal e mais um
+videozinho para quem tá iniciando no ramo entendeu se vocês gostaram deixa o like de vocês comente E
+compartilhe seja educado nos comentários que quando eu vejo aqui eu já respondo educadamente também tá bom e
+no mais pessoal é isso aí se ainda aparecer algum algum aparelho Zinho antes de eu viajar eu faço outro rit Tá
+bom então Fiquem todos com Deus que Deus abençoe vocês e a família de vocês espero que esse vídeo tenha
+ajudado alguém ou possa ajudar alguém principalmente quem tá aprendendo e até o próximo vídeo pessoal um forte
+abraço da eletrnica GES beleza até próximo ví vídeo gente na verdade agoraos quer perguntar hoje
+

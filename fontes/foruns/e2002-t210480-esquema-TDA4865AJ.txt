@@ -1,0 +1,44 @@
+ Tópicos semelhantes
+ »  (RESOLVIDO) Esquema Semp TV2134-A SL 
+ »  Esquema tv semp toshiba TV2134(C)SL 
+ Anuncios
+ Nenhum anúncio
+ Esquema TV Semp Mod.TV2134 (B) SL SK-11 que use TDA4865AJ 
+ 3 participantes
+ Fórum Eletrônica2002 (Brasil) --> ::  Fórum dos esquemas 
+ Página 1 de 1 
+  por  willian8952 Ter 02 Ago 2022, 16:21
+ Boa tarde á todos, estou precisando do esquema dessa TV SEMP mod: TV2134(B)SL SK-11, mas aquele esquema que usa o TDA4865AJ, no site electrônica PT tem o esquema mas é diferente o circuito Vertical, a saída também é diferente. 
+ https://eletronica2002.forumeiros.com/t201221-resolvidopreciso-do-esquema-da-tv-semp-2134-que-use-o-vertical-tda-4865aj 
+Achei esse tópico onde o amigo Chagas Moura manda o link do site 4shared, mas o link não entra, tentei entrar em contato com o Chagas Moura via privado mas não me responde, perguntei para o técnico que criou o tópico se ele tem esse esquema baixado pra me enviar, mas também não responde via MP.
+Se alguém souber de um link válido é quiser me passar desde já muito obrigado. 
+_________________
+Tenho osciloscópio
+ willian8952 Técnico
+ Gosto Não gosto 
+ Re: Esquema TV Semp Mod.TV2134 (B) SL SK-11 que use TDA4865AJ 
+  por  wagnernepo Qui 11 Ago 2022, 21:53
+ amigo tente ai neste site ok 
+ https://www.electronica-pt.com/esquema/tv/toshiba-esquemas-tv/toshiba-tv2134(b)sl-ch-sk11-tv2934(b)sl-chsk91-14874/ 
+ wagnernepo Técnico
+ Data de inscrição : 30/06/2011
+  por Conteúdo patrocinado 
+ Conteúdo patrocinado 
+  por  willian8952 Qua 17 Ago 2022, 22:21
+ Wagner os 3 esquemas que tem nesse endereço são todos com o LA78040 e LA78041 pra tudo Slin, mas não tem problema, obrigado pela sua ajuda.
+ Com o osciloscópio consegui identificar que não estava saindo o sinal drive vertical positivo e negativo do ci principal, após a troca a TV voltou a funcionar normalmente, eu gostaria de encontrar esse esquema porque o circuito vertical com o TDA4865AJ é diferente do La78041, caso alguém tenha esse esquema com o TDA4865AJ e puder me mandar, vou deixar guardado para uso futuro, já que esse esquema é difícil de achar. 
+  por  WALTER JANSEN Qui 18 Ago 2022, 10:14
+ Olá Willian, você tem que retirar tudo que fica antes de ''https'' no endereço dai deve entrar
+ WALTER JANSEN Técnico
+ Data de inscrição : 05/04/2011
+  por  willian8952 Qui 18 Ago 2022, 19:55
+ É verdade Walter, consegui baixar, agora tem mais um endereço com esse esquema aqui: 
+ https://www.4shared.com/get/CuZR0rQEea/TV2134_ch-SK11.html 
+  Tópicos semelhantes 
+ »  Esquema da tv semp tv2134 Asl_sl11 
+»  esquema da tv semp toshiba tv2134(b)sl sk-91 
+»  Esquema da tv semp tv2134 Asl_sl11 
+ Fórum Eletrônica2002 (Brasil)  ::  Fórum dos esquemas 
+ Início 
+ Criar um fórum  |  © phpBB  |  Fórum gratuito de ajuda  |  Denunciar um abuso  |  Criar um fórum 
+ http://www.eletronica2002.com.br/index.html 

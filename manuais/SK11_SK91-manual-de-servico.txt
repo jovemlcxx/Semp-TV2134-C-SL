@@ -1,0 +1,647 @@
+                                                                                                               MSTV(3)-071
+
+
+
+          Manual de Serviço
+                            TELEVISORES EM CORES
+MODELOS : TV2134(B)SL / TV2934(B)SL
+
+CHASSIS:        SK11 / SK91
+
+
+                                                ESPECIFICAÇÕES
+
+Tensão de rede: -----------------------------------------------------------------------------------
+                                                                                      110 - 220 ~ 50/60Hz AUTO
+Consumo médio: ---------------------------------
+                                              TV2134(B)SL --------------------------  Em operação ----- 65,0 Watts
+                                                                                      Em stand by ------ <1 Watt
+                                              TV2934(B)SL --------------------------  Em operação ----- 85,0 Watts
+                                                                                      Em stand by ------ <1 Watt
+
+Impedância de entrada de antena:----------75 ohm-tipo desbalanceada-para VHF/UHF/CABO
+Sistema de sintonia: ----------------------------
+                                               F.S. (Frequency synthetizer)-PLL
+Sistema de televisão: ---------------------------
+                                               Padrão M-525 linhas / N-625 Linhas
+Canais de recepção: ----------------------------
+                                               Faixa I-      Canais 2 a B
+                                                             OFF AIR-55,25 MHz a 83,25 MHz-VHF 2 a 6
+                                                             CABO-73,25 MHz a 127,25 MHz
+                                               Faixa II-     Canais C a LL
+                                                             OFF AIR-175,25 MHz a 211,25 MHz-VHF 7 a 13
+                                                             CABO-133,25 MHz a 367,25 MHz
+                                               Faixa III-    Canais MM a 69
+                                                             OFF AIR-471,25 MHz a 801,25 MHz-UHF 14 a 69
+                                                             CABO-373,25 MHz a 463,25 MHz
+
+Frequências intermediárias:-------------------
+                                            Portadora de vídeo -------------------
+                                                                                45,75 MHz
+                                            Po-rtadora de som -------------------
+                                                                                41,25 MHz/ 4,5MHz
+                                            Portadora de croma -----------------42,17 MHz
+
+Frequências subportadoras de croma:----------------------------------------------------
+                                                                               3,575611 MHz           (PALM)
+                                                                               3,582056 MHz           (PALN)
+                                                                               3,579545 MHz           (NTSC)
+
+Potência de áudio:--------------------------------
+                                              TV2134(B)SL --------------------------
+                                                                                 5,0 + 5,0 Watt/ 8 ohm
+                                              TV2934(B)SL --------------------------
+                                                                                 5,0 + 5,0 Watt/ 8 ohm
+
+Peso/ Dimensões(LxAxP):--------------------TV2134(B)SL --------------------------
+                                                                              18,8 Kg/ ( 578x461x332 ) mm
+                                          TV2934(B)SL --------------------------
+                                                                              36,1 Kg/ ( 766x582x407 ) mm
+
+
+
+
+                                                                                                           NE: 748926
+                                                            ÍNDICE
+Especificações : ------------------------------------------------------------------------------------------------------------ 1
+
+Precauções de segurança : ------------------------------------------------------------------------------------------------------
+                                                                                                                           3
+
+Sistema de ajustes
+
+    Como entrar no modo "serviço" : ----------------------------------------------------------------------------                 4
+
+    Tabela de dados-Memória EEPROM : -------------------------------------------------------------------------                   4
+
+Ajustes da imagem
+
+    Ajuste da escala de cinza : -----------------------------------------------------------------------------------------------------------
+                                                                                                                            4
+
+    Ajuste de sub brilho : -----------------------------------------------------------------------------------------------------------
+                                                                                                                                6
+
+    Ajuste do foco : -------------------------------------------------------------------------------------------------------------------
+                                                                                                                                  6
+
+    Ajuste da largura ( WID ) : --------------------------------------------------------------------------------------------------------------
+                                                                                                                              5
+
+    Ajuste do centro vertical da image (VCEN)--------------------------------------------------------------------                5
+
+    Ajuste da posição horizontal ( HPOS ) : -----------------------------------------------------------------------------------------------
+                                                                                                                      5
+
+    Ajuste da posição vertical ( VPOS ) : -----------------------------------------------------------------------------------------------
+                                                                                                                        5
+
+    Ajuste da altura ( HIT ) : -----------------------------------------------------------------------------------------------------------------
+                                                                                                                                5
+
+    Ajuste da linearidade vertical (VLIN)------------------------------------------------------------------------------- 5
+
+    Ajuste da distorção pincushion ( DPC ) : ------------------------------------------------------------------------------------------
+                                                                                                                      6
+
+    Ajuste da distorção trapezoidal ( KEY ) : ------------------------------------------------------------------------------------------
+                                                                                                                       6
+
+    Ajuste da distorção pincushion nos cantos ( CNRT) / (CNRB):------------------------------------------- 6
+
+    Ajuste da distorção trapezoidal ( KEY ) : ------------------------------------------------------------------------------------------
+                                                                                                                       6
+
+    Ajuste da distorção ( HPAR ) : ------------------------------------------------------------------------------------------
+                                                                                                                           6
+
+    Ajuste da distorção ( HBOW ) : ------------------------------------------------------------------------------------------
+                                                                                                                         6
+
+
+
+
+Relação de componentes e peças de reposição :-------------------------------------------------------------------------------
+                                                                                                                7
+
+Esquema elétrico : ---------------------------------------------------------------------------------------------------------- 12
+PRECAUÇÕES DE SEGURANÇA
+                                                               SISTEMA DE AJUSTES
+Os ajustes no chassi são feitos através do proprio controle remoto do TV.
+Para entrar no modo de serviço siga os passos abaixo.
+
+
+COMO ENTRAR NO MODO SERVIÇO (PAGINAS 0 , 1 , 2 e 3)
+1.              Pressione a tecla MENU no controle remoto, e observe que o MENU aparece na tela do televisor,
+                em seguida pressione a tecla 1 e depois a tecla 9 no controle remoto, a pagina (0) aparece na tela.
+2.              Para acessar as paginas 0 e 1 pressione a tecla MENU ou as paginas de 0 a 3 também podem ser
+                ser selecionadas pressionando as teclas de 0 a 3 no controle remoto.
+
+                Os endereços são selecionados com as teclas CH +/- do controle remoto e os dados são
+                ajustados com as teclas VOL +/-.
+COMO ENTRAR NO MODO DESENVOLVIMENTO
+              1 Com o televisor no modo de serviço pressione a tecla "0" no controle remoto e com as teclas CH+
+                selecione (VELIN), em seguida pressione as teclas 8 e se seguida a tecla 9 do controle remoto.
+                A pagina "0" aparece na tela do televisor, pressione a tecla MENU para selecionar as paginas de 0 a 15.
+
+                Observação: Para sair do modo serviço ou modo desenvolvimento pressione a tecla "S"
+                            no controle remoto..
+
+
+SUBSTITUINDO A MEMORIA
+
+1.              A memória IC202 só deverá ser substituída por uma memória gravada fornecida pela Semp.
+                Se for utilizada uma memória sem os dados de ajuste, o televisor ira ligar porem não ira funcionar
+                corretamente. Os dados da memoria são diferentes entre os modelos TV2134(B)SL e o TV 2934(B)SL
+
+                                         TABELA DE DADOS-MEMÓRIA EEPROM (IC202)
+              PG-0                                    PG-1                                     PG-2                                     PG-3
+       Ajuste da imagem                          Ajuste da imagem                      Aju. escala de cinzas                 Agc. Bril. Screem
+     AJUSTE     DADOS                        AUSTE           DADOS                    AJUSTE          DADOS                 AJUSTE     DADOS 21 DADOS 29
+
+HPOS                 34                   DPC                 52                 BLC                    7                 AGC              24      24
+WID                  54                   KEY                 31                 RC                    27                 SUB-BRI          10      10
+VCEN                 28                   CNRT                56                 BC                    32                 VLINE            25      40
+VPOS                 37                   CNRB                53                 GC                    38
+HIT                  39                   HPAR                30                 RD                    31
+VLIN                 34                   HBOW                29                 GD                    30
+                                                                                 BD                    30
+
+
+
+AJUSTE DA ESCALA DE CINZA PARA O TV2134(B)SL.
+
+1. Ligar na antena ou entrada AV um gerador de sinais ou um canal que tenha um sinal branco.
+2. Na pagina "3" selecione VLINE para fechar o vertical, gire o potenciômetro de SCREEN
+(unidade de foco/screen do flyback) e ajuste para que a linha horizontal verde, vermlha ou azul .
+fique levemente visivel.
+
+3. Pressione a tecla "2" do controle remoto para selecionar a pagina "2", ajuste a escala de cinzas
+(parte escura da imagem) com o RC, BC e GC.
+Se a linha horizontal que apareceu quando o SCREEN foi ajustado foi o azul esta cor deve permanecer
+como nível de referencia, portanto ajuste só o RC e o GC para conseguir uma imagem branca.
+
+4. Ajuste os endereços GD e BD de modo que partes branca de maior intensidade de brilho se torne
+branca sem predominância de qualquer cor.
+
+AJUSTE DA ESCALA DE CINZA PARA O TV2934(B)SL.
+
+1. O TV2934(B)SL não necessita o processo citado acima porque ele possui o sjuste automatico de escala de cinza (AKB).
+2. Para ajustar a escala de cinza na pagina "3" selecione VLINE e ajuste o potenciômetro de SCREEN para que a
+indicação (OK) apareça na tela do TV.
+
+                IN HIGH        Reprovado
+       OK                     Aprovado
+                LOW            Reprovado
+
+
+
+AJUSTE DE
+AJUSTE DE SUB-BRILHO
+          SUB-BRILHO
+1.
+1.              Conecte uma
+                Conecte               externa nos
+                               antena externa
+                          uma antena          nos terminais
+                                                   terminais de
+                                                             de antena
+                                                                antena do
+                                                                       do televisor
+                                                                           televisor ee sintonize
+                                                                                        sintonize um
+                                                                                                  um programa
+                                                                                                     programa em
+                                                                                                              em cores.
+                                                                                                                  cores.
+2.              Ajuste o contraste no mínimo e brilho e cor no centro.
+2.              Ajuste o contraste no mínimo e brilho e cor no centro.
+3.              Com o televisor no modo "serviço" selecione a pagina "3" o endereço SUB-BRTe com as teclas com as teclas
+3.              Com o televisor no modo "serviço" selecione a pagina "3" o endereço SUB-BRTe com as teclas com as teclas
+                VOL ajuste o sub-brilho de modo que as partes de baixa luminosidade da imagem não pareçam
+                VOL ajuste o sub-brilho de modo que as partes de baixa luminosidade da imagem não pareçam
+                muito escuras e que as partes de alta luminosidade não mostrem evidência de desfocalização.
+4.              Verifique se a imagem é apropriada com os controles de brilho e contraste no máximo e no míni-
+                mo. Caso a imagem não apareça clara com os controles no máximo e escura com os controles
+                no mínimo refaça o ajuste.
+
+AJUSTE DO FOCO
+1.        Sintonize um canal.
+2.        Ajuste o potenciômetro de foco em T302 de modo que a imagem fique com a melhor definição
+                Ajuste o foco para a melhor definição possível.
+                                                       AJUSTES DE IMAGEM
+AJUSTE DA POSIÇÃO HORIZONTAL - PAG. 0 (HPOS).
+1.        Estando no modo de serviço selecione o endereço HPOS com as teclas CH +/-.
+2.        Com as teclas VOL +/- ajuste a posição horizontal da imagem o mais centrada possível.
+
+
+
+
+                                         CORRET O               INCORRET O            INCORRET O
+
+
+
+AJUSTE DA LARGURA DA IMAGEM PAG. 0 (WID).
+1.        Estando no modo de serviço selecione o endereço WID com as teclas CH +/-.
+2.        Com as teclas VOL +/- ajuste a lagura da imagem.
+
+
+
+
+                                           CORRET O             INCORRET O            INCORRET O
+
+
+
+AJUSTE DO CENTRO VERTICAL DA IMAGEM PAG. 0 (VCEN).
+1.       Estando no modo de serviço selecione o endereço VCEN com as teclas CH +/-.
+2.       Com as teclas VOL +/- ajuste centro da imagem para coincidir com a barra escura.
+
+
+
+
+AJUSTE DA POSIÇÃO VERTICAL PAG. 0 (VPOS)
+1.        Estando no modo de serviço selecione o endereço VPOS com as teclas CH +/-.
+2.        Com as teclas VOL +/- ajuste a posição vertical da imagem.
+
+
+
+
+                                          CORRET O              INCORRET O            INCORRET O
+
+
+AJUSTE DA ALTURA (HIT)
+1.        Estando no modo de serviço selecione o endereço HIT com as teclas CH +/-.
+2.        Com as teclas VOL +/- ajuste a altura da imagem.
+
+
+
+
+                                         CORRET O               INCORRET O            INCORRET O
+
+
+
+AJUSTE DA LINEARIDADE VERTICAL PAG. 0 (VLIN).
+1.        Estando no modo de serviço selecione o endereço VLIN com as teclas CH +/-.
+2.        Com as teclas VOL +/- ajuste a linearidade vertical da image, a metade superior da imagem tem que estar
+          igual a metade inferior.
+                                                      AJUSTES DE IMAGEM
+AJUSTE DA DISTORÇÃO PINCUSHION - PAG. 1 (DPC).
+
+1.          Estando no modo de serviço selecione o endereço DPC com as teclas CH +/-.
+2.          Com as teclas VOL +/- ajuste a distorção pincushion da imagem.
+
+
+
+
+                                        CORRET O              INCORRET O           INCORRET O
+
+
+
+
+AJUSTE DA DISTORÇÃO TRAPEZOIDAL - PAG 1 (KEY).
+1.          Estando no modo de serviço selecione o endereço KEY com as teclas CH +/-.
+2.          Com as teclas VOL +/- ajuste a distorção trapezoidal da imagem.
+
+
+
+
+                                        CORRET O             INCORRET O            INCORRET O
+
+
+
+AJUSTE DA DISTORÇÃO PINCUSHION NOS CANTOS (CNRT ) e (CNRB)
+1.          Estando no modo de serviço selecione os endereços CNRT ou CNRB com as teclas CH +/-.
+2.          Com as teclas VOL +/- ajuste a distorção pincushion nos cantos da imagem.
+            CNRT ajusta os cantos superiores. CNRB ajusta os cantos inferiores.
+
+
+
+                                                                                                   CNR ajusta somente
+                                                                                                   os cantos
+
+
+                                         CORRET O             INCORRET O           INCORRET O
+
+
+AJUSTE DA DISTORÇÃO HPAR PAG. 1 (HPAR)
+1.        Estando no modo de serviço selecione o endereço HPAR com as teclas CH + / -
+2.        Com as teclas VOL +/- ajuste a distorção paralelograma para que as linhas laterais
+          direita e esqueda fiquem o mais reto possível.
+
+
+
+
+                                        CORRET O              INCORRET O            INCORRET O
+
+
+
+AJUSTE DA DISTORÇÃO HBOW PAG. 1 (KBOW)
+1.        Estando no modo de serviço selecione o endereço HBOW com as teclas CH + / -
+2.        Com as teclas VOL +/- ajuste ate a linha central ficar o mais reto possível.
+
+
+
+
+                                        CORRET O              INCORRET O           INCORRET O
+                         RELAÇÃO DE COMPONENTES DE REPOSIÇÃO
+MODELOS: TV2134(B)SL / TV2934(B)SL
+                        ALTO FALANTES                                                  CAP. CERAMICOS
+ POS     NE               DESCRIÇÃO               MODELO      POS.    NE                 DESCRIÇÃO          MODELO
+
+W660    326939 ALTO FALANTE 29" 5P63            TV2934(B)SL   C501   331488 CAP CERA 681 J 50V RT
+W660    331157 ALTO FAL 45X154MM 8OHM 10W       TV2134(B)SL   C502   331424 CAP CERA 331 J 50V RT         TV2934(B)SL
+W661    326939 ALTO FALANTE 29" 5P63            TV2934(B)SL   C502   331488 CAP CERA 681 J 50V RT
+W661    331157 ALTO FAL 45X154MM 8OHM 10W       TV2134(B)SL   C503   331424 CAP CERA 331 J 50V RT
+                                                              C503   331479 CAP CERA 561 J 50V RT
+                            BOBINAS                           C504   331308 CAP CERA 102 K 2KV            TV2934(B)SL
+ POS     NE                DESCRIÇÃO              MODELO      C508   331282 CAP CERA 102 J 50V RT
+                                                              C601   331335 CAP CERA 104 K 250V           TV2934(B)SL
+FB601   333299 BOBINA BEAD 2UH M 3,5X1X9 AT52   TV2934(B)SL   C602   333351 CAP CERA 224 K 250V
+J218    331200 BOBINA CHOQ 10R K AT26                         C604   331460 CAP CERA 472 K 500V RT        TV2934(B)SL
+J617    331175 BOBINA BEAD 3,5X1X5MM AT52       TV2134(B)SL   C605   331460 CAP CERA 472 K 500V RT        TV2134(B)SL
+J617    333299 BOBINA BEAD 2UH M 3,5X1X9 AT52   TV2134(B)SL   C606   331399 CAP CERA 222 K 2KV RT
+L101    331193 BOBINA CHOQ 101 K AT26           TV2934(B)SL   C608   331326 CAP CERA 103 Z 50V RT         TV2134(B)SL
+L102    331200 BOBINA CHOQ 10R K AT26                         C610   331282 CAP CERA 102 J 50V RT         TV2134(B)SL
+L103    331219 BOBINA CHOQ 1R0 K AT26                         C610   331326 CAP CERA 103 Z 50V RT         TV2934(B)SL
+L200    331228 BOBINA CHOQ 1R5 K AT26                         C612   331503 CAP CERA 821 J 50V RT
+L201    331228 BOBINA CHOQ 1R5 K AT26                         C612   333360 CAP CERA 471 J 50V RT         TV2934(B)SL
+L202    331228 BOBINA CHOQ 1R5 K AT26                         C613   331291 CAP CERA 102 K 2KV            TV2934(B)SL
+L203    331228 BOBINA CHOQ 1R5 K AT26           TV2934(B)SL   C614   331380 CAP CERA 222 M 400V           TV2934(B)SL
+L204    331228 BOBINA CHOQ 1R5 K AT26                         C615   332067 CAP CERA 102 M 400V           TV2134(B)SL
+L205    331228 BOBINA CHOQ 1R5 K AT26                         C615   333342 CAP CERA 102 M 400V           TV2934(B)SL
+L206    331228 BOBINA CHOQ 1R5 K AT26                         C616   332067 CAP CERA 102 M 400V           TV2934(B)SL
+L207    331200 BOBINA CHOQ 10R K AT26                         C616   333342 CAP CERA 102 M 400V           TV2134(B)SL
+L301    333324 BOBINA CHOQ 790UH K              TV2134(B)SL   C623   331326 CAP CERA 103 Z 50V RT         TV2934(B)SL
+L302    331237 BOBINA CHOQ 400UH K              TV2134(B)SL   C629   331442 CAP CERA 471 K 1KV RT
+L302    333306 BOBINA CHOQ 160UH K              TV2934(B)SL   C630   331442 CAP CERA 471 K 1KV RT         TV2934(B)SL
+L303    331255 BOBINA CHOQ 545UH K 21X27,5MM    TV2934(B)SL   C631   331442 CAP CERA 471 K 1KV RT         TV2934(B)SL
+L303    333315 BOBINA CHOQ 2K8UH K                            C632   331442 CAP CERA 471 K 1KV RT         TV2134(B)SL
+L304    331246 BOBINA LIN CHOQ 44UH M           TV2134(B)SL   C633   331362 CAP CERA 221 K 2KV RT         TV2934(B)SL
+L304    333333 BOBINA LIN 40UH M                TV2934(B)SL   C633   333379 CAP CERA 561 K 2KV RT
+L306    331184 BOBINA CHOQ 100UH K              TV2934(B)SL   C701   331273 CAP CERA 101 J 50V RT         TV2934(B)SL
+L501    331193 BOBINA CHOQ 101 K AT26                         C702   331273 CAP CERA 101 J 50V RT
+L501    331200 BOBINA CHOQ 10R K AT26                         C703   331273 CAP CERA 101 J 50V RT
+L701    331264 BOBINA CHOQ 56R K AT26           TV2934(B)SL   C704   331273 CAP CERA 101 J 50V RT         TV2134(B)SL
+L702    331264 BOBINA CHOQ 56R K AT26           TV2134(B)SL   C705   331273 CAP CERA 101 J 50V RT         TV2934(B)SL
+L703    331264 BOBINA CHOQ 56R K AT26           TV2934(B)SL   C706   331273 CAP CERA 101 J 50V RT         TV2934(B)SL
+L704    331264 BOBINA CHOQ 56R K AT26           TV2134(B)SL   C707   331273 CAP CERA 101 J 50V RT         TV2134(B)SL
+L705    331264 BOBINA CHOQ 56R K AT26                         C708   331273 CAP CERA 101 J 50V RT         TV2934(B)SL
+L706    331264 BOBINA CHOQ 56R K AT26                         C814   331433 CAP CERA 33R J 50V RT
+L801    331200 BOBINA CHOQ 10R K AT26           TV2934(B)SL   C815   331433 CAP CERA 33R J 50V RT         TV2934(B)SL
+L901    326877 BOBINA DESMAG 21" 3P63           TV2934(B)SL
+L901    326911 BOBINA DESMAG 29" 5P63           TV2134(B)SL
+
+
+                        CAP. CERAMICOS                                               CAP. ELETROLITICOS
+POS.     NE               DESCRIÇÃO               MODELO      POS.    NE                 DESCRIÇÃO          MODELO
+
+C101    331433 CAP CERA 33R J 50V RT                          C103   331530 CAP ELCO 10R M 16V RT
+C102    331433 CAP CERA 33R J 50V RT            TV2934(B)SL   C104   331512 CAP ELCO 101 M 16V RT
+C105    331326 CAP CERA 103 Z 50V RT            TV2934(B)SL   C106   331647 CAP ELCO 47R M 50V RT         TV2134(B)SL
+C108    331326 CAP CERA 103 Z 50V RT            TV2134(B)SL   C107   331512 CAP ELCO 101 M 16V RT
+C109    331326 CAP CERA 103 Z 50V RT            TV2934(B)SL   C205   331512 CAP ELCO 101 M 16V RT
+C110    331282 CAP CERA 102 J 50V RT            TV2134(B)SL   C207   331567 CAP ELCO 1R5 M 50V RT         TV2934(B)SL
+C111    331326 CAP CERA 103 Z 50V RT            TV2134(B)SL   C209   331530 CAP ELCO 10R M 16V RT
+C115    331326 CAP CERA 103 Z 50V RT            TV2934(B)SL   C215   331530 CAP ELCO 10R M 16V RT
+C202    331433 CAP CERA 33R J 50V RT            TV2934(B)SL   C216   331530 CAP ELCO 10R M 16V RT
+C203    331433 CAP CERA 33R J 50V RT                          C218   331530 CAP ELCO 10R M 16V RT
+C204    331344 CAP CERA 104 Z 50V RT            TV2134(B)SL   C223   331530 CAP ELCO 10R M 16V RT
+C208    331344 CAP CERA 104 Z 50V RT            TV2934(B)SL   C225   331512 CAP ELCO 101 M 16V RT
+C212    331424 CAP CERA 331 J 50V RT            TV2934(B)SL   C226   331530 CAP ELCO 10R M 16V RT
+C214    331344 CAP CERA 104 Z 50V RT            TV2134(B)SL   C229   331512 CAP ELCO 101 M 16V RT
+C217    331344 CAP CERA 104 Z 50V RT            TV2934(B)SL   C231   331530 CAP ELCO 10R M 16V RT         TV2934(B)SL
+C224    331344 CAP CERA 104 Z 50V RT            TV2134(B)SL   C234   331530 CAP ELCO 10R M 16V RT
+C228    331344 CAP CERA 104 Z 50V RT            TV2934(B)SL   C238   331512 CAP ELCO 101 M 16V RT
+C230    331479 CAP CERA 561 J 50V RT                          C309   333431 CAP ELCO 2R2 M 250V RT
+C232    331344 CAP CERA 104 Z 50V RT            TV2134(B)SL   C309   331656 CAP ELCO 4R7 M 160V RT        TV2934(B)SL
+C233    331344 CAP CERA 104 Z 50V RT            TV2934(B)SL   C310   331689 CAP ELCO 4R7 M 50V            TV2134(B)SL
+                     CAP. ELETROLITICOS                                        CAP. POLIPROPILENO
+POS.    NE                DESCRIÇÃO         MODELO      POS.     NE                 DESCRIÇÃO           MODELO
+
+C404   333422 CAP ELCO 221 M 16V RT                     C213    331718 CAP POLIP 104 K 100V RT
+C410   331610 CAP ELCO 471 M 16V RT       TV2134(B)SL   C219    331736 CAP POLIP 154 J 100V RT        TV2134(B)SL
+C411   331530 CAP ELCO 10R M 16V RT                     C221    331772 CAP POLIP 224 K 100V RT        TV2934(B)SL
+C509   333413 CAP ELCO 10R M 250V RT      TV2134(B)SL   C301    331745 CAP POLIP 223 J 400V           TV2134(B)SL
+C607   331576 CAP ELCO 221 K 450V                       C301    333501 CAP POLIP 273 J 630V
+C609   331549 CAP ELCO 10R M 63V RT                     C302    333486 CAP POLIP 184 J 400V           TV2934(B)SL
+C619   331521 CAP ELCO 102 M 16V RT                     C302    331825 CAP POLIP 473 J 400V
+C621   331512 CAP ELCO 101 M 16V RT                     C303    331781 CAP POLIP 304 J 400V
+C621   331521 CAP ELCO 102 M 16V RT                     C303    333538 CAP POLIP 364 J 400V
+C622   331610 CAP ELCO 471 M 16V RT       TV2934(B)SL   C304    333510 CAP POLIP 634 J 400V           TV2134(B)SL
+C624   331530 CAP ELCO 10R M 16V RT                     C305    333495 CAP POLIP 272 J 2KV            TV2934(B)SL
+C625   331512 CAP ELCO 101 M 16V RT                     C305    331807 CAP POLIP 472 J
+C628   331521 CAP ELCO 102 M 16V RT                     C306    331861 CAP POLIP 722 J                TV2934(B)SL
+C634   333397 CAP ELCO 101 M 200V                       C306    333529 CAP POLIP 762 J 2KV
+C634   331638 CAP ELCO 47R M 160V         TV2934(B)SL   C307    331807 CAP POLIP 472 J
+C635   331601 CAP ELCO 331 M 50V RT       TV2934(B)SL   C307    333547 CAP POLIP 562 J
+C636   331521 CAP ELCO 102 M 16V RT                     C312    331718 CAP POLIP 104 K 100V RT        TV2134(B)SL
+C636   331610 CAP ELCO 471 M 16V RT       TV2134(B)SL   C312    331763 CAP POLIP 224 J 100V RT
+C637   331521 CAP ELCO 102 M 16V RT                     C313    331718 CAP POLIP 104 K 100V RT        TV2934(B)SL
+C638   331512 CAP ELCO 101 M 16V RT                     C313    331763 CAP POLIP 224 J 100V RT        TV2934(B)SL
+C639   331512 CAP ELCO 101 M 16V RT                     C324    331718 CAP POLIP 104 K 100V RT
+C639   333422 CAP ELCO 221 M 16V RT       TV2134(B)SL   C611    331718 CAP POLIP 104 K 100V RT        TV2934(B)SL
+C709   331530 CAP ELCO 10R M 16V RT                     C617    331718 CAP POLIP 104 K 100V RT
+C710   331530 CAP ELCO 10R M 16V RT                     C810    331718 CAP POLIP 104 K 100V RT        TV2934(B)SL
+C711   331512 CAP ELCO 101 M 16V RT                     C813    331718 CAP POLIP 104 K 100V RT        TV2134(B)SL
+C712   331530 CAP ELCO 10R M 16V RT                     C816    331718 CAP POLIP 104 K 100V RT        TV2934(B)SL
+C713   331530 CAP ELCO 10R M 16V RT                     C817    331843 CAP POLIP 474 K 63V RT
+C714   331530 CAP ELCO 10R M 16V RT                     C819    331772 CAP POLIP 224 K 100V RT
+C715   331530 CAP ELCO 10R M 16V RT       TV2134(B)SL
+C716   331530 CAP ELCO 10R M 16V RT       TV2934(B)SL                                  DIODOS
+C717   331530 CAP ELCO 10R M 16V RT       TV2134(B)SL   POS.     NE                   DESCRIÇÃO         MODELO
+C718   331530 CAP ELCO 10R M 16V RT       TV2934(B)SL
+C719   331530 CAP ELCO 10R M 16V RT                     D301    332192 DIODO RET RU4B DO-27
+C720   331530 CAP ELCO 10R M 16V RT                     D302    332165 DIODO RET BY228 DO-27
+C721   331530 CAP ELCO 10R M 16V RT       TV2134(B)SL   D303    340405 DIODO RET BA158 DO15 AT52
+C722   331530 CAP ELCO 10R M 16V RT       TV2934(B)SL   D304    340405 DIODO RET BA158 DO15 AT52      TV2134(B)SL
+C723   331530 CAP ELCO 10R M 16V RT                     D305    340405 DIODO RET BA158 DO15 AT52      TV2934(B)SL
+C724   331512 CAP ELCO 101 M 16V RT                     D306    340405 DIODO RET BA158 DO15 AT52      TV2934(B)SL
+C725   331512 CAP ELCO 101 M 16V RT       TV2134(B)SL   D307    340405 DIODO RET BA158 DO15 AT52      TV2934(B)SL
+C801   331558 CAP ELCO 1R0 M 50V RT                     D308    339694 DIODO SIN 1N4148 DO35 AT52
+C802   331530 CAP ELCO 10R M 16V RT                     D309    339694 DIODO SIN 1N4148 DO35 AT52
+C803   331594 CAP ELCO 2R2 M 50V RT                     D310    340405 DIODO RET BA158 DO15 AT52      TV2134(B)SL
+C804   331512 CAP ELCO 101 M 16V RT       TV2934(B)SL   D401    339694 DIODO SIN 1N4148 DO35 AT52
+C805   331594 CAP ELCO 2R2 M 50V RT       TV2134(B)SL   D402    339694 DIODO SIN 1N4148 DO35 AT52
+C806   331661 CAP ELCO 4R7 M 16V RT                     D502    340405 DIODO RET BA158 DO15 AT52      TV2934(B)SL
+C807   331661 CAP ELCO 4R7 M 16V RT       TV2134(B)SL   D504    340405 DIODO RET BA158 DO15 AT52
+C811   331530 CAP ELCO 10R M 16V RT       TV2934(B)SL   D506    340405 DIODO RET BA158 DO15 AT52
+C812   331558 CAP ELCO 1R0 M 50V RT       TV2134(B)SL   D601    332209 DIODO RET TA20-08 SDO15 AT52
+C820   331530 CAP ELCO 10R M 16V RT       TV2134(B)SL   D602    332209 DIODO RET TA20-08 SDO15 AT52   TV2934(B)SL
+C821   331530 CAP ELCO 10R M 16V RT       TV2934(B)SL   D603    332209 DIODO RET TA20-08 SDO15 AT52   TV2934(B)SL
+C822   331661 CAP ELCO 4R7 M 16V RT       TV2934(B)SL   D604    332209 DIODO RET TA20-08 SDO15 AT52   TV2134(B)SL
+C823   331512 CAP ELCO 101 M 16V RT                     D605    340405 DIODO RET BA158 DO15 AT52
+C824   331512 CAP ELCO 101 M 16V RT                     D605    332156 DIODO RET BA159 DO15 AT52
+C825   331661 CAP ELCO 4R7 M 16V RT       TV2134(B)SL   D606    340405 DIODO RET BA158 DO15 AT52
+C826   331530 CAP ELCO 10R M 16V RT       TV2934(B)SL   D608    339694 DIODO SIN 1N4148 DO35 AT52     TV2934(B)SL
+                                                        D609    339694 DIODO SIN 1N4148 DO35 AT52
+                       CAP. POLIESTER                   D610    332218 DIODO TRU3YX
+POS.    NE               DESCRIÇÃO          MODELO      D611    332174 DIODO RET BYW36 AT52
+                                                        D612    340405 DIODO RET BA158 DO15 AT52
+C201   331709 CAP PMET 103 K 100V RT      TV2134(B)SL   D612    332174 DIODO RET BYW36 AT52
+C206   331852 CAP PMET 682 K 100V RT      TV2934(B)SL   D613    340405 DIODO RET BA158 DO15 AT52
+C210   331698 CAP PMET 102 K 100V RT                    D614    332183 DIODO RET RU3AM
+C211   331698 CAP PMET 102 K 100V RT                    D615    340405 DIODO RET BA158 DO15 AT52      TV2934(B)SL
+C212   334939 CAP PMET 222 K 100V RT      TV2934(B)SL   D626    340405 DIODO RET BA158 DO15 AT52      TV2934(B)SL
+C220   331698 CAP PMET 102 K 100V RT                    D701    339694 DIODO SIN 1N4148 DO35 AT52
+C222   331709 CAP PMET 103 K 100V RT      TV2934(B)SL   LED1    332129 DIODO LED VM 5MM               TV2934(B)SL
+C227   331754 CAP PMET 223 K 100V RT                    R401    339694 DIODO SIN 1N4148 DO35 AT52
+C239   331709 CAP PMET 103 K 100V RT                    R614    339738 DIODO ZENER BZX79-B30 AT52
+C316   331698 CAP PMET 102 K 100V RT      TV2934(B)SL   ZD101   339701 DIODO ZENER BZX79-C33 AT52
+                             DIODOS                                                    RESISTORES
+POS.     NE                 DESCRIÇÃO          MODELO      POS.    NE                   DESCRIÇÃO      MODELO
+
+ZD602   339710 DIODO ZENER BZX79-B18 AT52                  R240   332398 RES CARB 101 J 1/16W AT26   TV2134(B)SL
+ZD602   339783 DIODO ZENER BZX79-B20 AT52                  R241   332398 RES CARB 101 J 1/16W AT26
+ZD603   339756 DIODO ZENER BZX79-C3V9 AT52                 R242   332398 RES CARB 101 J 1/16W AT26
+ZD604   339774 DIODO ZENER BZX79-C5V6 AT52                 R243   332469 RES CARB 123 J 1/16W AT26
+ZD605   339729 DIODO ZENER BZX79-B2V7 AT52                 R244   332405 RES CARB 102 J 1/16W AT26   TV2134(B)SL
+ZD605   339747 DIODO ZENER BZX79-C3V6 AT52                 R244   332655 RES CARB 472 J 1/16W AT26
+ZD701   339774 DIODO ZENER BZX79-C5V6 AT52                 R245   332405 RES CARB 102 J 1/16W AT26   TV2934(B)SL
+ZD702   339774 DIODO ZENER BZX79-C5V6 AT52                 R245   332655 RES CARB 472 J 1/16W AT26
+ZD703   339774 DIODO ZENER BZX79-C5V6 AT52                 R247   332450 RES CARB 122 J 1/16W AT26   TV2134(B)SL
+ZD704   339774 DIODO ZENER BZX79-C5V6 AT52   TV2934(B)SL   R248   332593 RES CARB 332 J 1/16W AT26   TV2934(B)SL
+ZD705   339774 DIODO ZENER BZX79-C5V6 AT52   TV2934(B)SL   R249   332593 RES CARB 332 J 1/16W AT26   TV2134(B)SL
+ZD706   332272 DIODO ZENER BZX79-C8V2 AT52                 R301   332744 RES CARB 751 J 1/16W AT26   TV2134(B)SL
+ZD707   339765 DIODO ZENER BZX79-C5V1 AT52                 R302   332655 RES CARB 472 J 1/16W AT26   TV2134(B)SL
+ZD708   332272 DIODO ZENER BZX79-C8V2 AT52                 R302   332691 RES CARB 562 J 1/16W AT26   TV2134(B)SL
+ZD709   332272 DIODO ZENER BZX79-C8V2 AT52                 R303   332646 RES CARB 471 J 1/16W AT26   TV2134(B)SL
+                                                           R304   332414 RES CARB 102 J 1/4W AT26
+                           RESISTORES                      R305   332487 RES CARB 181 J 1/16W AT26
+POS.     NE                 DESCRIÇÃO          MODELO      R306   332833 RES FUSI R33 J 1W RT
+                                                           R307   332815 RES FUSI 3R0 J 2W RT        TV2934(B)SL
+J608    339131 RES CARB 681 J 1/4W AT26                    R307   333823 RES FUSI 3R3 J 2W RT        TV2934(B)SL
+J707    332398 RES CARB 101 J 1/16W AT26                   R308   334984 RES FUSI R33 J 1W
+J708    332398 RES CARB 101 J 1/16W AT26                   R308   332833 RES FUSI R33 J 1W RT        TV2934(B)SL
+J721    333725 RES CARB 2R2 J 1/4W AT26      TV2134(B)SL   R309   334984 RES FUSI R33 J 1W
+J723    332423 RES CARB 103 J 1/16W AT26                   R309   332833 RES FUSI R33 J 1W RT        TV2934(B)SL
+R101    332398 RES CARB 101 J 1/16W AT26     TV2934(B)SL   R310   332913 RES OXID 153 J 2W RT
+R102    332398 RES CARB 101 J 1/16W AT26     TV2134(B)SL   R310   333002 RES OXID 332 J 2W RT        TV2934(B)SL
+R103    332664 RES CARB 473 J 1/16W AT26     TV2934(B)SL   R313   332995 RES OXID 331 J 2W RT        TV2134(B)SL
+R104    332398 RES CARB 101 J 1/16W AT26                   R314   332450 RES CARB 122 J 1/16W AT26
+R105    332398 RES CARB 101 J 1/16W AT26                   R314   332496 RES CARB 182 J 1/16W AT26
+R106    332423 RES CARB 103 J 1/16W AT26                   R315   332450 RES CARB 122 J 1/16W AT26
+R107    332771 RES CARB 75R J 1/16W AT26     TV2934(B)SL   R315   332496 RES CARB 182 J 1/16W AT26   TV2934(B)SL
+R108    332726 RES CARB 681 J 1/16W AT26     TV2134(B)SL   R316   332502 RES CARB 1R0 J 1/4W AT26
+R108    333770 RES CARB 68R J 1/16W AT26     TV2934(B)SL   R318   330194 RES OXID 5R1 J 2W RT
+R109    332637 RES CARB 471 J 1/16W AT26                   R319   333075 RES OXID R51 J 2W RT        TV2934(B)SL
+R110    332655 RES CARB 472 J 1/16W AT26     TV2934(B)SL   R319   333887 RES OXID R68 J 2W RT        TV2134(B)SL
+R111    332450 RES CARB 122 J 1/16W AT26     TV2934(B)SL   R320   332940 RES OXID 221 J 2W RT        TV2934(B)SL
+R112    332450 RES CARB 122 J 1/16W AT26     TV2934(B)SL   R322   332913 RES OXID 153 J 2W RT        TV2934(B)SL
+R113    332441 RES CARB 10R J 1/16W AT26     TV2134(B)SL   R322   333841 RES OXID 223 J 2W RT
+R114    332799 RES CARB 82R J 1/16W AT26     TV2934(B)SL   R323   332414 RES CARB 102 J 1/4W AT26    TV2134(B)SL
+R115    332511 RES CARB 221 J 1/16W AT26                   R324   332922 RES OXID 1R5 J 2W RT
+R116    332726 RES CARB 681 J 1/16W AT26     TV2934(B)SL   R325   333832 RES META 563 F 1/4W AT26
+R201    332398 RES CARB 101 J 1/16W AT26                   R325   332851 RES META 683 F 1/4W AT26
+R202    332441 RES CARB 10R J 1/16W AT26     TV2934(B)SL   R326   333850 RES OXID 22R J 2W RT        TV2934(B)SL
+R203    332441 RES CARB 10R J 1/16W AT26                   R327   333761 RES CARB 562 J 1/4W AT26    TV2134(B)SL
+R204    332469 RES CARB 123 J 1/16W AT26                   R327   332904 RES OXID 152 J 1W RT
+R205    333011 RES OXID 393 F 1/4W AT26                    R401   332432 RES CARB 104 J 1/16W AT26   TV2934(B)SL
+R206    332628 RES CARB 391 J 1/6W AT26                    R402   332423 RES CARB 103 J 1/16W AT26   TV2134(B)SL
+R207    332398 RES CARB 101 J 1/16W AT26                   R403   332405 RES CARB 102 J 1/16W AT26   TV2134(B)SL
+R208    332398 RES CARB 101 J 1/16W AT26                   R404   332432 RES CARB 104 J 1/16W AT26   TV2134(B)SL
+R208    332520 RES CARB 222 J 1/16W AT26     TV2134(B)SL   R405   332762 RES CARB 753 J 1/16W AT26   TV2134(B)SL
+R209    332398 RES CARB 101 J 1/16W AT26     TV2934(B)SL   R406   332664 RES CARB 473 J 1/16W AT26   TV2934(B)SL
+R210    332398 RES CARB 101 J 1/16W AT26                   R407   332423 RES CARB 103 J 1/16W AT26
+R211    332398 RES CARB 101 J 1/16W AT26                   R408   332423 RES CARB 103 J 1/16W AT26
+R212    332398 RES CARB 101 J 1/16W AT26                   R409   332726 RES CARB 681 J 1/16W AT26   TV2134(B)SL
+R213    332398 RES CARB 101 J 1/16W AT26                   R410   332619 RES CARB 363 J 1/16W AT26
+R214    332398 RES CARB 101 J 1/16W AT26                   R410   332664 RES CARB 473 J 1/16W AT26   TV2134(B)SL
+R215    332398 RES CARB 101 J 1/16W AT26                   R411   332600 RES CARB 333 J 1/16W AT26
+R216    332405 RES CARB 102 J 1/16W AT26                   R412   332600 RES CARB 333 J 1/16W AT26
+R217    332405 RES CARB 102 J 1/16W AT26                   R413   332593 RES CARB 332 J 1/16W AT26
+R218    332575 RES CARB 273 J 1/16W AT26     TV2934(B)SL   R422   334902 RES CARB 272 J 1/16W AT26   TV2134(B)SL
+R219    332708 RES CARB 563 J 1/16W AT26     TV2934(B)SL   R423   332450 RES CARB 122 J 1/16W AT26
+R220    332423 RES CARB 103 J 1/16W AT26                   R424   332584 RES CARB 331 J 1/16W AT26   TV2934(B)SL
+R221    332441 RES CARB 10R J 1/16W AT26                   R426   332398 RES CARB 101 J 1/16W AT26
+R222    332441 RES CARB 10R J 1/16W AT26     TV2134(B)SL   R426   332441 RES CARB 10R J 1/16W AT26   TV2934(B)SL
+R223    332593 RES CARB 332 J 1/16W AT26     TV2134(B)SL   R501   333716 RES CARB 22R J 1/4W AT26    TV2134(B)SL
+R224    332423 RES CARB 103 J 1/16W AT26                   R501   332673 RES CARB 47R J 1/4W AT26    TV2934(B)SL
+R224    332432 RES CARB 104 J 1/16W AT26     TV2934(B)SL   R502   333690 RES CARB 222 J 1/4W AT26    TV2934(B)SL
+R225    332423 RES CARB 103 J 1/16W AT26                   R503   332566 RES CARB 271 J 1/4W AT26    TV2934(B)SL
+R225    332432 RES CARB 104 J 1/16W AT26     TV2134(B)SL   R504   333716 RES CARB 22R J 1/4W AT26    TV2934(B)SL
+                          RESISTORES                                                 RESISTORES
+POS.    NE                 DESCRIÇÃO        MODELO      POS.     NE                   DESCRIÇÃO          MODELO
+
+R517   332986 RES OXID 272 J 1/2W AT26                  R726    332557 RES CARB 271 J 1/16W AT26
+R519   332931 RES OXID 224 J 1W RT                      R727    332432 RES CARB 104 J 1/16W AT26       TV2134(B)SL
+R519   332959 RES OXID 224 J 2W RT        TV2934(B)SL   R728    332432 RES CARB 104 J 1/16W AT26
+R520   333690 RES CARB 222 J 1/4W AT26    TV2934(B)SL   R729    332432 RES CARB 104 J 1/16W AT26       TV2134(B)SL
+R521   333716 RES CARB 22R J 1/4W AT26    TV2934(B)SL   R730    332432 RES CARB 104 J 1/16W AT26       TV2934(B)SL
+R521   332673 RES CARB 47R J 1/4W AT26    TV2134(B)SL   R731    332432 RES CARB 104 J 1/16W AT26       TV2134(B)SL
+R522   333716 RES CARB 22R J 1/4W AT26    TV2934(B)SL   R732    332432 RES CARB 104 J 1/16W AT26       TV2934(B)SL
+R523   332566 RES CARB 271 J 1/4W AT26    TV2934(B)SL   R733    332432 RES CARB 104 J 1/16W AT26
+R524   333814 RES FUSI 271 J 1W RT                      R734    332432 RES CARB 104 J 1/16W AT26
+R525   332913 RES OXID 153 J 2W RT        TV2934(B)SL   R735    332432 RES CARB 104 J 1/16W AT26
+R526   333798 RES FUSI 221 J 1W RT                      R736    332432 RES CARB 104 J 1/16W AT26       TV2134(B)SL
+R527   333654 RES CARB 102 K 1/2W AT26    TV2934(B)SL   R737    332432 RES CARB 104 J 1/16W AT26       TV2934(B)SL
+R527   332986 RES OXID 272 J 1/2W AT26                  R738    332432 RES CARB 104 J 1/16W AT26
+R601   332968 RES OXID 225 J 1/2W AT52    TV2134(B)SL   R741    332520 RES CARB 222 J 1/16W AT26       TV2934(B)SL
+R602   333869 RES OXID 683 J 1W RT                      R743    332682 RES CARB 51R J 1/4W AT26
+R603   333869 RES OXID 683 J 1W RT                      R744    333752 RES CARB 512 J 1/4W AT26        TV2934(B)SL
+R604   332520 RES CARB 222 J 1/16W AT26   TV2134(B)SL   R744    332780 RES CARB 822 J 1/4W AT26        TV2934(B)SL
+R605   332879 RES OXID 104 J 2W RT                      R746    333743 RES CARB 393 J 1/16W AT26
+R607   332539 RES CARB 22R J 1/16W AT26   TV2934(B)SL   R747    332398 RES CARB 101 J 1/16W AT26
+R608   332735 RES CARB 682 J 1/16W AT26   TV2134(B)SL   R801    332860 RES META 822 F 1/4W AT26
+R609   332619 RES CARB 363 J 1/16W AT26                 R802    332842 RES META 151 F 1/4W AT26
+R609   333743 RES CARB 393 J 1/16W AT26                 R803    332520 RES CARB 222 J 1/16W AT26
+R610   332511 RES CARB 221 J 1/16W AT26                 R805    333707 RES CARB 223 J 1/6W AT26
+R611   333066 RES OXID 825 J 1W                         R805    332753 RES CARB 752 J 1/16W AT26       TV2934(B)SL
+R612   332511 RES CARB 221 J 1/16W AT26                 SR601   332968 RES OXID 225 J 1/2W AT52        TV2934(B)SL
+R613   332726 RES CARB 681 J 1/16W AT26   TV2934(B)SL   ZD601   332931 RES OXID 224 J 1W RT            TV2134(B)SL
+R614   332520 RES CARB 222 J 1/16W AT26   TV2934(B)SL
+R615   332432 RES CARB 104 J 1/16W AT26   TV2934(B)SL                              TRANSISTORES
+R615   332655 RES CARB 472 J 1/16W AT26                 POS.     NE                  DESCRIÇÃO           MODELO
+R616   332860 RES META 822 F 1/4W AT26
+R617   332860 RES META 822 F 1/4W AT26                  Q101    333244 TRANS 2SC2717 TO-92 RT          TV2934(B)SL
+R617   333020 RES OXID 472 F 1/4W AT26                  Q301A   333949 TRANS 2SD2553 TO-3P(H)IS        TV2134(B)SL
+R618   332806 RES CARB R51 J 1/16W AT26                 Q301A   333253 TRANS 3DD5032 TO-3P(H)IS
+R618   332842 RES META 151 F 1/4W AT26                  Q302A   333271 TRANS STK630 TO-220F
+R619   332557 RES CARB 271 J 1/16W AT26   TV2134(B)SL   Q303    333235 TRANS 2SC2482 TO-92 RT
+R620   332771 RES CARB 75R J 1/16W AT26                 Q401    333226 TRANS 2SC1815Y TO-92 RT
+R621   332423 RES CARB 103 J 1/16W AT26                 Q402    333226 TRANS 2SC1815Y TO-92 RT
+R622   332824 RES FUSI R22 J 1W RT        TV2934(B)SL   Q403    333217 TRANS 2SA1015Y TO-92 RT
+R622   333048 RES OXID 56R J 2W RT                      Q501    333235 TRANS 2SC2482 TO-92 RT
+R623   332593 RES CARB 332 J 1/16W AT26   TV2934(B)SL   Q501    333958 TRANS BF422 TO-92 RT26
+R623   332655 RES CARB 472 J 1/16W AT26   TV2134(B)SL   Q502    333967 TRANS BF423 TO-92 RT26
+R625   334911 RES CARB 221 J 1/4W AT26    TV2934(B)SL   Q503    333958 TRANS BF422 TO-92 RT26          TV2934(B)SL
+R625   332726 RES CARB 681 J 1/16W AT26                 Q504    333235 TRANS 2SC2482 TO-92 RT          TV2134(B)SL
+R626   332423 RES CARB 103 J 1/16W AT26                 Q504    333958 TRANS BF422 TO-92 RT26          TV2134(B)SL
+R627   332806 RES CARB R51 J 1/16W AT26                 Q505    333967 TRANS BF423 TO-92 RT26          TV2934(B)SL
+R628   333039 RES OXID 47R J 2W RT        TV2134(B)SL   Q506    333958 TRANS BF422 TO-92 RT26
+R628   333878 RES OXID 6R8 J 2W RT                      Q507    333235 TRANS 2SC2482 TO-92 RT          TV2934(B)SL
+R629   333039 RES OXID 47R J 2W RT        TV2934(B)SL   Q507    333958 TRANS BF422 TO-92 RT26
+R630   332405 RES CARB 102 J 1/16W AT26                 Q508    333967 TRANS BF423 TO-92 RT26          TV2934(B)SL
+R631   333672 RES CARB 121 J 1/2W AT26    TV2134(B)SL   Q509    333958 TRANS BF422 TO-92 RT26
+R631   332682 RES CARB 51R J 1/4W AT26    TV2134(B)SL   Q602    333226 TRANS 2SC1815Y TO-92 RT
+R632   332977 RES OXID 271 J 1W RT                      Q603    333217 TRANS 2SA1015Y TO-92 RT
+R633   334920 RES META 224 F 2W RT                      Q604    333208 TRANS 2SA1013 TO-92L RT
+R633   332931 RES OXID 224 J 1W RT                      Q605    333226 TRANS 2SC1815Y TO-92 RT         TV2934(B)SL
+R634   332833 RES FUSI R33 J 1W RT                      Q606    333262 TRANS S8050LT1 TO-92 RT025
+R635   333789 RES FUSI 1R5 J 2W RT                      Q701    333226 TRANS 2SC1815Y TO-92 RT         TV2934(B)SL
+R635   332833 RES FUSI R33 J 1W RT                      Q702    333226 TRANS 2SC1815Y TO-92 RT         TV2134(B)SL
+R637   332824 RES FUSI R22 J 1W RT                      Q703    333226 TRANS 2SC1815Y TO-92 RT
+R701   332405 RES CARB 102 J 1/16W AT26
+R702   332717 RES CARB 56R J 1/16W AT26   TV2134(B)SL                           TRANSFORMADORES
+R703   332398 RES CARB 101 J 1/16W AT26                 POS.     NE                 DESCRIÇÃO            MODELO
+R704   332398 RES CARB 101 J 1/16W AT26
+R705   332771 RES CARB 75R J 1/16W AT26   TV2134(B)SL   L601    333930 TRAFO FILTRO LINHA LCL-2815
+R706   332771 RES CARB 75R J 1/16W AT26   TV2934(B)SL   L601    333173 TRAFO FILTRO LINHA LCL-EE20-2
+R707   332771 RES CARB 75R J 1/16W AT26   TV2934(B)SL   T301    333182 TRAFO DRIVE HORIZ BCT-19G       TV2134(B)SL
+R708   332771 RES CARB 75R J 1/16W AT26   TV2134(B)SL   T302    333191 TRAFO SAIDA HORIZ BSC25-N1587
+R709   332771 RES CARB 75R J 1/16W AT26   TV2134(B)SL   T302    334957 TRAFO SAIDA HORIZ BSC27-N2
+R710   332496 RES CARB 182 J 1/16W AT26   TV2134(B)SL   T601    333155 TRAFO BCK-35-LF01X-EP
+R711   332496 RES CARB 182 J 1/16W AT26   TV2934(B)SL   T601    333921 TRAFO BCK-40-LF01X HD 23        TV2934(B)SL
+ESQUEMA
+
+
+
+
+          .
+
+
+
+
+          .
+Av. João Dias, 2476 - Santo Amaro - São Paulo - SP - Tel: PABX (011) 5645-2100
+Rod. Anhanguera, Km 39,5 - Jordanésia Cajamar - Tel.: PABX 3232-2200
+

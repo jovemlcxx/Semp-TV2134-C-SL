@@ -1,0 +1,88 @@
+Título: SEMP TV 2134(C) SL WON'T TURN ON. SOLVED 👍
+Canal: Eletrônica Gomes
+URL: https://www.youtube.com/watch?v=zK0HHjAyApY
+Duração: 882s
+--- Descrição ---
+
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+pessoal bom dia boa tarde ou boa noite gente mais uma TVZ aqui uma S marca s depois que eu cheguei de viagem
+pessoal aqui o primeiro vídeo já fiz conserto em quatro televisão aqui mas eu tava com problema no telefone
+não teve como gravar mas aí eu vou tentar fazer ozinho dessa aqui aqui é o seguinte pessoal aqui é uma 2134
+bem conhecida modelinho dela aí ó TV 2134 CS consumo 65 w e aqui o cliente me passou que ela tá com defeito de
+não ligar ela não liga e dis fica só uma luzinha aca a luzinha que ele chama é o LED então eu vou lugar aqui
+na tomada vamos ver o sintoma dela apertar aqui a tecla F dela aqui ó ó o ledzinho acendeu é para dar partida
+ela dá partida e bate o relinho não dá mais nada ó fica piscando lá deu uma piscadinha bate o relé fica
+Armando e desarmando tentando armar então Vamos abrir ess aparelho aqui gente e ver o que que pode fazer por
+ele beleza e E aproveitando isso vou pedir para você se inscrever no canal se gostar do vídeo D um joinha
+beleza aqui é vídeo para iniciante a maioria dos meus vídeos é só para iniciante mesmo então vamos abrir o
+aparelho e ver o que que acontece beleza Então pessoal aqui eu já abri o aparelho e olhando aqui não tô vendo
+nada de errado principalmente com os capacitor eh não tô vendo nenhuma resistência com a cor diferente não tô
+vendo a placa com cor diferente todos os capacitores aí aparentemente tão bom aparentemente não tem nenhum
+estufado não tem nenhum estufado pode ter ruim capacitor ruim né mas eu estão aparentando Tá em bom estado
+isso externamente internamente ninguém sabe aqui por baixo da placa aqui vamos dar uma olhadinha aqui ó não tô
+vendo nada principalmente solda fria não tô vendo no circuito Zinho dela aqui essa TV gente Ela já ela já teve
+minha oficina há muito tempo menos um ano e pouco do anos foi feito reparo e agora ela voltou depois de um ano
+e pouco quase do anos mais ou menos ela voltou com esse problema com esse sintoma o primeiro problema eu não
+consigo lembrar o que que era mas agora ela tá com esse problema aqui de não ligar [Música] e aqui na
+plaquinha do tubo vou ter que fazer uma ressoldar mas aqui e como ela não tem solda fria aparentemente eu não
+tô vendo aqui na placa e não tem nenhum capacitor estufado não tem resistência chamuscada né torrada lá por
+trás eu vou fazer algumas medidas aqui fazer algumas medidas aqui na placa ver se eu encontro alguma coisa
+daqui a pouco eu volto com o vídeo beleza TV não ficar muito grande daqui a pouco eu volto pessoal Então
+pessoal voltando aqui eh eu fiz umas medidas aqui e os diodos tão bom aparentemente principalmente eh O que
+faz a a retificação da da tensão que vai pro mais B tá normal os diodos e O que costuma causar também muito
+isso é o o transistor Zinho q 606 ele esse tá esse bem aqui ó ele é o esse aqui ó esse transistor Zinho aí ó
+ele é o q66 que manda os 5 v para aqui pro micro para acionar tá normal ele tá mandando e a televisão continua
+entrando em proteção então aqui eu vou ligar ela e vou mostrar uma cor para vocês aqui e a tela ela não acende
+continua preta lá eu vou mostrar para vocês aqui o que que tá acontecendo Carro S passar logo aqui vou colocar
+o plug na tomada NZ acendeu ela dá partida mas não dá nada então eu vou rodar aqui o screen dela aqui ó o
+potenciômetro de baixo dob e v olar lá PR tela vou rodar ele aqui ó vocês vão ver o que que tá acontecendo por
+é que ela tá entrando em proteção rodando vou rodar ó vocês estão vendo ó potenciômetro rodei tá apresentando
+isso aí então é o seguinte ela tá com problema no vertical no vertical e talvez pessoal seja o próprio ci
+vertical ou a bobina defletora vertical que tá com problema então vou ver aqui o que que tá acontecendo tanto
+pelo ci medir o Ci e vou medir a bobina vertical para ver se o problema tá em qual em qual das duas partes Tá
+beleza vou fazer isso daqui a pouco eu volto Então pessoal aqui eu já eu troquei o ci vertical ele tá com
+problema no caso esse aqui ó esse aqui ó ele é o la78040 ele tá ruim e aqui ó eu medindo aqui os diodos tão
+bom e tudo como eu falei só que aqui tem um capacitor que ele tá ruim eue tá alterado que é o o c 318 eu tô
+com Ocupada aqui eu vou mostrar para vocês ele é esse aqui ó onde as ponteiras estão aqui ó ele é o c o c318
+ele filtra a tensão positiva que vem lá do playback mais 16 para alimentar um dos pinos do E C do do vertical
+e ele tá ruim eu vou triscar ele aqui e vamos olhar lá pro capachinho lá ó para você ver onde é que o ponteiro
+a ponteirinha lá vai vou triscar aqui nos termina dele aqui ó se eu consigo dar conta aqui trisquei ó lá gente
+onde o ponte tá ó no vermelho aí ó tá vendo ele tem que dar nessa última fila de baixo aí ó no verdinho no
+verdinho aí dessa fila de baixo ó tô triscando nos terminal ele tá completamente não presta de jeito nenhum
+esse da tensão negativa ele tá bom a Sr dele tá tá tranquila aqui mas eu vou tou triscar aqui ó se eu consigo
+triscar para mostrar para vocês também ó trisquei ó esse outro tem que fazer isso aí ó ó ele tem que vir no
+último e de baixo no verdinho tá dando uma apontada aqui eu não tô conseguir mas ele tá dando no verde aí
+então como é no setor vertical eu já vou aproveitar e trocar tirar logo todos eles daí para evitar futuro
+defeito eu vou tirar vou trocar o c319 que é o que tá medindo bom o que tá ruim é o c318 e já vou aproveitar e
+trocar também o C o C 314 aqui ó esse aqui é o c 318 é o que tá ruim esse tá medindo bom todos da filtragem do
+vertical só que eu vou tirar todos eles logo colocar capacitor novo aqui beleza a gente vai ver como é que a
+tela se comporta lá se vai abrir normal beleza vou fazer isso daqui a pouco eu volto [Música] pessoal Então
+pessoal aqui eu já fiz a troca do dos componente ó tirei os capacitores pindo bom mas eu tirei logo esse aqui
+é o que tava danificado alterado e o ci vertical você vertical C aí ó la 7840 esse capacitor é de 1000 por 25
+é de 1000 micro por Ó aqui tá com com 16 v é de 16 v aqui ó Tá errado isso aqui tá errado errado mesmo acho
+que é por isso que ele deve ter danificado mais rapidin só que da outra vez que ela teve aqui não foi eu que
+coloquei isso aqui porque essa voltagem aqui ela não obedece a que consta lá porque tem que ser toda vida a
+mais a voltagem a mais microfarad igual ou a mais um pouco e voltagem a tensão tem que suportar tensão além do
+que eh é pedido tipo é 25 v a filtragem ali 16 17 tem que ser a maisi voltagem trabal não dar problema e esse
+outro aqui ó esse aqui tá certo tá correto voltag de 25 por 25 esse aqui mas esse aqui tá errado então lá eu
+já coloquei dois novo dois capacitores novo inclusive desse aqui que eu comprei de 1 por 2 são muito procurado
+precisa muito são nov aqui ó 1000 por 2 dois que eu coloquei lá no circuito dela lá agora sim tá correto bagem
+muito capacitor Novo Muita coisinha nova que eu comprei e agora vamos ligar vamos ligar ela aqui para ver se
+vai abrir normal plugo na tomada ela já deu partida já olha agora a gente vai olhar lá na tela lá aguardar um
+pouquinho ó já ligou normal sem risco sem nada só que vou ter que baixar o o screen dela lá que eu não baixei
+dar uma regulagem depois que eu vou colocar a imagem vamos medir aqui a tensão aqui ó multímetro tá na escala
+de 200 DC medi o mais B dela que é aqui no pino dois ó elas tem que tá certinho ó 114 mais B desse esse modelo
+aqui é 114 certinho extensões de vertical + 16 + 16 e -16 colocar aqui ó 16 do outro lado deu 17 mas ele
+altera um pouco não tem problema a tensão de 180 aqui ó tá dando 176 e tem as outras tensões baixo aqui na
+sede do transformador beleza medir aqui 5 v baixar a escala 20 Desc medir aqui 5 aqui do do varicap tá lá os
+33 V aumentar a escala para 200 DC os 33 V tem que ter tá lá ó batido 33 Então pessoal televisão voltou a
+funcionar só essas peças danificada aí ó como vocês viram aí beleza E esse aqui gente é o primeiro o primeiro
+vídeo que eu faço depois que eu cheguei de viagem já fiz o conserto de de três televisor aqui mas como falei
+para vocês o o aparelho estava com problema meu telefone mas eu vou ver se dá para enviar esse videozinho para
+você beleza videozinho para iniciante repito tá bom se quiser fazer alguma pergunta você pode perguntar quiser
+comentar alguma coisa vocês comentes sejam educados que eu nos comentários que eu respondo a todos os
+comentários e para fazer comentário criticando faç o favor de nem assistir o vídeo beleza esses que são da
+sabidão go est criticando os vídeos de um e de outro por favor não assiste meus vídeos porque aqui eu faço
+vídeo para iniciante então Fiquem todos com Deus que Deus abençoe vocês e a família de vocês e muito obrigado
+gente por assistir o vídeo até o próximo vídeo galera beleza
+

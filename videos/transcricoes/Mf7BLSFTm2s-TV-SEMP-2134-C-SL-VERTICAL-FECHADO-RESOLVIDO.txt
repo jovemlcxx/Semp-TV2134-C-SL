@@ -1,0 +1,58 @@
+Título: TV SEMP 2134(C) SL VERTICAL  FECHADO. RESOLVIDO 👍
+Canal: Eletrônica Gomes
+URL: https://www.youtube.com/watch?v=Mf7BLSFTm2s
+Duração: 587s
+--- Descrição ---
+
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+Oi bom dia boa tarde ou boa noite gente hoje eu tô aqui na oficina do meu amigo aqui uma televisãozinha da
+Semp ela é uma mostrar o dente para você aqui ó ela é uma o 25 2134 CSL consumo de 65 watts e ela essa daqui
+eu te ver vem aqui ó vocês podem ver aí tá sempre ultra slim Oi e o sintoma dela vou mostrar para vocês agora
+E aí se liga para o mar e ela e você vai colocar ali o clube se na tomada eu vou mostrar para vocês aqui como
+é que ela se comportando ou sintoma dela me ligou ela já deu está luzinha a armar os vamos ver aqui na tela a
+sintoma que ela tá apresentando e agora ela não apresentou nada e fazem vou donar fazer ligada nele só nós
+conectar aqui vou mostrar para você aqui tá meio difícil de acesso mais Oi aqui é formado em casa de direito
+vou mostrar para você aqui sim tô mandando aqui ó E aí assim tomando ele seria o risco horizontal no topo da
+tela não é nem um mês que vem ficar olho filho costuma fechar mais aqui é mas só que esse problema também
+relacionado ao circuito vertical aqui ó só um risco brilhante Ah entendeu eu vou medir aqui acho que responder
+agora ia mostrar para vocês como é o vertical ó hoje eu vou mostrar para você sair daqui E como sempre já está
+aqui na escala de a 20 volts continuar aqui ó o podem ver aí agora eu vou medir aqui as alimentação do
+vertical que vocês veem e os problemas fica no vertical aqui ó tá o flayback aqui é aí tem o 16 - o Gustavão
+de foco é mas é 16 - e 16 mais e na alimentação de 16 - é para ter o mesmo 16 volte vou ter que ficar pronto
+do multímetro lá a fronteira feriado e as pode vir que aqui quer dizer ser mais Oi tá lá dando só 11 volts tá
+Buzz também o e 16 - aqui o Olá só tem 5 volts 5,85 bom então eu estou com um problema aqui não sei quanto vai
+ficar o do aparelho aqui e eu vou dar uma conferida aqui ver se de Ouro ver os capacitores de filtragem aqui
+da alimentação que vai para o pino 6 e pepino dois desse aparelho aqui e fazer uma reforma aqui nessa nessa
+área do do horizontal ou vertical aqui playback tudo na fonte não na conta não tem solda fria não mas na
+horizontal eo vertical tá com defeito eu vou ressaltar e ver o que é que tem que ser trocado aí Tá bom então
+vou fazer isso agora e daqui a pouco eu volto com vídeo Tá bom já quanto à lesão funcionando perfeitamente
+aguardem o próximo vídeo para vocês que o outro não está chegando alimentação tava só em 5 e eu fui olhar
+direito aqui e ele tava compositor queimado os estojos de alimentação da tensão negativa aqui ó que ele é o
+re308 aqui ó tá ponta da chave ele tava aberto então eu fiz a troca dele liguei o aparelho e passou e até ela
+vai aparecer imantada aí eu desconfiei de você vai ficar oculto vocês em vertical em curto então eu já fiz a
+troca do transistor doce e o que tava nela esse aqui ó Olá meninas a referência deles ele ó O TC 78045 e o
+original que tava nela e diz que eu coloquei aqui agora é um sei 93 ele é um STV 9302 aquele é o equivalente
+desse aqui ó nem equivalente esse aqui do la78 041 e do la78040 todos esses são equivalentes Então já fez
+Prefeito é coloco aqui já Aproveitei fiz a troca dos capacitores em difícil da alimentação negativa e positiva
+dos seus vertical e a existência Será que já caiu no chão eu queria mostrar para vocês aqui era uma
+resistência de dourado Dourado preto e marrom c001 r o valor da Resistência os capacitores vem aqui olha só de
+mil microfarad aqui ó mil microfarad por 25 volts todos os dois eu já fiz a troca Eu já coloquei lá e agora eu
+vou ligar o aparelho aqui vou mostrar para você lá no espelho lá como que ele ficou de colocar o plugue na
+tomada aqui ó eu coloquei televisão já arrumou bobina desmagnetizadora já trabalhou e vamos lá no esperar ela
+vai abrir a imagem na tela a palavra é aquela já abriu vou mostrar aqui na frente para você rapaz e eu já
+aberta aí e agora já conferir as tensões de eu e mais bem mas eu vou mostrar para vocês aqui pensando que mais
+vi coloca um motivo na escada de em 1208 - 200 vou descer o erro aqui não mais ver que é o pino 2 do flyback
+aqui ó já está pronto era positivo falar o motivo 116 outro tá bom vamo atenção de 180 aqui na placa do
+cinescópio aqui ó vou pode ser aqui embaixo para botar aqui em cima dele é e tem que 180.com também e as
+outras tensões baixas aqui na saída do transformador chopp aqui ó essa aqui sair daqui do bingo cardíaco São
+46 vou falar tá com 45 tá normal a outra é de 12 volts eu coloquei a ponteira aqui na tensão de 12 volts que a
+11 volts. 6 Tá bom também a e na atenção aqui de 9 volts a intenção de 9 volts de queijo procurar aqui é mas a
+tensão de 12 volts aqui ó a falar também a inércia dos altas tensões aqui o diag nóstico atenção negativos ela
+o e atenção se atenção de diverticao o que marca 16 volte aqui na saída do playback aqui ó a 16 - 16 mais
+vamos colocar aqui no de no d305 realimentação negativa de 16 volte a outra ficar quando da ponteira lá na que
+tinha só cinco naquela hora lá olá olá a 16 Volts. 3 a Ritinha sozinho que a negativa atenção positiva e e tem
+que ter mais 16 também e veio lá no motivo tem 15.7 sabor demais e aqui na bobina é na bobina ah ah não né
+bobina não mas como vocês podem ver as alimentações são todas normais aí ela sozinha lá e a tela acesa aberta
+todinha e não mais é isso mesmo e até o próximo vídeo e fiquem com Deus e que Deus abençoe a família de vocês
+e até o próximo vídeo
+

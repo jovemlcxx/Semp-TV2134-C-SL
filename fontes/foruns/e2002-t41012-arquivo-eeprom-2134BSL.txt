@@ -1,0 +1,76 @@
+ Tópicos semelhantes
+ »  tv Toshiba tv 2134sky chass.SK11(vertical ñ abre) 
+ »  tv toshiba tv2134(c) sl sk11 apitando no flyback 
+ Anuncios
+ Nenhum anúncio
+ Arquivo de Eprom toshiba modelo tv2134(b)sl chass sk11 
+ 5 participantes
+ Fórum Eletrônica2002 (Brasil) --> ::  ASSUNTOS GERAIS (ELETRONICA) 
+ Página 1 de 1 
+  por rtg_28 Sex 17 Set 2010, 17:46
+ Ola Amigos. preciso dos Dados da Eprom tv toshiba modelo Toshiba TV2134(B)SL chass sk11.
+se os amigos puder me ajudar agradeço desde ja.
+Última edição por rtg_28 em Seg 20 Set 2010, 17:29, editado 1 vez(es)
+ rtg_28 NOVATO
+ Gosto Não gosto 
+ Re: Arquivo de Eprom toshiba modelo tv2134(b)sl chass sk11 
+  por  Jandui Cavalcante Sex 17 Set 2010, 18:28
+ amigos por favor parem de pedir urgente , isto deixa de ser um pedido e passa a ser uma ordem , um por favor soa muito mais elegante!!!
+ Jandui Cavalcante Técnico
+ Data de inscrição : 19/10/2008
+  por Conteúdo patrocinado 
+ Conteúdo patrocinado 
+  por  Mauricio Ribeiro Sáb 18 Set 2010, 20:43
+ Realmente um pedido como urgente fica meio chato!
+_________________
+Todos os tópicos deverão ficar na seguinte sequencia:APARELHO,MARCA,MODELO,DEFEITO OU ASSUNTO.
+Isso é para todos os usuários do fórum sem excessão.... :lol!:
+ Mauricio Ribeiro Moderador do fórum
+ Data de inscrição : 13/10/2009
+  por  JAILSON Sáb 18 Set 2010, 21:07
+ Amigo RTG28, boa noite. Você está com tanta urgência para receber
+a ajuda que esqueceu que tem que postar o título corretamente.
+vôu tentar te dár uma orientação.
+1º) No título deverá ter O TIPO DO APARELHO, O MODELO, INCLUSIVE
+COM AS LETRAS, O CHASSIS SE POSSÍVEL, E O DEFEITO OU O PEDIDO,
+mas, nunca use a palavra [URGÊNCIA].
+2°) Concerte o seu título lá em cima, e retire também a palavra
+[URGÊNTE].
+3º) Espere as respostas, que com certesa a sua ajuda virá.
+Fique com DEUS meu amigo e amém.
+3º)
+ JAILSON Moderador do fórum
+ Data de inscrição : 13/09/2009
+  por  Jandui Cavalcante Qui 23 Set 2010, 20:53
+ obrigado por atender nossa solicitação,arrumando o topico
+peço aos colegas quem tiver os dados deste tv por favor atenda a este pedido
+muito obrigado;
+  por  Jandui Cavalcante Sáb 25 Set 2010, 10:34
+ up
+  por  Valdeni Oliveira Sáb 25 Set 2010, 13:41
+ Este ta difícil, acho que ele vai ter que comprar a eeprom já programada em uma autorizada.
+ **Canal do fórum Eletrônica-2002 no Youtube, se inscreva para apoiar o canal!** 
+ https://www.youtube.com/user/eletronica2002/videos 
+ **Site da Eletrônica-2002** 
+ http://www.eletronica2002.com.br/index.html 
+ Valdeni Oliveira Administrador fundador do fórum2002
+ Data de inscrição : 03/06/2008
+  por  Jandui Cavalcante Sáb 25 Set 2010, 16:09
+ amigo Valdeni muito obrigado pela atenção, este deve de ser um tv novo, pois aqui ainda não apareceu desta,
+ abraços.
+  por  Valdeni Oliveira Sáb 25 Set 2010, 16:21
+ Este modelo é bem novo sim, um dos ultimos! hehe.
+  por rtg_28 Sáb 25 Set 2010, 19:17
+ boa noite amigos.....é esse tv é realmente muito novo...modelo slim.mas de qualquer forma obrigado a todos.referente a ir ate uma autorizada,rsrs ja fui..nao quiseram vender.
+  por  Valdeni Oliveira Sáb 25 Set 2010, 19:26
+ E qual é o defeito dela que vc quer regravar a eeprom?
+Quem sabe podemos ajudar!? hehe
+  por rtg_28 Sáb 25 Set 2010, 19:34
+ esse tv entrou agua pelo varicap vindo pelo cabo da antena. conclusao queimou o micro. troquei o micro a tv liga porem com quadro reduzido e sem video. tela cinza linhas tipo retraço. cantos com uns 4 dedos fechando, nao reto. e sim curvo.
+  Tópicos semelhantes 
+ »  [Resolvido]tv semp toshiba tv2134 (sk11) 
+»  tv toshiba TV2134 b sk11 esquenta o Q303. 
+»  Tv toshiba tv2134 bsl SK11 com imagem embaçada 
+ Fórum Eletrônica2002 (Brasil)  ::  ASSUNTOS GERAIS (ELETRONICA) 
+ Início 
+ Forumeiros.com  |  © phpBB  |  Fórum gratuito de ajuda  |  Denunciar um abuso  |  Criar um fórum 

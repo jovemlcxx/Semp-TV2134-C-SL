@@ -1,0 +1,45 @@
+ TV 2134 SL semp - Televisores e projetores - Clube do Hardware 
+ Não recomendado para computadores públicos 
+ GRÁTIS: Resistores e Capacitores 
+ 29 de abril de 2014 em Televisores e projetores 
+ estou com 3 TV semp 2134SL sendo que 2 delas estão com o mesmo defeito ou pelo menos parece ser o mesmo defeito né, bom 2 delas quando acionado o power ela atraca o relé pisca o led mas fica piscando e para de atracar o relé, o +B cai de 114V para uns 40V se soltar o + B ele fica em 114V, a outra TV fica atracando e piscando o led, mas o +B desta TV está com 120v e se soltar o +B  começa a subir 140 150 160V 
+ Obs já troquei capacitores das 3 TV 2134 SL: C 634, Q 606, C 329, C 311, soltei o vertical, troquei fly black e usei um cinescópio TGDC bom de outra TV para testar e nada.
+ será que alguém já pegou este defeito ?
+ Provavelmente, as duas primeiras estão com o flyback queimado, a que aumenta a tensão de +B, pode estar com capacitores no primário da fonte ruim..., como: C610 ou os CIs Q601 e Q602 ruins, assim como capacitores/resistores de polarização deles....
+ Estou enviando parte  do esquema para fazer seguintes medições:
+ Meça no positivo do capacitor  C634 47u  160V verifique se a tensão de 114 V fica normal ou cai para  40V, se a tensão não cair meça no positivo do capacitor C311 meça em standy by depois em  power on para ver  se a tensão cai para 40V costuma ser este capacitor C311 com problema.(QUANDO FUNCIONA O CIRCUITO HORIZONTAL O C311 ESTA COM PROBLEMA E CAI A TENSÃO NELE)
+ O  Relé RL601  vai para bobina  desmagnitizadora.   
+ olá boa noite consegui resolver 2 das 3 TV semp 2134 sl uma era capacitor C303 184J e a outra era o diodo D302 agora falta essa que após ligar a fonte +B sobe 120 V subindo 156V  
+ Verifique o foto-acoplador e o TL431 que faz o controle do +B, verifique também os resistor ligados nos componentes para possivel alteração nos valores dos resistores.
+ olá Marcio, percebi que no pino 4  do STR estava com 14v  e o correto era uns 18v né, então sei que após resoldar o capacitor c609 e uns diodos próximo do STR ela abaixou a fonte +B para 118v mas a fonte de 180v fica com 118v,  retirei o fio vermelho do screen da pci crt e não aparece 300v ou 450v, obs. já testei em outro tubo de outra Tv que está funcionando. 
+ Seria melhor se você trocasse esse capacitor C609!
+ Se mesmo trocando não voltar ao normal, teste o flyback dela em outra TV.
+ olá BCpretronzio já troquei o fly, memoria o micro o C609 o STR , C329Q606,tl 431, tipo estou retirando de uma das que fiz funcionar do mesmo modelo 2134SL, os 16v -16v do vertical só aparece após os 180v aparecer? porque não tem essas tensão no CI vertical, não troquei o CI horizontal, só medi ele na placa após soltar todos os capacitores e diodos C302 C303 D302 ...
+ As tensões mencionadas só aparecem depois do saída horizontal entrar em funcionamento, como você não tem tensão no vertical, sugiro fazer uma boa verificada nas trilhas dessa placa, provavelmente a placa esta quebrada.
+ Boa noite colegas, Marcio era mesmo um dos Capacitores C634 ou C 311 que estava ruim o pior que troquei 3 vez mas retirei de pci de outras placas usadas e por asar acho que eles estavam ruim também, mas retirei de umas pci da philco 21SS e resolveu a fonte do +B  da semp 2134SL.
+ amigos Marcio e  BCpretronzio muito obrigado pelas dicas e sua atenções, até mais  
+ Este tópico foi arquivado e está fechado para novas respostas.
+ Nenhum usuário registrado visualizando esta página.
+ Pc não dá vídeo mas leds e ventoinhas giram 
+ Computador não ligando ou não dando vídeo 
+ Projetor sem imagem, aparece loogoo quando liga 
+ DDR5 6000Mhz ou 6400 para usar com AMD Ryzen? 
+ Montagem e upgrade de computadores de mesa 
+ Posso economizar na placa-mãe AM5 se quero fazer upgrades futuros? 
+ Ryzen 5 4600G + RX 6500 XT desligou após jogar My Hero Ultra Rumble 
+ Computador desligando sozinho 
+ Sugestões de gabinete discreto até R$ 300 
+ Como executo jogos de DOS no Windows 7 32-bit? 
+ Posso instalar memória de 16 GB ao lado de duas de 8 GB na TUF B550? 
+ Sugestões de gabinete e cooler para R7 9800X3D + B650 + RTX 4080 até R$ 600 
+ Refrigeração e superaquecimento 
+ Notebook Vaio FE15 suporta memória ADATA Premier 8 GB? 
+ O misterioso disquete de 2,88 MB 
+ QEMM e os limites de memória do DOS 
+ Stacker e a guerra dos compactadores de disco 
+ Bernoulli Box, o precursor do Zip Drive 
+ Os discos magneto-ópticos (M.O.) 
+ No ar desde 1996, o Clube do Hardware é uma das maiores, mais antigas e mais respeitadas comunidades sobre tecnologia do Brasil. Leia mais 
+ Não permitimos a cópia ou reprodução do conteúdo do nosso site, fórum, newsletters e redes sociais, mesmo citando-se a fonte. Leia mais 
+ Powered by Invision Community 
+ GRÁTIS: Resistores e Capacitores

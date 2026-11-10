@@ -1,0 +1,169 @@
+Título: Como  Entrar No Modo De Serviço Da Tv Semp 2134(C),TODOS OS PARAMETROS Do Modo Desenvolvimento
+Canal: Eletrônica O Benevaldo
+URL: https://www.youtube.com/watch?v=znIptfS0CR0
+Duração: 1346s
+--- Descrição ---
+como entrar no modo desenvolvimento da tv 2134c e verificar todos as paginas e parametros 
+
+#eletronicaobenevaldo
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+E aí o Olá amigos sejam todos bem-vindos mais uma vez ao canal eletrônica O Benevaldo e Vamos lavar mais um
+vídeo pessoal dentro de hoje para trocar trazer para você ir aí os parâmetros do modo de serviço da TV Semp
+Toshiba modelo 2134 te Beleza agora Quero mostrar desde Como entrar no modo de serviço até mostrar todos os
+parâmetros do módulo de serviço e do modo de desenvolvimento né E vai um pouco mais além hoje eu quero mostrar
+para vocês porque eu precisei desses parando e eu não consegui encontrar nenhum manual é de serviço da TV né
+então o que que eu fiz tive que ir pegar multa TV ele estava com suas configurações nem seus dados da memória
+tudo perfeito e tive que fazer uma votação Aqui não na cadernos em si todas as anotações de todos os
+parâmetros entrar no modo serviço de podem confirmar que estão me enganar 16 dezesseis páginas 16 páginas como
+vale para cada uma delas então é bastante coisas mas eu tive que fazer tudo isso porque eu peguei uma TV com
+problema relacionado a memória né na TV estava com audio normal no vídeo é mas minha f não tinha tinha imagem
+normal mas o áudio não tava cheirando né E aí o cabelo não sabe exatamente relacionada à memória e claro né
+que tava querendo um jeito simples de fazer esse esse reparo gravando a memória né mas tem um detalhe nem todo
+mundo é por mais de feijão uma ferramenta quipamento bem simples bem barato nem todo mundo tem acesso né a um
+gravador de memória e acesso também ao computador né que você tem que levar o gravador de memória e eu acho
+que não dá para fazer isso não com o celular né Eu acho que tem que ser gravar de memória e e no computador né
+já no caso você baixar os dados da memória é usado para aquele modelo de TV e fazer a gravação e você vai ter
+que ela também conhecer um pouco saber mexer ali para poder fazer a gravação da memória né E como eu não tem
+nem nem tinha nem tenho nenhuma coisa aí eu tenho um gravador no computador então tive único jeito que eu
+achei para normalizar essa memória nessa TV aí foi pegando os fazendo comparação no caso anotei todos os dados
+de uma TV e foi fazendo todos os testes na outra TV até ver ali aonde que eu eu corrigir o defeito né então
+aonde que tinha aquela diferença ali relacionada à parte do áudio no caso e ele vou tá mostrando todo
+procedimento aqui para você mostrando todos os dados e um detalhe cidades não tá vendo quer dizer que na sua
+TV vai ter que ter meu a numeração ele do mesmo jeito né aí principalmente relacionada à geometria e a
+geometria tipo haste vertical horizontal pode dizer que uma diferença Sinhá nos números né para mais ou para
+menos porque isso vai depender do dos componentes né e tudo mais então não quer dizer que a primeira aqui tá
+no 40 o seu aí tem que tar em 40 também não você vai ajustando ali e mas vai lhe dar uma Luiza mas ele já
+tenho dúvida Não param e tal aí você bota lá a mesma coisa né E daí tentar resolver o seu problema caso seja
+um problema de áudio de imagem é de alguma função alguma coisa que a gente normal que tem relação da memória
+Então vamos lá e é para entrar no modo de serviço eu só você pode utilizar mais controles aqui nesse modelo
+sem problema algum beleza galera Então você vai primeiro sentimento aí né você vai apertar a tecla menu É
+certo que a tecla 19 né você diminui 19 né -1 e 9 pronto aí a gente Você já entrou no modo de serviço da TV
+aqui a gente tem a primeira tabela aqui né você pode ver a tabela zero para alternar entre a tabela aí você
+vai apertando a tecla menu pode apertar a tecla menu que eu recomendo né o as teclas que os números aqui tá
+certo vamos ver aqui tá aquela apertando a tecla menu você tem um é na verdade tá aparecendo só 10 e 11 né mas
+eu te apertar zero ver aqui dois às vezes apertar usar não tem até porque a única aqui novo zero eu vou
+mostrar pra vocês aí você pega aí os números aí ó tá vendo galera 52 não ela foi na horizontal e assim por
+diante vou deixar nós um tempinho para você poder pegar e essa numeração aí vendo esse número daí de casa que
+você precisa né 5233 vem galera eu não eu não vou conseguir falar para vocês não é explicar cada um desses
+parâmetros aí aqui correspondente né que corresponde Exatamente porque eu não sei eu não vou saber todos os
+parâmetros beleza que só só sei que é relacionado levantavam esse daqui a alguns modelos de TV ele funciona
+para abrir a imagem né não abrir mais a imagem nesse sentido assim ó né Eu acho que nesse modelo Funciona
+porque nesse modelo é lá no chá sei não tem aquele moço oxe que trabalhar na horizontal na Então acho que tem
+que não vai alterar a ele relacionada vertical dizer o que ela não vai vir de carro né e assim por diante aí
+vamos aqui para trabalhar um aperta a e eu tava pensando que você vai se você já apertar a tecla já vai direto
+aqui no modo de serviço funciona a festa no só um já vai direto nesses outros aí é tudo 3210 e eu vou passar
+todos aqui de um pra vocês ver tabela do Oi Olá tudo é 32 também esse daí ó há um ano de porte grande mediatek
+um agora vamos contrair o ágeis E aí a 25 E aí pessoal sobre briga 5v linha 25 Então é isso mesmo é o quarto
+aqui não vai o quadro que já não já já não existe ou até o 3 tá certo aí depois disso daqui que que acontece
+aqui pessoal e você volta é para você entrar no modo de desenvolvimento você vai ter que ir colocar na tabela
+zero aqui novamente Tá mas eu quero avisar aquele negócio pra vocês antes seguinte essas mudanças aqui é o
+seguinte funciona pelo menos essa daqui da parte de Geometria na para geometria se você já alterar aqui
+presente presente não se você já já falta era mentir você já vai conseguir ver na imagem Se eu tivesse aí mais
+você já vai conseguir ver a diferença para imagem abrindo e fechando a Subindo ou descendo entendeu velho o
+cartão detalhe é em algumas outras funções Essa é para mudança só vai passar a valer depois é que você tá aí
+no modo de servir certo como é que você tá em um serviço apertar a tecla é né então eu digo porquê porque eu
+fiz na outra TV que eu fiz o conserto eu fiz a mudança aqui é mudei né um parâmetro aí e não vi efeito nenhum
+aí eu fiz dessa entendeu por que que não fez a mudança Não surtiu efeito nenhum depois eu pesquisando mais eu
+descobri o que né que ela tá só passou a valer mesmo depois que eu apertar conhece a irmã de serviço na
+Desliga a televisão liga de novo ali aí foi que eu vi que surtiu efeito ali a mudança que eu fiz na parte do
+Pantanal lá no caso na parte do áudio então eu quero saber dica para você assistir para você entrar em algum
+parâmetro muda não vi mudança em você deixa o número que você quer lá e sai do modo de serviço tá certo que aí
+só assim vai vai ficar ali memorizado no dizer assim que você é bom e o que você fez né chover aqui agora para
+você como eu falei para você que era modo serviço né você tem no caso até três mais tempo a tabela né já
+começa 100 né instrumento quatro não falei nada zero um dois e três Então são quatro tabelas assim como o modo
+de desenvolvimento vai até o de 0 a 15 né então dizer isso aí 16 páginas tem desce daí então vamos lá para o
+modo de desenvolvimento bom né que eu já mostrei pra vocês tudinho né hum todos os números das direito não eu
+não ter ido aí você vai voltar aqui para 10 para entrar numa desenvolvimento vou pegar aqui embaixo a parte de
+baixo aí não tem vídeo Eliene né Evelyn sei lá ele até aqui e aqui você digita até com oito e até com a 9
+Beleza então aí nesse vídeo aí tem que ser na sequência né Para poder não dar erro ela pode ter que ter a
+peste fica tela branca mas depois é só você sair sem problema algum se você não quiser na sequência né eu vou
+vir aqui demorar um pouquinho aqui para ver se acontece aí alguma coisa aí é diferente né pronto espero aqui
+um pouquinho apertar 89 não sei se vamos ver 8 e 9 não aconteceu nada foi beleza né eu tenho que por eu
+demorar um pouco né não ia entrar no moto de desenvolvimento porque ele não tiver com mexer com a tela branca
+com outro homem né mas eu tive que apertar a tecla é se você não me engano né sair e fazer o procedimento
+novamente mas sair é como eu falei para você ir lá no modo de serviço não vim até aqui a parte de baixo E
+aonde é justamente aqui para que já mostra às três tabelas lá também do mesmo jeito aqui que já no mundo
+desenvolvimento vim até o principal né e apertei até Claro 8 e até conosco aqui dentro desenvolvimento acho
+que ele tá dando pra vocês ver daí mas tá um pouco tá um pouco ruim aqui rapidão Eu queria poder mostrar
+melhor para você sair com o pequeno né E aí e vai ficar um pouco complicado para mostrar para você ir eu não
+sei se vai dar para vocês verem direitinho é mas eu vou falar pra vocês aí no caso dessas três aqui é a mesma
+coisa que eu falei né ó aqui aí você precisa ter que mudar agora perdendo não vai para um vendo apareceu lá
+mas não vai lá e eu queria falar para você aí aqui que acontece o apertar 0 vai para o 10 nem para trabalhando
+daí já vendo então por exemplo volta aqui por zero novamente 000 para mim ir para um é para mim adiante né eu
+posso o que eu tive com o mesmo com dois aperta 101 vai com 0383 né E tem que ter passado de um por uma festa
+no menu também a mesma coisa lá do modo serviço também aperta o menu aí foi um vocês podem ver mesmo com o
+rosto 32 tá doido FAT32 a gente fez aqui também a mesma coisa agora é que vai mudar né agora já vai ter quatro
+cinco que não tinham acesso lá no modo totalmente negócio de serviço mesmo e é normalmente pronto o quadro era
+quanto aí como você pode ver aí eu tenho certeza aí 24 mas vou falar sozinhos para vocês aí né certo só e até
+conheça os 16 24 e 42 São Francisco confirmando aí ó 42 novamente 48 3248 mais Pet 3551 55 69 71 72 73 Ah
+beleza então agora vamos para cinco próxima há 5 horas 15 a o primeiro laço brilho Esse beijo que seja sobre
+né aqui mais é tudo relacionado a cocô comprar suas coisas aí ó como o primeiro é de cima tem 32 eu acho que
+fazer uma coisa para você arranjar nós vai fazer nacional que você ver melhor Deixa eu voltar aqui de novo no
+quatro 24 quando eu faço assim Vocês conseguem ver o número melhor tá vendo 42 de novo 48 dois 48 mais 7 vou
+passando aqui vocês corrigindo aí conferindo né você dá uma pausinha caso você precisa é Nossa 21 tô fazendo
+aqui pessoal porque bom para o próximo a cinco porque eu não encontrei isso aqui pessoal na internet tá certo
+então eu resolvi fazer isso aqui que eu acho que seja De grande valia beleza 35 aí ó 15 40 vem galera parente
+todos aí tá bem importante vai ter alguns relação da áudio relacionada à a sintonia a função muito muita coisa
+se tiver algum deles e descontrolado Já já Deixa de funcionar o aparelho beleza pessoal vamos parou tabela
+seja e f ele é uma que eram também que a zero que algum um de novo zero e assim vai 101 25 aqui ó 20 dia doido
+vamos para sete agora pessoal o mistério ir para esse modelo para fazer o último modelo pode ser pode ser eu
+com certeza diferente né pelo menos a maioria dos 40 vai ser diferente pode ser tem algum igual 10 né quiser
+também quer um 50 mesmo só agora vamos por 8 10 vendas 100 acredito muito importante aí para vocês aqui
+precisar não mostrar para vocês todos os parando que daí que é muito importante é e esse aqui pessoal lá no
+oito vocês ver aqui no final assim gente aqui tá zero Beleza se você colocar por um ele resgata a memória viu
+então isso aí nesse nesse de baixo aí é relacionado ao relacionado a zero a memória reserva memória então não
+não coloque Essa opção não porque vai resetar memória Tá certo vamos para 9 agora 9 e pronto olhar vamos lá um
+avião é um quero te amo de novo zero melhor money a 0 em Power 200 12432 vendo Vamos lá por 99 já estavam
+poderes em próximo tchau daí a gente 53 PS3 olha mais 0 é um leque aí tem 13 mensagem 50 vendo pessoal vamos
+por 11 agora 11 para 11 e 15 10:45 039 ano pessoal aí vocês vão conferir no aí onde vocês aí tá certo tiver
+algum parâmetros aí principalmente esses parâmetros aí tem que tem zero é que tem a opção de cá 01 doido três
+e daí é que às vezes se tiver mudado alguma coisa aqui é que vai dar uma diferença aí na de alguma diferença
+relacionada a alguma função da TV alguma coisa né esses outros que que vai de uma a 20 25 30 e 60 sei lá esse
+daí vai estar mais relacionada com o alguma outra função também mais que é talvez não vai fazer tanta
+diferença assim né claro que tudo faz a diferença né mas nesses outros assim que às vezes ativo né já está em
+um Que coisa né fazendo 10 ative uma coisa ou desativa o outro e assim vai né então isso os mais a prestar
+atenção aí né realmente tem um tá inverno tem dois beleza Vamos agora para o 12 né agora 12 aí ó a Geni tá
+entrei vendo que tem um um de novo um eu vou passar todos aqui mostrar pra vocês aí até o 15 né tendo 15
+tabela né 15 página perfeita na casa de 16 anos que começa a 0 né e é perfeita 01 daí 350 agora vamos pro 13.3
+aqui ó 00220 9003 13 vamos agora 1414 aí é do jeito que a igreja não tem nada escrito vocês 00172 é tem y
+equipos y 9 vocês podem ver aí e assim por diante 97 deu oito assim por diante e 01 10 11 novo em 1500 um hein
+vamos por último pessoal último o último a a forma mais velho mas é mais armas zero tudo igual o avental e aí
+eu falei para você se por acaso agora voltar para o 0300 e é muito legal três nessa parte de geometria aqui se
+você mudar você já vai sentir a diferença né você já vai acontecer mas em outros aí que ativa e desativa
+função alguma coisa desse tipo você não vai ver logo imediatamente aqui não é isso que eu tava te mudou aqui
+já vai ver acontecer não equipamento alguma coisa relacionada áudio ou ativar ou desativar a função aí você só
+vai perceber depois que você sair do modo serviço aí que você vai conferir como é que ficou se for como eu
+falei no meu caso quero pra mim no áudio apertei e mudei o número de modelo dele não mudou nada aí eu fiquei
+sem entender né aí só passou a valer mesmo depois que eu fiz alteração sair mal de serviço aí que eu fui
+conferir adiante tá valendo já né e aqui não tem como eu passar muita coisa para você sobre outro problema
+ciúme e eu passei para você da informação lá no 48 né ou tá aqui 08 aqui apresentar memória né aperta lá por
+um exemplo vai resetar memória bom é deixa eu ver aqui não sei mais aonde era aqui pessoal é e até agora não
+lembro G1 e não não consigo lembrar que para falar para vocês que a ver não sei que lembra que dessa parte lá
+dentro que aqui presente para ver um se estiverem sério desativa o aviso então eu vi lá não aparece eu penso
+desse jeito tá inverno né esse Y ver ele tem um já tive lá e o vídeo um também tá ativo né se você colocar 10
+e desativa o av2 no caso da TV que não tem a ver dois outra desativado vendo Então essas coisas que eu que eu
+falo tá vendo Então é desse jeito só e é deixa eu ver deixa eu ver mais aqui o que o outro tem um outro
+detalhe aqui para mostrar para vocês Ah lembrei de um negócio para mostrar era sobre a questão do Estado de
+baixo achando que é muito 13 e um parente períodos colocar aqui problemas 13 - 13 Estamos bem e molde pronto
+aqui é bem aqui ó Ah é tá inverno né 10 vem o stand-by stand-by não é não está debaixo que eu quero falar é o
+Multi Na verdade é um monte seu por exemplo aqui é o seu colocar aqui em um tá inverno Tá vendo você colocar
+assim um ela vinha muda seu pai vai ligar o Ligar a tv ela só dava um estralo lá querendo aparecer um pouco a
+voz mas já tomei ficava mudo ativado né na verdade né porque isso aí talvez seja para outro modelo de TV tiver
+em um cativado mundo ela fica sem voz né E aí 10 aí eu mudo fica como se tivesse desativado é para normal né
+ela vai funcionar normal com voz de tudo agora se tiver um que tiver um por exemplo E ela ficou muito tirando
+ele tem que ser 10 aqui nesse caso agora até que eu queria falar para vocês né e eu não lembro mais de alguns
+nem lembro nem sei mesmo na verdade né explicar para vocês cada funciona essa isso aí é bom né se tivesse
+explicar para vocês cada função dessa daí o que aqui que quer dizer né e aqui corresponde mas infelizmente eu
+não tenho informação né mas o que eu tive que está ao meu alcance para mim mostrar pra vocês não é só muito
+parando por aí E essa teve tá normal né na pedra tá com essa cor ali meio que veja YouTube né mas ele já
+relacionado a próprio corpo dela mas ela tá com imagem normal né ele mostrar para vocês mais essas questões
+separando todos os parâmetros aí no modo de serviço mas para não ter problema na casa você preci isso vai ter
+já as informações beleza e para sair pessoal pra sair perto Até parece aqui ó até cresce Beleza vou apertar a
+tecla aqui né aí modo de serviço vendo e sair do modo serviço eu posso te ligar a TV né liga novamente e tudo
+show de bola tá vendo Então é isso aí Espero que você tenha gostado aí da Dica parece pão um hoje Espero que
+tenha gostado tiver gostado aí se tiver gostado deixe um joinha tá terminar de animais que tal mas é coisa da
+câmera mesmo que nós lá na TV não só se você tiver passado mas vamos ver se eu tiver gostado deixe vai tivesse
+vindo para você aí deixa o like compartilhe com os amigos galera ir verifique se você já te disse você não for
+inscrito se inscreva Ative o sino de notificações para não perder nenhum conteúdo aqui no canal eletrônica O
+Benevaldo fica com Deus e até o próximo vídeo se Deus quiser valeu
+

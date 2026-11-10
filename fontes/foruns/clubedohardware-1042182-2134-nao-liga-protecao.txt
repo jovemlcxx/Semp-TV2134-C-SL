@@ -1,0 +1,37 @@
+ Tv Marca SEMP TOSHIBA Modelo 2134 não liga em modo de proteção - Televisores e projetores - Clube do Hardware 
+ Não recomendado para computadores públicos 
+ GRÁTIS: Resistores e Capacitores 
+ Tv Marca SEMP TOSHIBA Modelo 2134 não liga em modo de proteção
+ Tv Marca SEMP TOSHIBA Modelo 2134 não liga em modo de proteção 
+ 7 de setembro de 2013 em Televisores e projetores 
+ Postado 7 de setembro de 2013 
+ Essa tv inicialmente a dois meses atrás apresentou o seguinte defeito: tela branca sem conseguir mudar o contraste. Substitui o C-329 de 4,7x250v e resolveu o problema.
+ Agora ela esta com vertical reduzido com a parte de baixo do vertical azul. Substitui o vertical e o C311,C314 e o C364.
+ A tv quando é energizada o relé liga e desliga. Essa tv só liga o led de Stand by, e fica em modo de proteção. 
+ Postado 8 de setembro de 2013 
+ O CI vertical que você colocou esta com problemas! remova ele e teste novamente!...
+ Este tópico foi arquivado e está fechado para novas respostas.
+ Nenhum usuário registrado visualizando esta página.
+ Pc não dá vídeo mas leds e ventoinhas giram 
+ Computador não ligando ou não dando vídeo 
+ Projetor sem imagem, aparece loogoo quando liga 
+ DDR5 6000Mhz ou 6400 para usar com AMD Ryzen? 
+ Montagem e upgrade de computadores de mesa 
+ Posso economizar na placa-mãe AM5 se quero fazer upgrades futuros? 
+ Ryzen 5 4600G + RX 6500 XT desligou após jogar My Hero Ultra Rumble 
+ Computador desligando sozinho 
+ Sugestões de gabinete discreto até R$ 300 
+ Como executo jogos de DOS no Windows 7 32-bit? 
+ Posso instalar memória de 16 GB ao lado de duas de 8 GB na TUF B550? 
+ Sugestões de gabinete e cooler para R7 9800X3D + B650 + RTX 4080 até R$ 600 
+ Refrigeração e superaquecimento 
+ Notebook Vaio FE15 suporta memória ADATA Premier 8 GB? 
+ O misterioso disquete de 2,88 MB 
+ QEMM e os limites de memória do DOS 
+ Stacker e a guerra dos compactadores de disco 
+ Bernoulli Box, o precursor do Zip Drive 
+ Os discos magneto-ópticos (M.O.) 
+ No ar desde 1996, o Clube do Hardware é uma das maiores, mais antigas e mais respeitadas comunidades sobre tecnologia do Brasil. Leia mais 
+ Não permitimos a cópia ou reprodução do conteúdo do nosso site, fórum, newsletters e redes sociais, mesmo citando-se a fonte. Leia mais 
+ Powered by Invision Community 
+ GRÁTIS: Resistores e Capacitores

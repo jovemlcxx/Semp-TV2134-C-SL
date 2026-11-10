@@ -1,0 +1,56 @@
+Título: SEMP 2134 (B) SL TV WON'T TURN ON, RELAY CLICKING (SOLVED)
+Canal: Adelmo 
+URL: https://www.youtube.com/watch?v=A784Mgud-Ug
+Duração:  Gêmeos Eletrônica|493s
+--- Descrição ---
+TV SEMP TOSHIBA 2134 (B) SL NÃO LIGA,BATENDO RELÉ (RESOLVIDO)
+@AdelmoGemeos
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+Olá gente Adelmo gêmeos aqui mais uma dica rápida aqui pro Canal tô com essa TVZ inha da s aqui de tubo a 2134
+bsl ela não liga quando a gente liga na chave aqui a gente percebe que ela faz aquele barulhinho de ligar
+porém em seguida ela desliga aí fica só fazendo te te te te e não liga vamos testar aqui para ver ó eu vou
+ligar a chave aqui ó vamos ver se a gente dá para ouvir o barulho ó ó fez o Balu de ligar aí ó ó aí ó não liga
+vou desligar aqui na verdade ela já at já tá até desmontada aqui eu já identifiquei o defeito aí eu tô
+trazendo aqui pro Canal só para mostrar essa dica eu vou colocar o celular aqui ó tirar a placa aqui deixa eu
+posicionar melhor aqui o celular aqui gente ó essa TV ela é campeã de dar defeito nos capacitores aqui da
+fonte Ó nesses capacitores aqui de 47 por 160 v porém essa daqui eu tô vendo que ela já foi trocado já tem um
+tempo que ela já foi trocada esses capacitores eles não são os originais Dá para ver que já foi trocado aqui
+já foi trocado aqui também ó esses capacitores aqui do vertical o do vídeo que D muito defeito também ou seja
+pelo menos por enquanto a gente descarta a possibilidade de ser esses capacitor Aí como eu eu vi que esses
+capacitores aparentemente estavam bons aí eu já fui logo para um um defeito muito comum nessas TVs que é aqui
+ó no circuito vertical na alimentação vertical Na verdade tem dois diodos pr alimentação vertical tem o diodo
+pr alimentação positiv e o diodo pr alimentação negativa aqui geralmente mais 16 v e Men 16 v esses aqui ó
+deixa eu ver se eu consigo mostrar esses aqui ó um para negativo e um pr tensão positiva esses diodo aqui ó
+eles são bem problemáticos geralmente eles costumam dar defeito Então o que eu fiz eu coloquei a TV na tomada
+fazer o teste rápido aqui ó colocar o multímetro aqui na escala de 20 V deixa eu ver se eu consigo pegar aqui
+com o Deixa eu ver se eu consigo focar aqui aí no multímetro e vou testar a alimentação aqui ó nos dois diodo
+do vertical nesse aqui ó e nesse aqui para ver vamos colocar a TV na tomada deixa eu já deixar a chave da TV
+aqui já ligada Deixa eu ver se eu consigo focar melhor aqui ó deixa eu ver se eu por causa do aí deixa eu ver
+se eu consigo mostrar assim eu vou colocar a ponteira negativa do multímetro aqui negativo da TV na na massa
+da TV e vamos testar os diodos aqui ó esse diodo e esse diodo aqui tem que ter esse aqui ó de cima tem que ter
+men 16 v e esse aqui ó mais 16 v dá para ver o sentido aqui do diodo ó aqui Men 16 e aqui mais 16 deixa eu
+colocar aqui a TV na tomada pra gente já monitorar ó a TV deu barulinho que liga deixa eu monitorar aqui ó
+esse aqui o de cima ó 16 v ó lá no multimo tá dando menos quando ela liga ó lá ó - 17 17.2 que tá dentro do do
+padrão Aí tá ok ó Desligou vamos esperar de novo ligou - 17.2 agora esse de baixo aqui então no caso ele tem
+que dar mais 17 vamos monitorar aqui ó tá vendo ela deu o barulhinho que ligava porém ó lá ó ó desligou ligou
+ó lá como é que ela tá ó Men 2 v nesse caso aqui gente a gente já constata que esse diodo aqui ó ele tá aberto
+esse diodo aqui ó ele tá aberto ele tá com fuga muito alta mas ele tá defeituoso esse diodo ó no caso aqui
+temos que trocar esse diodo beleza no caso aqui é o d 306 vamos trocar PR ver agora aqui nesse caso gente eu
+vou pausar o vídeo e vou trocar o diodo e vou mostrar a TV se realmente vai funcionar já troquei o diodo aqui
+gente no caso este daqui ó eu vi que não tava pegando direito aí a filmagem mas no caso foi trocado este diodo
+aqui viu o d306 aqui ó o que leva a alimentação positiva pro vertical beleza a TV já tá na tomada agora eu vou
+ligar a chave aqui pra gente monitorar se vai dar os menos 17 aqui e mais 17 aqui e ver se a TV realmente vai
+ligar ó eu vou ligar a chave ó lá fez o barulhinho vou monitorar aqui de novo Aonde que tem que dar -17 aqui ó
+ó aí gente agora já normalizou ó -16 tá vendo - 16 e nesse aquii no caso tem que dar mais 16 v aí ó em cima tá
+vendo gente ó mais 16 mais 16,5 e aqui menos 16,5 também 16.49 e nesse caso será que a TV ligou vamos ver aqui
+ó aí gente ó já tá até com a tela azul aqui ó beleza só voltando aqui para mostrar direitinho Qual diodo foi
+trocado este daqui gente ó o d306 joia mais muitas vezes também pode ser esse d35 esse de cima aqui ó o da
+tensão negativa nesse caso meu eu troquei o de baixo agora aqui gente em vez de trocar somente o diodo eu vou
+trocar também Deixa eu desligar aqui desliguei tirei da tomada para não correr nenhum risco de fechar algum
+curto aí deixa eu ver se eu consigo clarear mais aqui ó nesse caso aqui gente ó mesmo que esses capacitores ó
+tá com cara que já foi trocado Mas já tem um tempo que o rapaz falou que tem pelo menos 4 anos que ela foi no
+no conserto então tem pelo menos 4 anos que esses capacitor aqui já tá funcionando Então nesse caso ó eu vou
+trocar ó troquei o diodo vou trocar também esses dois capacitores aqui o restante eu não vou trocar não que eu
+testei aqui ó tá beleza joia gente quem gostar deixa o like se inscreva no canal E compartilhe nosso vídeo
+Deus abençoe a todos
+

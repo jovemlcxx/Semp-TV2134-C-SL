@@ -1,0 +1,22 @@
+ toshiba Modo Serviço (Service Mode) - Esquemas - Eletronica PT (Pag. 2/4) 
+ Saltar para o conteúdo principal 
+ TOSHIBA Service Mode (Modo de Serviço)
+ Menu > Apertar Tecla CHRTN 5 vezes 
+ Pressione a tecla MENU no controle remoto, e observe que o MENU aparece na tela do televisor,
+em seguida pressione a tecla 1 e depois a tecla 9 no controle remoto, a pagina (0) aparece na tela.
+Para acessar as paginas 0 e 1 pressione a tecla MENU ou as paginas de 0 a 3 também podem ser
+ser selecionadas pressionando as teclas de 0 a 3 no controle remoto. 
+ Press sound mute (on remote)- Tv displays sound mute OSD, Then hold down sound mute and press the menu button on the control panel
+This should display the service mode data with an 'S' in the corner of the screen. Gives basic geometry and display data.
+Press the -- button on the remote - enters frame collapse mode - to set screen voltage 
+Press MUTE on your remote and release.
+Press down MUTE on your remote again and hold. While holding, press the MENU button on your TV set's front panel. Release both buttons.
+An "S" should appear on your screen. Press MENU again on your TV.
+ Pressione a tecla mute no controle remoto e observe a indicação som desligado.
+Pressione novamente a tecla mute função na tv ou quando não tiver as teclas vol+ e vol-
+simultaneamente na tv para modo d pressione a tecla s e novamente a tecla f ou vol+ e vol- 
+ Com a tv ligada; aperte a tecla mute, precione novamente a tecla mute e depois aperte volume + e volume - simultaneamente deixe pressionado até aparecer a tela do modo de serviço. 
+ Desligue o aparelho da tomada por tempo suficiente para apagar a programação do relógio. Ligue o televisor
+e aperte VOL- enquanto aperta no controle remoto: 9 para ajustes ou 2 para ajuste H do OSD. 
+ Most universal led tv boards check:
+ Gerir Opções de Privacidade - 

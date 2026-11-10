@@ -1,0 +1,177 @@
+ TV RGB mod thread - Page 130 - shmups.system11.org 
+ The place for all discussion on gaming hardware
+ Posts: 5 Joined: Mon Jan 26, 2015 12:34 pm 
+ by Eddyiori » Tue Jun 08, 2021 4:29 pm 
+ Trying to mod this brazilian TOSHIBA 2134 (B) SL for friend but got a little confused. The jungle ic have input for component but it is labeled in the pcb as also rgb input and also have a scart pin on the jungle ic but not used. I could not find the blanking input so right now still unsure how to proceed.
+If anyone could give some advice I'l be very happy and my friend too. 
+ Posts: 73 Joined: Sun Mar 29, 2020 3:44 am 
+ by abispac » Wed Jun 09, 2021 4:28 am 
+ grumblegore wrote: abispac wrote: i wonder, how to use the svideo for sync, as im currently using the composit output for sync, so i have a bit of overscand ot the left and to the bottom. I cant seem to find how you guys use that, i dont mind soldering the cables direclty, i jus need to know wich ones to use, if anyone has some advice for this poor soul, thanks alot.
+So I looked at the female BNC to male s-video adapter on offer at svideo.com . I even had it in my cart but it really hurts my soul to pay nearly $30 after shipping for a single "cheap" connector. It's true what they say, when you're the only game in town you can charge whatever you want for admission. I couldn't find another such adapter anywhere after about a half hour of google searching.
+However... what might help you (and this is my plan, just ordered one myself) is to just get a female RCA to male s-video adapter for $8 on Amazon . If you're getting sync from composite right now, I have to ASSUME that you can plug your composite end into this and pull sync from s-video this way for a lot cheaper than the other option. Obviously there is some question / mystery as to how the cable is built internally, but there's not a lot of mistakes to make on something like this, and it's long enough that if you have to open it up and put a new end where the RCA is, you can do that.
+It will be a while before I have my larger mod with the s-video port done, but when it is, I'll report back how this cable worked for me.
+ Do we really need a cable for theis? i mean, the svideo is there, with 4 big points to solder the cables easy, i just need to know wich ones i have to use or if i have to use any kind of caps or resistors.
+ by abispac » Wed Jun 09, 2021 4:35 am 
+ Eddyiori wrote: Trying to mod this brazilian TOSHIBA 2134 (B) SL for friend but got a little confused. The jungle ic have input for component but it is labeled in the pcb as also rgb input and also have a scart pin on the jungle ic but not used. I could not find the blanking input so right now still unsure how to proceed.
+i found a couple of manuals and they only show one chip,it looks to me this tv only uses one chip to handle everything.
+ Posts: 1830 Joined: Wed Aug 09, 2017 12:10 am 
+ by Syntax » Wed Jun 09, 2021 11:21 am 
+ Posts: 6 Joined: Wed Jun 09, 2021 4:42 am 
+ by camtron47 » Wed Jun 09, 2021 12:51 pm 
+ I'm looking into doing a YUV component mod as well. The TV a Trinitron KV-BM21M10 with a BX1S chassis and composite video input only. My understanding from a previous post here by MarkOZLAD is that this chassis can't be modded for RGB using the OSD injection method because RGB is disabled inside the all-in-one system chip. However because better model TVs that use this BX1S can have component YUV and S-Video from the factory, those inputs should be able to be restored on the lower end model by adding in the correct components at the video input. I found this circuit with the resistor and capacitor values filled in from a snippet of the KV-SZ29M50 service manual (the service manual for the KV-BM21M10 has the values XX'd out). Here's the circuit:
+From there the Y, U and V lines go into the all-in-one chip like this:
+What's confusing is how the YUV lines go through connector pins that are labelled Y/U/VOUT, not Y/U/VIN and then go into B-Y/BIN, Y/GIN, R-Y/RIN pins on the chip. Is this just labelled strangely? Or would the newly added inputs actually needs to be routed to the Y/U/VIN pins. In the circuit those pins go off to an empty connector with a few more capacitors on each connector pin.
+Once the input circuit is wired up, the final step would be to activate component input in the service menu. Any ideas what the service menu item would be? This is the closest one I could fin, in the SYNC category with the name SVID. Would changing this to the value 07 activate YUV?
+ Posts: 54 Joined: Tue Nov 06, 2018 2:24 pm 
+ by mgerety » Wed Jun 09, 2021 5:12 pm 
+ Hey guys, I've got a question about modding an AA-1 Chassis, CXA1465AS
+ https://pdf1.alldatasheet.com/datasheet ... 465AS.html 
+This jungle has DIGITAL RGB input for OSD, and Analog RGB input as well. 
+On this set, the analog RGB is used for closed captioning.. (service manual here: https://elektrotanya.com/kv27tw77.pdf/download.html )
+From this diagram it looksl ike the analog rgb is processed before the digital RGB is processed inside the chip, so I shouldn't need to "mux" anything. And since nothing going over RGB will have closed captioning, I don't care so much about muxing anything in.. 
+The block diagram (under spoiler below) shows CC information going from the IC101 Tuning Microcomputer to IC150 - Closed Caption Chip, then out directly to the jungle over analog rgb pins 16/17/18.
+This diagram shows the resistors for the RGB lines from the closed caption chip---1k to ground, 4.7K inline..
+For the Ys line, there's a bunch of weird tie ins. The relevant portion of the diagram is here:
+Closed Captioning Chip - BOX pin 3 - through 4.7k resistor.
+Also here's the info form the datasheet about the Ym/Ys pins and the analog pins -- this has be a little confused about what to apply to the Ys line for blanking, and what resistor to use inline on it if any. if I'm reading it right, the max voltage for the chip do not blank is 0.4v, and the min to blank is 1v.
+---- Hopefully that's enough info.
+Using the mux spreadsheet i got the following:
+1100k resistor on the blanking line
+If I don't care about muxing in the closed caption stuff -- what do I do (I want to leave it intact when the mod is NOT active..)
+ DO I follow the same OSD mux guidance? 
+Do I remove the grounding resistor on the RGB lines? 
+Do I remove the 27kohm resistor to ground on the ys pin15 line? 
+Why is that grounding resistor so much larger than the value I calculated in the mux sheet?
+I LOVE this tv and don't want to screw it up, so I want to take my time with it and get it right. Any feedback is hugely appreciated here..
+ by Eddyiori » Wed Jun 09, 2021 5:19 pm 
+ Syntax wrote: Blanking is probably FBL
+ Tied 5v to the fbl pin but tv still shows the blue screen 
+ Posts: 218 Joined: Tue Jun 16, 2020 8:51 pm 
+ by Osirus » Wed Jun 09, 2021 7:05 pm 
+I modded a TV with this same jungle IC, but it had no CC and just had those Analog RGB inputs tied to ground. With a CC circuit in place you will probably as you said just follow the OSD mux instructions but do it with the CC lines instead of the OSD. Have your blanking switch a SPDT between putting 5V when using RGB and maintaining the current circuit when not.
+ Posts: 14 Joined: Tue Oct 04, 2016 7:45 pm 
+ by Akuji » Wed Jun 09, 2021 8:45 pm 
+ Hey all, I'm planning on modding a Sharp 13K-M100 based on the info previously posted here from another user as well as from some DMs with matt. I used MarkOZLad's original image as a template to edit what I think I am supposed to do to mod this. Notably it was suggested to me in DMs to try 100 Ohm terminating resistors instead of 75 Ohm due to this TVs brightness being odd.
+If anyone thinks that something should be changed, please let me know. I want to make sure I didn't mess anything up before I sit down and actually do this.
+I was also wondering if it would be possible to also modify this schematic to also support S-Video through SCART. My ( completely layman and probably incorrect ) theory was that if I were to wire up Pin 15 on the SCART port to the C-In pin on the Jungle Chip I could get S-video working through a SCART adapter, since the signal travelling through the composite pin with S-Video would just be Luminance (Y-in) and Chrominance would travel to the C-In pin directly. I'd use a DPDT toggle switch so that in "Composite" mode I'd be connecting Pin 15 and C-In but not when in "RGB" mode. My hunch though is that if I were to switch to "Composite" mode while using a sync-on-composite SCART cable, I could be causing problems due to Pin 15 being used both by RGB Red In and by Chrominance. If anyone knows a way that I could do this correctly and safely (maybe even modify the edited image I posted to show the wiring and resistors I'd also need to do this), that would be amazing.
+ by Syntax » Wed Jun 09, 2021 11:42 pm 
+ Fbl should already have an 8v feed to it over a resistor.
+Goes to the svideo port switch, when grounded changes to or enables svideo.
+Look at TDA11145, it doesn't do rgb but has a matching pinout.
+ by Eddyiori » Thu Jun 10, 2021 1:58 am 
+ Syntax wrote: Fbl should already have an 8v feed to it over a resistor.
+Still trying but no success, I guess that somehow that scart pin must enable the scart rgb and also the fbl pin because in the schematic and the pcb they are unconnected.
+Here there's the service manual
+ https://www.electronica-pt.com/esquema/ ... k91-14874/ 
+ by abispac » Thu Jun 10, 2021 6:04 am 
+ Awsome rv, sony kv-27, now that i found this remote for 1 dll, i adjusted the overscan and have to admit it looks great, i just need to fix some convergence problems, but i suspect its some caps going bad, it aint that bad, so ill just use it like that for a moment. Thanks again guys for the help.
+ Posts: 614 Joined: Mon May 09, 2005 5:46 am 
+ by matt » Thu Jun 10, 2021 7:19 am 
+ abispac wrote: Awsome rv, sony kv-27, now that i found this remote for 1 dll, i adjusted the overscan and have to admit it looks great, i just need to fix some convergence problems, but i suspect its some caps going bad, it aint that bad, so ill just use it like that for a moment. Thanks again guys for the help.
+Capacitors won't affect your convergence. That all happens at the yoke & tube. Trinitrons are notoriously bad in this area, but you should be able to improve things a lot (although it's a big headache and takes a lot of fiddling).
+ Posts: 10 Joined: Thu Jun 03, 2021 6:13 am 
+ by grumblegore » Thu Jun 10, 2021 1:44 pm 
+ matt wrote: Capacitors won't affect your convergence. That all happens at the yoke & tube. Trinitrons are notoriously bad in this area, but you should be able to improve things a lot (although it's a big headache and takes a lot of fiddling).
+Are you aware of any good resources for dealing with convergence issues to make the process slightly less painful?
+ Posts: 693 Joined: Sat Jan 07, 2017 5:11 pm 
+ by tongshadow » Thu Jun 10, 2021 9:23 pm 
+ grumblegore wrote: matt wrote: Capacitors won't affect your convergence. That all happens at the yoke & tube. Trinitrons are notoriously bad in this area, but you should be able to improve things a lot (although it's a big headache and takes a lot of fiddling).
+ by Syntax » Thu Jun 10, 2021 10:43 pm 
+ Eddyiori wrote: Syntax wrote: Fbl should already have an 8v feed to it over a resistor.
+Try feeding the RGB pins component, might be locked to that, and switches on via the sync in green.
+ by abispac » Fri Jun 11, 2021 7:17 am 
+ matt wrote: abispac wrote: Awsome rv, sony kv-27, now that i found this remote for 1 dll, i adjusted the overscan and have to admit it looks great, i just need to fix some convergence problems, but i suspect its some caps going bad, it aint that bad, so ill just use it like that for a moment. Thanks again guys for the help.
+Well its not convergence, my limited english does not know how to describe my problem, i tried to find a picture of it on google and couldnt find one, and the reason i believe its a caps problem, is because, once the tv warms up, the problem disapears. The actual problem is, like small curves between the white lines if i use a white pattern, i tried to take a picture today but since the tv has been on for the whole day, i couldnt get them to show, but this is an actual photoshop of what i mean.
+how do you guys call this kind of problem?
+ Posts: 453 Joined: Wed Feb 02, 2005 9:33 pm 
+ by MKL » Fri Jun 11, 2021 11:41 am 
+ Desolder C510 and see if it remains the same.
+ by grumblegore » Fri Jun 11, 2021 4:07 pm 
+ tongshadow wrote: grumblegore wrote: matt wrote: Capacitors won't affect your convergence. That all happens at the yoke & tube. Trinitrons are notoriously bad in this area, but you should be able to improve things a lot (although it's a big headache and takes a lot of fiddling).
+Sorry that I wasn't clear. What I meant were resources (in addition to the service manuals, which most people reading this forum already have and are an essential prerequisite to even attempting anything discussed here) that describe the process in a little more detail. Maybe employing a different learning modality that makes the process more real.
+Take for example these videos on CRT convergence that really get into the nuances a service manual can't:
+ Future-Proof part 2: Adjusting CRT Convergence 
+ Fix it Friday - Adjusting Convergence Rings on a Cathode Ray Tube (CRT, Monitor, TV and Arcade) 
+I dug these up and share with this group to be helpful, and to show an example of what a useful response looks like when compared to "Service manuals."
+ Posts: 6 Joined: Fri Jun 11, 2021 5:00 pm 
+ by luizlink64 » Sat Jun 12, 2021 3:22 pm 
+ Hi there. I've been reading a lot on the internet about making consumer TVs to accept RGB signal, and it eventually pointed to shmups.
+My name is Luiz, I am a Brazlian software developer but I do not know anything about eletronics, so I came here seeking for help/guidance on how to mod my TV SET. Disclaimer - I do have an digital multimeter and solder equipment, i just lack the knowledge of what components should I add, like, capacitor, resistors, and their respective values, etc.
+Here are my and goals and hardware:
+I've got both an old PC and TV for free. The PC was not working, I've did fixed and made small upgrades so it could actually browse the internet and render youtube/netflix videos without problems. Then, I've watched two videos, first was 8 bit Guy modding his TV to accept RGB, then, Linus Tech Tips salvaging old harware and making an awesome Arcade Cabinet out of old PC and old TV set. 
+Mod my TV to accept RGB, and use it with my old PC with GroovyMame + CRT_emudriver.
+Unlike 8-Bit-guy, Ive decided to use VGA port on my TV instead of 3 RCA inputs, so the VGA cable used from the PC goes into the TV without any kind of mod and remain perfectly shielded. Then, doing the required VGA to RGB cable mods inside the TV. One of the reasons for this is cost - BNC connectors and cables are much expensive here on Brazil, and I had many spare old, known good VGA cables. Meanwhile DB15 connectors are super cheap, and some friend told me that RCA doesnt offer enough shielding.
+I'm also planning to use Ethernet CAT 5 cable wires from the VGA port to the TV board. It was the last option, I wasnt able to find any kind of small, solid wire being sold here on my town. I'm not sure if it can handle the voltage / current and the overall warm temperature inside the CRT. 
+GPU: It didnt had any, but after reading a lot, bought an AMD Radeon HD 5450 that is capable of sending CRT compatible signals with CRT_emudriver.
+The AMD Raden HD 5450 has HDMI, DVI-D (digital only sadly), VGA - port that will be used to go into CRT.
+That is a curious TV set - It comes with VCR. I do not own any VHS tape so I never tested the VCR. 
+The TV only accepts Pal-M (brazilian signal), that is Sync-compatible with NTSC, but will not display colors when receiving NTSC.
+It has only RF input and RCA Composite Video and Left audio input. It doesnt have an "AV" channel for composite video input, instead, the TV automatically detects if there is any cable connected to the Composite input, and then overrides whatever TV channel was being displayed. Sames goes with the Left audio input - it will keep playing the TV channel audio untill you plug something on the left audio input.
+Even if both composite and audio cables doesn't have any signal (not plugged into any device), the TV will render a black image and stop the audio playback of the TV channel.
+The TV has 2 boards - one standing vertically on the right side (looking from behind), where the flyback and many big capacitor are located, i presume its the power supply. I belive this is the hot area of the TV, since all cables from the tube/neckboard are connected/soldered to this left board. The second board that sits horizontally bellow the tube, is where the main chips are located.
+The TV Set schematics I was able to found online, not even sure if it is for my model.
+ https://www.electronica-pt.com/esquema/ ... no_html,1/ 
+Possible Jungle Chip: Toshiba TA8867BN
+ https://www.digchip.com/datasheets/down ... r=TA8867BN 
+Possible Microcontroller Chip: Toshiba TA8751AN
+ https://datasheetspdf.com/pdf/500310/Toshiba/TA8751AN/1 
+______________________________________________________________________________________________________
+Well, long story short - After some eyeballing and internet search, I think i've found the Jungle Chip. However I do not know where to begin, since the board is massively huge and has many chips.
+As it shows on the photo, this square is where the vcr unit sits down. It has many chips on this area, but I wasnt able to find any schematics about them.
+These are the cables that connects the chip board to the hot board:
+*************Chips that were bellow the VCR Area*********
+Underneath the board, Top Middle:
+***********Now, Chips outside of the VCR area*************
+And, the probably the Microcontroller and Jungle chips. Note, they stand very near the connectors that links into the Hot board:
+Bigger one is TA8867BN, that I suspect is the jungle IC
+Now after reading the possible Jungle IC, it does seems to match with the TV schematics (page 36 of the PDF):
+This is the possible pins for RGB input, and the blanking signal (Ys)
+So, i've tried to trace these pins under the board but can't get nothing due to my lack of PCB knowledge. There is an capacitor underneath the supposed jungle chip.
+Any guidance is surely appreciated! Immense thanks!
+ by abispac » Sat Jun 12, 2021 5:24 pm 
+ thanks,i still wonder hows this problem called?
+ https://i.ibb.co/cCZkrNP/test2png.png 
+ Posts: 1 Joined: Sat Jun 12, 2021 5:53 pm 
+ by dyegu3674 » Sat Jun 12, 2021 6:00 pm 
+ Can anyone tell me if it is possible to mod rgb on this tv? Semp Toshiba 1497LM
+ by MKL » Sat Jun 12, 2021 6:35 pm 
+ In Philips literature it's called Mannheim effect but it goes by other names also.
+ https://i.imgur.com/cDxn8ST.jpg 
+ https://i.imgur.com/mBydSky.jpg 
+What's important is that pretty much all TV manufacturers add this correction circuit so if you have that kind of distortion that's where you need to look at.
+ Posts: 6 Joined: Fri Jan 10, 2014 6:29 am 
+ by xer0510 » Sat Jun 12, 2021 8:07 pm 
+ hey yall, is it possible to RGB mod a RCA 27v414t. i have been staring at this manual for the for the last week trying to wrap my head around it and understand it. but im stumped, can some point me in the right direction.
+ https://elektrotanya.com/rca_27v514t_ch ... nload.html 
+ Posts: 7 Joined: Tue Jan 31, 2017 2:36 am 
+ by poipo32 » Sat Jun 12, 2021 9:03 pm 
+ I'm trying to mod a Sony Trinitron KV-32XBR45 with a CXP85332A jungle chip. 
+I'm not sure which pin the blanking line is connected to.
+ Here is a link to the schematics for the chip.
+The relevant pins are 47-52. (47 R, 48 G, 49 B, 50 I, 51 YS, 52 YM).
+Here is a picture of the pins on the board, if anyone wants to see:
+If anyone could tell me which pin to use for blanking, I'd be very grateful.
+ by Osirus » Sat Jun 12, 2021 10:06 pm 
+ CXP85332A is a Microcontroller. The pins you identified are the outputs, I believe they are also digital.
+ by poipo32 » Sat Jun 12, 2021 10:27 pm 
+ Osirus wrote: CXP85332A is a Microcontroller. The pins you identified are the outputs, I believe they are also digital.
+Then my jungle chip is a CXA1477AS, for which I can't seem to find a data sheet. 
+I managed to get a pinout of the CXA1477AS from the service manual of a Sony projector.
+ by Osirus » Sun Jun 13, 2021 3:02 am 
+ Look into pins 16, 17, and 18.
+ by poipo32 » Sun Jun 13, 2021 4:34 pm 
+ Osirus wrote: Look into pins 16, 17, and 18.
+From what I gather from reading old threads on TV repair forums, pins 16, 17, and 18 of the CXA1477AS are analog RGB, used for the closed captioning. 
+While pins 19, 20, and 21 are digital RGB used for the OSD.
+It seems Ys (pin 10) would be my fast blanking, which is the pin I was most unsure about. 
+Since I don't care about closed captioning, I'm going to try a mod with no signal mux. 
+I'll just disconnect the incoming RGB signal.
+If I lose the OSD, I'll go back and do a signal mux. 
+I'll post the results in this thread.
+ Posts: 134 Joined: Sat Apr 04, 2020 7:01 pm 
+ by nes.og » Mon Jun 14, 2021 4:31 am 
+ Can anyone please tell me when diodes are required and when they are not? 
+ Display: All posts 1 day 7 days 2 weeks 1 month 3 months 6 months 1 year 
+ Sort by: Author Post time Subject 
+ Direction: Ascending Descending 
+ Powered by phpBB ® Forum Software © phpBB Limited 

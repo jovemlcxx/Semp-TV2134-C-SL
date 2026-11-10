@@ -1,0 +1,67 @@
+Título: TV SEMP 2934(B) SL VERTICAL FECHADO.
+Canal: Eletrônica Gomes
+URL: https://www.youtube.com/watch?v=slTynamxRRA
+Duração: 720s
+--- Descrição ---
+
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+Oi bom dia boa tarde boa noite olha só gente chegou aqui na bancada ainda pouco cliente trouxe ainda vou
+passar TV aqui é uma uma sempre Terezinha da sempre de 29 polegada é uma o modelo dela é uma 2934 bsl e ela
+disse que essa televisão liga e aparece só um risco no meio é só que tem som tem voz mas só tenho isso não tem
+mais a tela não abre então eu vou mostrar o sintoma dela aqui a colocar aquilo colocar tomada coloquei
+televisão já acende o standy by está debaixo dela Tarcísio aí ó vou mencionar aqui a tecla canal e ver como
+ela se comporta LED apagou uma guardar na tela ele realmente quer que ela tem e olha só vertical fechado não
+tem som se ela tem chance porém até lá nada sem marcar a gente vai abrir ela aqui isso é um defeito no
+circuito vertical dela com certeza não sei quanto vai ficar gente vai abrir o aparelho e fazer algumas medidas
+lá e ver como é que o circuito está se comportar Tá bom já já eu volto Oi gente volta aqui ó eu falei até o
+modelo da agora vou mostrar aqui o modelo dela é esse aqui ó o 2934 psl e aqui eu já fiz a limpeza a limpeza
+da placa e tive olhando aqui os capacitores vai ficar aqui ó não tem nenhum estufado pode ter alguns seco e
+agora esse aqui o 311 Vou colocar aqui para você ver aqui ó você 311 ele tá levemente estufado daqui não dá
+para perceber não mas é para vocês perceber aí não na câmera não mas eu já passei a mão em cima dele tá
+levemente estufado então eu já vou trocar logo ele fazer a troca dele o e olhando o restante do circuito aqui
+não vi mais nada diferente e principalmente final direto vertical sob efe naquele capacitou lá você traz de
+ônibus um pouco estufado e ouvir a placa aqui pra gente ver como é que ela tá de Souza tem solda fria elas que
+eu tô com muita saudade fria e ó e aqui ó e pelo playback aqui e pode ver que tem muitas falta fique na área
+do playback tá bem normal que esquenta muito aqui a alimentação do vertical que é mais 16 - 16 e de outros
+aqui Oi gente vai dar uma conferida para isso não tem nenhum aberto não sei que vem só da filha tem de mais e
+no próprio ser isso vai ficar Uai o telefone não foca direito mas está Coroado Coroado no pezinho da solo
+muita solda fria eu sou o seguro do vertical alimentação na linha de alimentação do vertical tem bastante
+solda fria bom Então nesse caso e ela tá apresentando aquele problema lá do Risco horizontal no meio da tela
+com as tensões tudo de repente é só a sogra fria de repente para cá na alimentação não tem não vai ter nenhum
+de ouro nenhum os estou aberto vai ser só falta fria eu acredito eu que você vê isso aí já com isso eu já vou
+aproveitar e é só dar toda a placa que e vamos ver só com a sogra resolveu É sim só console resolver aí beleza
+e já passa um abraço Já e sempre como eu disse não resolver a gente vai atrás do problema até solucionar tá
+bom que da plaquinha do cinescópio também eu tive olhando aqui tem algumas roda frio já vou refazer também a
+limpeza ela tem bastante teia de aranha essa esse aparelho nunca foi aberto bom demais trabalhar com aparelho
+nunca foi aberto forçado pelos outros então aqui eu já vi a limpeza ensinar os copos tudinho ó bonitinho Tá
+limpinho Ah entendeu E aí vou fazer essa resolvida e tu trocar o c311 e ver se tem mais alguma coisa tá bom
+daqui a pouco eu volto bom então gente aqui de volta a plaquinha aqui ou já eu já refiz as soldas ei ei as
+solda fria tudinho tinha na praça aqui ó principalmente na área do círculo vertical quanto do CEE como
+Seguindo a linha até o playback Eu Sou Deus playback esse a fonte dessa área que esquenta mais eu fiz toda
+resolvida o caixão e troquei e o capacitor Zinho que tava levemente estuprado que no caso é esse aqui ó eu sei
+que o você se você 311 GTA O que é isso aqui ó ele é um de um capacitor de 1 é de um capacitor vai no caso não
+era isso não é esse aqui ó é um capacitor de 47 o 247 microfarad ou duzentos loucos e no lugar dele coloquei
+um de de 400 volts por 100 é até melhor que a filtragem fica melhor Oi e esse aqui como vocês podem ver o que
+tava nela está com uma cor feia aqui o fundo dele aqui ó e fica com cor ver como que ir lá na placa da
+manchado por baixo dele como você levar a um pouco ele me deu o bolo com a senhora pediu 46 mas dividido tá
+levemente tu passa aqui e ter essa mancha aqui como quem vazou já troquei logo é difícil toda hahaha sol a sol
+dormir a gente vai ligar agora a ver que o aparelho vai ligar e armar ele vai ligar normal seu abre a tela tá
+bom colocar aqui o cantor nada tu vai vir aqui e a Sheila E aí vai pegar o controle aqui e achou não sei lá
+pede apagou bobina trabalhou morar lá no espelho oval a tela acendeu a tela Abril o que a gente vai medir aqui
+as tensões aqui a quinta na loja aqui na escala de 200 BC Vamos ver que o mais velho dela é no pino 2 a editar
+aqui no meu TIM dá para você ver direito porque ele tá com a tela embaçada mas tá dando 160 e 20 é normal
+vamos aqui ver alimentação vai ficar o nome de é o meu de o 305 É só nela ativa aqui ó e não tem 306 a marca
+Aqui a escala para 50 volts ar é uma e agora no Diogo dele 306 o de 306 a falar da 16v Oi tá com 16 Volts é o
+mais velho tá com 120 anormal a tela já abriu lá então a gente aqui Já fechou o aparelho já e vai tá ligando
+aqui eu coloquei um pedacinho de solda lá no varicap para ver a qualidade da imagem vou ligar ele aqui e como
+é que vai ficar a imagem aí me ligar E aí a aparecer imagem aí já tem mais a tela se pode ligar tela ver vou
+trocar de canal aqui ó E aí o capitão imagem é mas completamente aberta E aí e trocar de canal aqui ó e são
+bom e é isso aí Lembrando que iria ela chegou com um risco no meio um risco horizontal simbolizando defeito no
+circuito vertical vocês viram procedimento e esse e lembrando também que esses vídeos eu faço é para
+iniciantes quem tá conversando porque o vídeo como esse para quem tá começando é De grande valia Porque para
+mim foi Oi e para muitos tempos também bom então não se esqueça de se inscrever deixa o seu like Se gostou se
+não gostou deixa um dislike também seja educados nos comentários e lembrando que vocês pode estar se
+inscrevendo e tocando no Sininho aquele sinalzinho lá para receber as notificações assim que eu posso dar
+vídeo do YouTube aviso a você tá bom Agora é só fechar o aparelho pegar para o cliente Fiquem todos com Deus e
+que Deus abençoe você e a família de vocês tá bom até o próximo vídeo
+

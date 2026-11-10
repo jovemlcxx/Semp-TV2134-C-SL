@@ -1,0 +1,100 @@
+Título: tv semp 2934(b) sl. sk91, com meia tela. RESOLVIDO 👍
+Canal: Eletrônica Gomes
+URL: https://www.youtube.com/watch?v=UDbV7KlxePI
+Duração: 986s
+--- Descrição ---
+
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+gente bom dia boa tarde boa noite pessoal acabou de chegar aqui ó beleza grande esse daqui é um de 29
+polegadas ultra slim dá sempre o modelo dela eu vou passar aqui para vocês Castelo um pouco aqui o modelo dela
+É isso aí você vê 29 34 bsl sk11 e aqui a cliente me passou que ela tá dizendo ela que tá com a tela
+esverdeada quando bate apaga Acende e apresenta outras coisas aí outras coisas aqui na tela e eu podia muito
+bem ligar aqui para mostrar o sintoma que é o correto fazer mas não tem como porque outra pessoa já mexeu foi
+lá na casa dela mexeu e ela disse que deu uns parafusos botou isso é só encostar a tampa aqui ó os parafusos
+dela Inclusive acho que até deu trouxe mas a placa Ela diz que só encostou uma placa lá e fechou a televisão
+então não tem como mostrar para vocês porque qual o risco de eu não sei o que ele fez lá dentro corre o risco
+de eu ligar aqui e a televisão dá algum problema pegar fogo que foi feito lá dentro então vou abrir ela e não
+consigo arrumar vou abrir ela vou ver como é que tá a situação lá ver se tiver tudo ligado certinho aí eu ligo
+ela e a gente vê o sintoma que ela tá apresentando beleza vou fazer isso e já já volto Então pessoal voltando
+aqui eu já abri a televisão e olhando aqui inspeçãozinha visual aqui eu não vi nada normal nem resistor
+torrado nem aparentemente não tem capacitor trufado aqui por cima já olhei aqui não tem não tô vendo nada
+normal aparentemente assim tá tudo normal vamos virar ela aqui agora a gente vê situação vê como é que tá dá
+uma olhada aqui principalmente na área da fonte na área da fonte aqui que tem lá no Sr aqui tinha uma
+soldazinha meio trincada aqui na saída do shopping aqui telefone no foco é a noite agora é muito difícil para
+visualizar melhor mas aqui ó tem solda trincado aqui daí não dá para você ver não mas tem solda coalada ainda
+vou tirar essa base aqui ainda aqui na plaquinha do tubo que ela disse que tinha carro com a imagem verde não
+sei como é que era lá e apresentar o tipo de coisa eu não liguei o aparelho ainda eu vou ligar para ver
+mostrar para vocês que sintoma é para ver aqui e mostrar para você tá só dando uma conferida aqui mostrando
+para vocês que aparentemente não tem nada normal agora a gente vai ligar o aparelho vou dar uma ligada nele
+agora que ver como é que ele tá como é que tá lá essa imagem a chave ligada vai me ajudante aí liguei
+televisão deu um tapinha lá para ligar bateu relé vamos ver o que que apresenta lá na tela se vai aparecer
+alguma coisa Olha só pessoal ela tá com linha de retrato Qual a situação passar aqui para frente aqui para
+mostrar para vocês aqui ó grande retrato na parte de cima listra branca no meio ele está Azul faixa azul e tá
+ondulado aqui ó o efeito almofada Então ela tá com uns três problemas aqui então eu vou desligar agora e ver o
+que que tá acontecendo daqui a pouco eu volto Então pessoal aqui ó eu já fiz algumas medidas aqui a frio
+Desligou o aparelho com vocês vídeo e fiz umas medidas aqui aquele problema da tela tá daquele jeito lá ela tá
+com a lista lá e aquelas linhas de retrato tá aquele negócio aí a gente já sabe que o problema tá aqui ela só
+aquele lá aquele problema é que é relacionado com esse setor aqui ó do vertical aqui ó esse aqui é gente mais
+um vídeo para iniciante antes que eu esqueça mais um vídeo para iniciante aí conferir direitinho aqui ó eu fiz
+as medidas aqui ó nas alimentações do vertical eu medi o resistor que na verdade é o resistor como se fosse um
+fusível o r308 da alimentação negativo do seio vertical e a r309 que a alimentação é positiva do integrado
+aqui do vertical e aqui ó elas tão bom elas estão boas estão gripado tudo o d305 e o d306 tão bom medir o d
+304 ele tá bom tá marcando bom ali tem um motivo e tem muita solda trincada aqui muita solda olhando de
+pertinho aqui olhei aqui ó tem muita solda fria demais aqui nesse setor acho que é por isso que bati a
+televisão voltava ao normal com a imagem não sei como lá eu não sou me explicar direito então o que que eu vou
+fazer o que eu sempre faço uma ressol da nela todinha não só no setor vertical mas descendo pela fonte aqui
+tudo no horizontal tudo vou dar uma lavagem fazer uma lavadinha aqui para ficar bem é bem visível assim mesmo
+que é uma zona [Música] aqui no limpou aqui ó nesse pinos e 380 volt aqui ó aliás 380 não desculpa aí de 180
+tudo tem uma igualdade enfim eu vou sair café mas primeiramente o setor original são 9 transistores que faz a
+alimentação dos rgbzinho José GB tá tem muito saldo trincado aqui também então vou fazer todinha e vou ligar o
+aparelho se lá ao ligar fazer solda ligar a televisão lá na tela apresenta normal Abrir a tela normal e tudo
+aí beleza a questão era só soldar graças a Deus por isso Deus ajude ser só isso e aquela questão daquele
+buchinho lá feito taça lá feito almofada o que faz aquilo lá é esse transistor aqui ó o q302 ele faz isso com
+solda frio tá no ruim ele deixa aqueles buchinho lá aquelas aquelas Barriguinhas lá e essa resistência aqui
+que a r325 ela tá na alterada ela faz a mesma coisa então eu vou fazer logo resolve vamos ligar o aparelho
+vamos ver se lá resolveu tantas linhas aquelas linhas de retrato lá ainda vou dar uma olhada também no
+capacitorzinho aqui tá filtra aqui uma alimentação por vertical depois eu vou mostrar para vocês e ele o
+aparelho se não analisar Tá bom então vou fazer isso agora não tem como mostrar para vocês aqui porque o
+telefone não tem tripé e fica ruim não tem como é bem complicado eu não gosto de sair desse jeito então o ovo
+vou passar para você que foi foi feito o que eu fiz e vamos ver se resolve o problema beleza fazer isso que
+daqui a pouco eu volto ah Pessoal lembrando que eu deixei para inaugurar esse multímetro zero bala aí quando
+aparecer sua uma TV e apareceu então vou fazer as medidas hoje com ele esse multímetro inaugurando ele hoje
+toda automático então vou fazer isso e já volto aqui sim os capacitor já já verifiquei da alimentação vertical
+tão bom já medi aqui com capachefe diretamente na placa eles tão bom a Sr dele tá boa pode estar baixa
+capacitância mas a SRD acabou Qualquer coisa a gente tira e mede o capacito beleza fazer isso já volto Então
+pessoal voltando aqui ó eu já fiz a ressolda todinha da placa tem os pontos que tava com solda trincado solda
+fria e liguei o aparelho o aparelho deu imagem embaixo ele ficou com a faixa eu vou mostrar para vocês aqui se
+eu até falei para vocês ó deixa lá morar lá naquela lá porque lá ela apareceu a imagem Olá a imagem dela agora
+ficou uma lista vermelha e aquilo funcionando só meia tela a parte de cima tá escura e aqui ó eu até falei
+para vocês que tinha medidor de ouro e o diodo tava um bom aqui na área do vertical Mas é porque eu medi com
+esse esse multímetro aqui ó esse multímetro aqui eu não tô bem familiarizado com ele ainda ele tem uma medida
+idiota ele fica oscilando aqui eu vou ligar aqui você pode ver que ele fica oscilando por ele mesmo ó tá vendo
+ele fica assim aí é o normal dele é porque eu não tô ainda acostumado com ele e aí ele deu uma medida que eu
+disse que tá até bom mas aí eu vi lá a imagem daquele jeito não tá lá aí fui no vertical e medico com esse
+aqui esse aqui tem a leitura precisa mais rápido aí eu vou medir aqui para vocês ó a alimentação alimentação
+negativa aqui ó no D 304 menos 16 e aqui do outro lado de outro no ou que tá dando lá 0.500 e mesmo assim ela
+fica com a listrinha lá agora não apareceu mas ficou com a listinha lá aquela listinha aqui do início do vídeo
+eu vou já vou trocar esse Diogo e trocar vou trocar o dele 304 e o c314 aqui ó aquele filtro filtro da tensão
+sai aqui ó vou fazer isso e já volto Então pessoal voltando aqui eu já fiz a troca do componentes aqui ó o
+diodo e o capacitouzinho aqui ó é o ba-158 ele é o BA -158 aí e o capacitorzinho lá de 220 microfas por 50
+volts que estavam capacitância e agora já tá aqui ó já soldei soldadinho aqui no lugar aqui ó Você lembra que
+tinha tensão 16 só aqui do outro lado não tinha então aqui a troca do Diogo que é aquele que tá lá já tem
+outra aqui e o capacitorzinho agora ele vai ligar aqui do aparelho plug na tomada acendeu pagou vamos aguardar
+lá na tela lá ela vai ligar aí ó ela já abriu a tela todinha só que tá escura e bem avermelhada isso confio
+que o rapaz que mexeu nela Ele mexeu no screen do flayback Então vou só fazer uma regulagem eu até da
+rodadinha nele aqui que nos cria vou dar uma olhadinha aqui no screen e vamos dar uma olhadinha lá olha lá eu
+quero agora aqui é só regulagem mesmo manual vou dar uma reguladazinha também no foco ver como é que tá você
+pode ver aquele aquela barriguinha que tinha lá que foi feito almofada sumiu também a imagem está perfeita ela
+tá um pouco avermelhado mas vou dar uma regulagem no menu dela ver como é que tá as cores com controle remoto
+e a televisão tá funcionando de novo tá normal ou medir agora as tensões aqui ó a extensão de vertical
+multinível tá na escala de 200 TC aqui ó negativo já tá lá no YouTube vamos ter que ficar aqui no diodo
+Patrícia cano diodo onde tinha o 16 do outro lado do diodo quando não tinha nada tá lá mais 17 os 180 do tubo
+vamos medir medir vamos ver aqui em cima aqui ó tá lá pescar aqui de novo Olá 181 tá bom com mais medo dela
+que eu tive olhando o esquema tá é 133 volts e no do playback aqui ó tá 135 tem dois volts alterado mas é 133
+matéria aí é considerado bom e tem as outras tensões de baixas essa daqui de 12 volts tem aqui pessoas de 41
+que iniciamos 41 tá lá aqui tem uma de 8 volts aqui embaixo outra de 12 então tá funcionando normal agora só
+fazer a regulagem particular então no mais pessoal é só isso para iniciantes se vocês gostaram deixa um like
+se inscreva no canal comente compartilhe [Música] e quiser perguntar alguma coisa pergunte se o educado nos
+comentários também as perguntas e no mais respeito pessoal Fiquem todos com Deus que Deus abençoe vocês e a
+família de vocês grandemente beleza até o próximo vídeo pessoal
+

@@ -1,0 +1,81 @@
+Título: TV SEMP 2134 (B) SK11 LIGA E DESLIGA (RESOLVIDO)
+Canal: Joao Edilson
+URL: https://www.youtube.com/watch?v=vwxIkn_M3dc
+Duração: 772s
+--- Descrição ---
+A tv gerava alta tensão e cortava ou seja entrava em proteção , veja como foi resolvido.
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+o olá meus amigos que deus abençoe a todos vocês vamos para mais um vídeo aqui hoje eu tô com essa semp
+toshiba ultra slim tá mostrando aqui o modelo dela tv 2134 bss chefes sk11 que que tá acontecendo com ela ela
+é o seguinte o cliente relatou que estava assistindo normal e do nada ela se desligou aí a gente pluga ela
+aqui na tomada e aí e ele já estava ligado né vamos ligar a chave geral ela sendo standy by a arma e desarma o
+tentar mostrar aqui para ver se dá para ver algum canto u e vai lá dar ainda dá um claro zinho ela arma e
+desarma e pronto o standy bye apaga e não faz mais nada então eu vou estar abrindo o televisor e analisando
+por que que tá acontecendo isso que tá entrando em proteção e a tv já tá aberto em posição de reparo e a
+aparentemente está tudo ok né tá tudo beleza não tem nada torrado tipo um resistor torrado capacitor estufado
+tem alguns amigos aí alguns escritos que pergunta assim é como iniciar a análise e eu sempre falo primeira
+coisa é se ela tiver bastante suja você limpar para ter acesso às peças né tem umas que vem coberto de poeira
+e segundo observar resistores cantos aquecido capacitor estufado ou vazado para melhorar o segundo passo aqui
+é observar as possíveis solda fria na placa eliminar as solda fria na placa o tipo o ci do vertical tá com
+solda fria ou seja observar se você encontra algum algum ponto com a solda danificada para você tá ressaltando
+para ver se tá resolvendo o problema e o terceiro passa é a medições nas tensões quando você tem um esquema e
+já sabe mexer pelo esquema você vai observando cada ponto que tem as tensões e você vai medindo para conferir
+se tem beleza então a primeira coisa a segunda coisa no caso que eu falei eu vou fazer uma resolve em toda
+parte aqui para depois eu passar fazer medições aqui para ver se eu encontro alguma coisa aqui a intenção
+faltando ou alterada ou alguma coisa do tipo beleza olá meus amigos é eu tô com a tv já ligada eu vou estar
+ligando e desligando porque na hora que ela liga ainda dá para gente monitorar a tensão ea primeira atenção
+que eu vou monitorar aqui é atenção demais b no no diodo de 614 já tá posicionado eu vou ligar vou ligar a tv
+vou ligar agora e ela chega a 30 a 130 volts esse desliga esse é o mais b agora vamos ver atenção de 40 volts
+e chega a 42 aí dá um poço vai para 59 se desliga agora vamos ver a tensão de 12 volts g1 e aí e chega 11 1318
+em baixa ou seja eu tô achando essa atenção demais ver é muito alta eu posso estar enganado mas toshiba no
+máximo aí pegar 115/116 eu posso estar enganado porque é poucas que eu pego aí mas é muito todos que tantas tv
+de tubo que passa pela minha mão que a gente acaba esquecendo realmente qual a tensão de trabalho mas eu acho
+que pro toshiba essa tensão aqui tá muito alta principalmente de 21 polegadas creio eu que seja aí no máximo
+no máximo aí nos 115 volts tac 130 possivelmente esses esteja o defeito da tv tá desarmando ou seja ela tá
+entrando em proteção a fonte alta então para ouvir o vídeo não ficar longo quer que eu vou fazer eu vou estar
+e eu tentar ver cidades dá para o movimento virando a placa aqui e para mostrar para vocês aqui eu vou estar e
+substituindo substitui eu vou medir e se capacitou aqui e esse outro capacitou aqui da frente tá na frente do
+decifrador não dá para mostrar para mim tá vendo se eles estão seco ou algo do tipo para mim eliminando a e
+conferir se ela trabalha com o transisto o tl431 ah beleza eu vou estar fazendo essas medições do capacitor
+que faz a filtração do + b para mim ver se tem algo errado nas minhas do mais bem para tá arrumando essa fonte
+olá meus amigos eu já tirei os dois capacitor aqui é dois capacitor de tentar foca aqui há 47 microvarizes por
+160 volts com os dois o e eu poderia estar colocando um deles em de 100 micro fire por por cento e sessenta ou
+por 250 porque eles trabalham as comando isso aqui é que acontece vamos dar medindo eu tô na escala aqui de
+200 como ele é de 47 eu vou estar medindo esse aqui é para gente está analisando aqui quanto e quanto vai dar
+oi oi está seco ó está seco mesma não tem um em qual o outro aqui eu vou estar agora trocando e agora vou
+estar tô medindo aqui o opa esse aqui tá marcando bom está com 47 ou seja esse mais b tava sem filtragem aqui
+atrás que tem que não tá suficiente ó tá com esse tá bom tá medindo bom ó 47 mas esse aqui tá seco aonde
+precisava vamos dizer 4747 9494 micro de difícil traje tava só com 47 porque ele tá seco então o que é que eu
+vou estar fazendo eu vou estar colocando dois no mesmo esse medindo aqui mesmo eu tô medindo bom eu não vou
+deixar eu vou colocar dois capacitor novo no lugar eu vou aqui buscar os capacitores já retorno aqui é bem
+meus amigos eu acho que eu falei demais eu fui procurar no meu estoque quartinho um de 47 por 160 eu vou
+repetir esse mesmo esse mesmo capacitou aqui ó como escutar tá totalmente seco não tá medindo nada eu vou
+colocar esse esse mesmo aqui mas só para gente tá tá vendo se a fonte vai baixar porque ela tá marcando 130 tô
+achando ela muito alto e depois eu vou fazer o pedido de mais capacitor e acaba substituindo eu nunca gosto de
+deixar mesmo ele medir no bom nunca gosta de deixar porque inclusive aqui deixa eu mostrar aqui ó e o pezinho
+dele tá meio esquisita não me confio muito não de deixar um capacitor que já vinha trabalhando o colega dele
+já já enfraqueceu e ele para ir falar que tem deixar esse outro na mão pouco custa então eu vou estar
+colocando esses dois capacitores já retorno para ver como que vai se comportar a ponte o meu amigo capacitor
+já foi colocado eu vou eu vou estar medindo aqui a atenção no diodo de 614 outra medindo aqui para gente ver
+se mudou alguma coisa eu liguei a tv o olá 116 volts tem que 16 ea tv já mostrou imagem deixa eu ver as outras
+tensões a 45 oi aqui é de 12 tá com 11 a chover a outra a última de 12 tá com 12 são duas tensões de 12 volts
+aqui então eu vou mostrar aqui a imagem aqui vamos ver que imagem e olha a imagem dela aí hoje eu vou estar
+encaixando a placa de volta já que a imagem apareceu né atenção baixou do mais bem era falta de filtragem
+mesmo esse capacitor zinho aqui ó trabalha junto com o outro que tava seco tá medindo nada eu vou estar
+encaixando a placa de volta e vendo se tem mais algum defeito né que pode ter mais algum problema beleza
+beijar encaixei a placa aqui de volta já coloquei uma antena agora a gente vai estar ligando para ver se tem
+algum problema aqui na imagem ligou estandebai gerou alta e vamos aguardar aí mais chegar o opa chegou a
+imagem e agora deixa eu botar aqui no canal trey o pai a imagem é mas ta ta congelado aqui devido um canal
+aqui bota em outro canal se você quer para a imagem 1 i cnt e a redetv a lgt é ah então beleza então tá aí
+único defeito athena capacitor de 47 os 160 volts eu vou estar trocando outro capacitor quando eu falei para
+vocês mas o defeito era ponte alta ou seja tava tem-se o trás não mais b por isso que ela tava entrando em
+proteção também minha tia não tá muito boa e a única o canal que eu acho que não vai dar direitos autorais aí
+eu deixo nesse aí tá congelando mas é o único que eu acho que ele tá dando direito ao tros beleza os meus
+amigos então um videozinho não muito explicado mas pode servir de tem algum proveito aí para vocês inscritos
+no meu canal beleza obrigado a todos vocês a isso que vem que se inscrever no meu canal graças a deus o canal
+ultrapassou um dos quatro mil inscritos espero que cresça mais ainda e quero pedir a bênção de deus para todos
+vocês que venha abençoar a vida de cada um de vocês e é o seguinte e foi inscrito se inscreva aí para estar
+recebendo as notificações aí quando eu postar mais um vídeo beleza meus amigos fiquem com deus faça um
+comentário sadio aí para gente tá trocando uma ideia ou passando experiência e recebendo experiência de vocês
+também fique com deus um abraço a todos e até o próximo vídeo se deus quiser
+

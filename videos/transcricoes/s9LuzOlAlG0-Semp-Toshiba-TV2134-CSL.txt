@@ -1,0 +1,76 @@
+Título: Semp Toshiba TV2134 CSL
+Canal: Daniel eletrônica
+URL: https://www.youtube.com/watch?v=s9LuzOlAlG0
+Duração: 675s
+--- Descrição ---
+aprenda a consertar também ✌✌✌
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+Olá minha galeria do meu canal da eletrônica Tô ligado galerinha com mais um vídeozinho de uma TV de 2134 CSL
+e essa tvzinha galera não está ligando nada né é uma doação aqui para nossa eletrônica é um cliente nos deu
+Então a gente vai tentar fazer o conserto dela e mostrar alguns defeitos que podem acontecer na tvzinha da TV
+2134 cssl beleza e vou mostrar para vocês aqui alguns componentes que podem estar com defeito em relação a não
+querer Ligar a tv beleza primeiro modo que você pode fazer aí galera primeiro teste Você vai testar a tomada
+220 né chegou 220 aqui nos dois pinos RL ou n e l que é o Neutron fase você testou tem 220 aqui galera nos
+dois pontos entre o fio azul e marrom pronto se você já descarta que o cabo está com defeito Tem muita gente
+que pega uma televisão dessa que está inoperante não está ligando nada vai lá na pontinha do cabo galera e
+corta Por que que ele corta porque ele não tem entendimento aí vai corta aí ele vai gastar mais porque o a
+pessoa que vai fazer o conselho da TV tem que botar outro cabo né então vai vai surgir mais defeito e mais ele
+vai tirar mais do bolso dele para pagar a pessoa vai fazer o concerto segundo propósito que você vai olhar aí
+você vai olhar o fusível fusível deu 220 aqui chegou que não passou para cá você está aberto Beleza então
+chegou até o fusível e não passou na chave Ah você vai testar a chave você vai botar seu multímetro na escala
+de diodo né que essa escala aqui ó de pipi e vai testar a chavezinha aqui liga na placa mesmo mas cuidado
+galera para você não testar a chavezinha ligada a 220 que senão você vai queimar seu teste beleza Ou então
+você pega bota em 750 que é na voltagem alta aí sim você pode testar a chavezinha com a TV ligada na tomada
+220 ou 110 qual seja sua região colocou a tvzinha chegou 220 passou na chave e chegou aqui nos diodos de
+retificação e a tá abrindo o fusível na entrada aqui galera você vai olhar esses quatro diodos da entrada aqui
+ó Olhou os quadros da entrada não tem nenhum curto seja a parte para cá para o capacitor geralmente esse
+capacitores dão muito defeito beleza outra coisa também queimando o fusível também pode ser defeito também na
+bobina defletora na bobina desmagnetização que essa bobina que fica aqui no tubo galera às vezes ela dá um
+curto e aí fica abrindo o fusível o termo aqui não abre né não destrava Então queima o fusível beleza salvar
+as coisinhas que você pode identificar numa TV e fazer o conceito dela outra coisa também galera ó essa
+peçazinha aqui preta ó que está em pé que tem várias perninhas é deixa eu ver a numeração dela para vocês é o
+stk tá muito manchado aqui mas eu acho que é o stk deve ter uma numeração aí vocês Verifica a numeração e ó
+galera só gravando vídeo aqui já identifiquei praticamente o defeito dessa TV Olha esse capacitor a situação
+desse capacitor aqui como está ele estourou galera o que que pode ter acontecido tá aberto o fusível ou então
+tem queimado com diodo beleza Ou então essa peça aqui tá em curto você vai fazer você vai arrancar esse de
+esse capacitor cerâmico vai lá referência dele botar outro e ligar na sua lâmpada em série para ver se tem
+alguma coisa em curto ou os diodo ou stk tá em curto beleza ou de outro Zena também se dizendo aqui ó que fica
+bem próximo aqui embaixo vocês também verifica ele como multímetro Cuidado para você não queimar o motivo de
+vocês é em relação a TV ligado na 220 viu galera faz um teste aí com calma e verifica eu vou agora tentar
+trocar esse esse capacitor cerâmico aqui né e vou detalar mais alguma coisa aí na frente para vocês não quero
+que o vídeo fique Um Pouco louco que tem gente que não gosta de vídeo longo mas o mais rápido possível do
+conceito dessa TV beleza Lembrando que essa tvzinha aqui é minha que se não der conserto eu posso jogar para
+sucata tranquilo muito bem galerinha comenta aí no vídeo anterior né No começo e que vocês verificasse o
+fusível né que é justamente esse branquinho aqui ó galera e simplificamente galera esse fusível estava aberto
+porque pode acontecer um fusível aberto o defeito estava no STR galera que essa pecinha preta onde mostrei a
+vocês e o capacitor mostrar para vocês ele estourado já troquei a referência dele para quem aí tem dúvida né
+estourou e não tem outra TV para para verificar ele é o 2 kv 102k ele é o 102k viu galera ela é de 2kv beleza
+tá ele aí ó deixa eu tentar clarear um pouco aqui para vocês ver a numeração do da peça deixa eu ver se dá
+para clarear um pouco para vocês ver a numeração da peça né galera acho que vai dar para ver toda a
+viradazinha nela aqui viu muita apagada Mas eu creio que vai dar para ver Deixa eu baixar aqui o brilho Olha
+aí galera é o 2kv 102k viu 2 cabeças 102k beleza para quem tem alguma dúvida tá aí a peça a imagem da peça
+beleza e é justamente essa daqui ó que eu troquei Beleza então para você que tem alguma dúvida em relação a
+isso é o 102k 2kv beleza e o STR o STF que vocês vão estar trocando né eu tinha colocado um aqui galera mas a
+TV não também tava em curto então arrumei outro aqui Botei é o STR w6554a6554 a viu galera da tvzinha de 21 só
+colocar aí vai dar tudo certo antes de vocês testarem Eu sempre gosto de fazer assim ó eu só dou uma perninha
+de fio bem fininha aqui ó para não dar só torando fusível galera beleza antes de testar na lote série eu vi
+que ela acendeu geralmente essas essas TVs ela tem muito consumo de energia e não vai deixar a TV ligar em ir
+lá tem série que que eu faço eu boto um fusível bem fininho e ligue na 220 se você não tiver lá tem sério
+também pode fazer do mesmo jeito só vai romper o fusível e mais nada beleza fiozinho fino viu galera depois só
+retirar o fiozinho que você estabilizou aqui e bota o fusível originalzinho da TV e se você também tiver pasta
+térmica passa aqui atrás de transistor para ele descer para o calor para a parte de alumínio e assim dá uma
+vida útil ATV Beleza então já troquei essas peças e agora a gente vai ligar na lâmpada em série né Vamos ligar
+na lata de série e vamos verificar aqui agora galera se a minha tomada de lâmpada aqui embaixo pronto luz está
+de baixo acendeu apagou acendeu ela quis ligar Galera vocês viram né ela deu e não e desligou para filmar aqui
+minha lâmpada vocês vão verificar ela quer ligar não liga porque tá na lotérica passou descarregou mas o Stand
+by continua aceso deixa eu pressionar uma tecla aqui filmando a minha lá Justamente não dá certo porque já
+descarregou o capacito Mas vamos prosseguir o procedimento né Vamos ligar agora na 220 vamos tirar vamos ligar
+220 no stand by da TV ligou desligou agora vamos ligar 220 acionou e a TV ligou agora deixa eu filmar aqui a
+tela da TV bem rápido que o STF tá solto eu como eu mostrei a vocês naquela hora que queria mostrar mas agora
+deu certo a TV querendo ligar na lotérica tá vendo ligar Verifica a luzinha do stand ela acende apaga e a TV
+não liga agora vamos pegar e botar na 220 né bebezinho desligou não Tá acendendo mais agora vamos botar na 220
+agora vamos ver a imagem da TV Olha aí show de bola beleza galera para você gostou do nosso vídeo vai lá
+compartilhar o seu conteúdo se inscreve no nosso canal e Ative o Sininho de notificação em nosso canal Beleza
+se inscreva no nosso canal e não se esquece de deixar aquele like tá aí os vídeos as dicas é o que eu pude
+passar para vocês por enquanto mas valeu a todos galera
+

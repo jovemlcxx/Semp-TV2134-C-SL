@@ -1,0 +1,56 @@
+ Tópicos semelhantes
+ »  tv semp 2134 b não centraliza a imagem. 
+ »  TV SEMP MOD: TV 2134 (B)SL SK-11 (sem imagem) 
+ Anuncios
+ Nenhum anúncio
+ [Encerrado]tv semp 2134(B) SL SK-11, imagem sem brilho. 
+ 4 participantes
+ Fórum Eletrônica2002 (Brasil) --> ::  REPARAÇÃO EM GERAL 
+ Página 1 de 1 
+  por edsonrocha12 Dom 16 Fev 2014, 15:04
+ tv semp 2134(B) SL SK-11, imagem sem brilho, a tensão do screen mede 600v, essa tv funciona normal mas a imagem aparece sem brilho, já aumentei o máximo no menu mas fica uma imagem fraca, já testei em outo tubo e fica do mesmo jeito,  com a imagem fraca, também já troquei o capacitor do screen, se algum amigo puder me ajudar , agradeço desde já.
+Última edição por edsonrocha12 em Dom 16 Fev 2014, 19:06, editado 1 vez(es) 
+_________________
+Tenho capa miter2002
+ edsonrocha12 Participante
+ Data de inscrição : 29/08/2009
+ Gosto Não gosto 
+ Re: [Encerrado]tv semp 2134(B) SL SK-11, imagem sem brilho. 
+  por  ReginaldoPereira Dom 16 Fev 2014, 15:32
+ Coloca uma e-eprom virgem, pra ver se o problema é software.
+ ReginaldoPereira Técnico
+  por Conteúdo patrocinado 
+ Conteúdo patrocinado 
+  por edsonrocha12 Dom 16 Fev 2014, 15:50
+ ok amigo, vou testar outra eeprom, depois retorno.
+  por edsonrocha12 Dom 16 Fev 2014, 16:11
+ troquei e eeprom, mas o defeito continua.
+  por  ReginaldoPereira Dom 16 Fev 2014, 16:22
+ quando abre o screen, dá retraço? e mediu a tensão de screen com 600 volts com que equipamento (marca e modelo)? 
+  por edsonrocha12 Dom 16 Fev 2014, 16:58
+ multímetro analógico na função CA. sunwai yx-360trn.
+  por edsonrocha12 Dom 16 Fev 2014, 17:06
+ abre normal, sem retraço.
+  por  ReginaldoPereira Dom 16 Fev 2014, 17:20
+ Achei um pouco alta a leitura do screen pois normalmente a impedância do multímetro derruba um pouco o valor medido, se o seu multímetro for aqueles antigos que tinham elevada impedância, a leitura pode estar correta dependendo do tipo de tubo, mas se for desses mais novos e baratos, acho que a leitura esta errada. Pode ser que o defeito esteja na linha do screen, podendo ser qualquer um desses, tensão do screen baixa no fly back, soquete do tubo ou ainda c504 na placa do tubo  (ligar a tv sem ele para testar)
+O capacitor c504 (c902 dependendo da versão da placa) ligado no fio do screen é altamente propenso a esse defeito.
+  por  andrecuiabá Dom 16 Fev 2014, 18:57
+ essa tensao deve ser medida em dcv .
+ andrecuiabá Técnico
+ Data de inscrição : 24/03/2011
+  por edsonrocha12 Dom 16 Fev 2014, 19:05
+ obrigado pela dica André, eu troquei o soquete do tubo e deu uma melhorada na imagem, vou deixar assim, obrigado a todos.(RESOLVIDO)
+  por  Dematos Dom 16 Fev 2014, 19:17
+ ReginaldoPereira escreveu: quando abre o screen, dá retraço? e mediu a tensão de screen com 600 volts com que equipamento (marca e modelo)? 
+ edsonrocha12 escreveu: multímetro analógico na função CA . sunwai yx-360trn.
+Fica como encerrado e obrigado pelo retorno.
+ Dematos Moderador do fórum
+ Data de inscrição : 07/12/2011
+  Tópicos semelhantes 
+ »  (encerrado)Tv SEMP 2134 (B) SL SK-11 - Sem Imagem e Som 
+»  tv semp 2134 b sem imagem 
+»  TV Semp modelo TV 2134(B) sem imagem 
+ Fórum Eletrônica2002 (Brasil)  ::  REPARAÇÃO EM GERAL 
+ Início 
+ Forumeiros.com  |  © phpBB  |  Fórum gratuito de ajuda  |  Denunciar um abuso  |  Criar um fórum 
+ http://www.eletronica2002.com.br/index.html 

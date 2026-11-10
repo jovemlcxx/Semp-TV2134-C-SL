@@ -1,0 +1,8 @@
+Título: Correção no circuito EW da TV Toshiba 2134(B)SL/SK11
+Canal: RONDY ELETRÔNICA
+URL: https://www.youtube.com/watch?v=PWn_V7Ma-kE
+Duração: 16s
+--- Descrição ---
+A TV estava com uma distorção nas laterais,(faixas pretas apareciam de vez em quando),ao trocar o C311 e o Q302 ,o aparelho voltou a funcionar normalmente.
+--- Transcrição (legenda automática do YouTube; contém erros de reconhecimento) ---
+(sem legenda disponível)

@@ -1,0 +1,10 @@
+ tv semp mod tv2134sky sk11 dicas de reparação 
+Pular para o conteúdo principal
+tv semp mod tv2134sky sk11 dicas de reparação
+ Esta TV chegou inoperante; defeito provocado por um raio.
+ foi trocados estes componentes da foto a baixo e a TV funcionou normal.
+Postagens mais visitadas deste blog
+ Substituição do strw5453c por STRW5753A 
+Substituição do strw5453c por STRW5753A, basta inverter os pinos 4 e 5 deste e depois jampear o pino 3 e 5, só e somente só e está pronto. Funciona perfeitamente, não precisa acrescentar ou tirar nenhum componente só jampear. veja o esquema e compare para entender. OBS: colocado e testado
+Este chassis equivale aos modelos Toshiba 1490 IAV 2090 IAV, 1488 IM, 2088 IM, 2086 IMS, 2089 IMS Nas Tvs Toshiba Temos que tomar um certo cuidado ao identificar os modelos, a melhor forma é prestar sempre atenção no número do chassis e, quando for pedir uma ajuda técnica citar este , muitos colegas normalmente, recordam-se mais dos defeitos pelo chassis e facilita dar uma boa dica de reparação à distância.Do chassis U8 em diante o fabricante colocou na etiqueta ao lado do modelo o número do chassis, caso a etiqueta interna ou externa esteja danificada, ainda é possível a identificação, pois, geralmente na Pci ao lado do varicap (tuner ou selectronic) tem a descrição impressa. Este artigo tem a finalidade de fornecer uma breve descrição e muitos defeitos reais encontrados na bancada no nosso dia a dia. Cabe ressaltar que a planta básica do U14 começou com o U13, depois U14, 14R, U15, U16 e U17 usando micro 2 em 1 (2 in 1) da família TMPA88xxxx, neste artigo falaremos...
+Imagens de tema por Michael Elkan 
