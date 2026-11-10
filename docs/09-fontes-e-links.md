@@ -15,22 +15,22 @@ outros idiomas só renderam material genérico sobre o CI TDA12165PS e sobre RGB
 | `videos/transcricoes/*.txt` | 39 vídeos do YouTube (36 com legenda) |
 | `datasheets/TL431.pdf` | ti.com |
 
-## ⚠️ Para baixar manualmente (sites bloquearam download automático – Cloudflare/login)
+## ⚠️ Para baixar manualmente (sites bloquearam download automático: Cloudflare/login)
 
-Prioridade alta — é o manual do **seu** modelo:
+Prioridade alta, é o manual do **seu** modelo:
 
-1. **Pacote TV2134(C)SL / TV2934(C)SL / TV1452‑3(P)AV / TV1454(P)SL – SK11/SK91** (2,1 MB)
+1. **Pacote TV2134(C)SL / TV2934(C)SL / TV1452-3(P)AV / TV1454(P)SL: SK11/SK91** (2,1 MB)
    https://www.electronica-pt.com/esquema/tv/toshiba-esquemas-tv/toshiba-tv1452-tv1453-tv1454-tv2134-tv2934-20620/
 2. Pacote TV2134(B)SL SK11 / TV2934(B)SL SK91 (3,1 MB, 3 esquemas)
    https://www.electronica-pt.com/esquema/tv/toshiba-esquemas-tv/toshiba-tv2134(b)sl-ch-sk11-tv2934(b)sl-chsk91-14874/
 3. **Esquema SK11 com vertical TDA4865AJ** (variante rara)
    https://www.4shared.com/get/CuZR0rQEea/TV2134_ch-SK11.html
    e http://www.4shared.com/office/u8PfrplX/SK11__TV2134_B_SL_-_Esquema_El.htm
-4. elektrotanya – "TOSHIBA SK11‑TV‑2134‑2934 SM" (2,5 MB)
+4. elektrotanya: "TOSHIBA SK11-TV-2134-2934 SM" (2,5 MB)
    https://elektrotanya.com/toshiba_sk11-tv-2134-2934_sm.rar/download.html
-5. eserviceinfo – `semp-toshiba-sk11-sk91.zip`
+5. eserviceinfo: `semp-toshiba-sk11-sk91.zip`
    https://www.eserviceinfo.com/index.php?what=search2&searchstring=ESQUEMA+DE+TV+SEMP+MOD.2134
-6. EletrônicaBR (precisa de cadastro/créditos) – categoria Semp Toshiba
+6. EletrônicaBR (precisa de cadastro/créditos): categoria Semp Toshiba
    https://eletronicabr.com/files/category/255-semp-toshiba/
 7. Cópias do manual de serviço: [dokumen.tips](https://dokumen.tips/documents/manual-servico-tv-toshiba-tv2134-56d6c1ae0eed2.html),
    [idoc.pub](https://idoc.pub/documents/manual-servico-tv-toshiba-tv2134-qvndwd910glx),
@@ -40,7 +40,7 @@ Coloque o que baixar em `manuais/`.
 
 ### Datasheets a baixar (buscar pelo nome em alldatasheet.com / datasheetspdf.com)
 
-TDA12165PS (ou família TDA120x1/TDA121xx "UOC‑TOP" – NXP; datasheet completo é raro), STR‑W6554A (Sanken, família STR‑W6500),
+TDA12165PS (ou família TDA120x1/TDA121xx "UOC-TOP": NXP; datasheet completo é raro), STR-W6554A (Sanken, família STR-W6500),
 LA78040 / LA78141 (Sanyo), TDA4865AJ (Philips), TDA8944J (Philips), TDA9850 (Philips), 24C08, HEF4052, 2SD2553 (Toshiba),
 BY228, RU4B/RU3AM/RU3YX (Sanken), S8050, 2SC1815, 2SA1015, 2SA1013, BF422/BF423.
 
@@ -56,22 +56,22 @@ BY228, RU4B/RU3AM/RU3YX (Sanken), S8050, 2SC1815, 2SA1015, 2SA1013, BF422/BF423.
   [2134(A)SL sem contraste/EEPROM](https://www.tectonny.com.br/forum/html.php?topic=31447.0)
 - Clube do Hardware: [2134 em proteção](https://www.clubedohardware.com.br/forums/topic/1042182-tv-marca-semp-toshiba-modelo-2134-n%C3%A3o-liga-em-modo-de-prote%C3%A7%C3%A3o/) ·
   [3 TVs 2134 SL](https://www.clubedohardware.com.br/forums/topic/1069557-tv-2134-sl-semp/)
-- electronica‑pt: [dicas de reparação](https://www.electronica-pt.com/reparacao.php?ref=SK11) (use o campo "Modelo": SK11, SK91, 2134, 2934) ·
+- electronica-pt: [dicas de reparação](https://www.electronica-pt.com/reparacao.php?ref=SK11) (use o campo "Modelo": SK11, SK91, 2134, 2934) ·
   [modos de serviço Toshiba](https://www.electronica-pt.com/service-mode?chassis=&marca=toshiba&page=2)
 - EletrônicaBR: [pedido de esquema 2134(B)SL](https://eletronicabr.com/forums/topic/39256-preciso-esquema-semp-tv-2134-b-sl-sk-1/)
 - ForumJReletronica2001 (Tapatalk, bloqueou acesso): [2134(A)SL modo de serviço](https://www.tapatalk.com/groups/forumjreletronica2001/semp-toshiba-tv2134-a-sl-sl11-como-entrar-no-modo--t77272.html)
-- Blog: [TV2134SKY SK11 – dicas](https://wwwcarloseletronica.blogspot.com/2012/02/tv-semp-mod-tv2134sky-sk11-dicas-de.html)
-- shmups (inglês): [TV RGB mod thread p.130 – tentativa num 2134(B)SL](https://shmups.system11.org/viewtopic.php?t=56155&start=3870)
+- Blog: [TV2134SKY SK11: dicas](https://wwwcarloseletronica.blogspot.com/2012/02/tv-semp-mod-tv2134sky-sk11-dicas-de.html)
+- shmups (inglês): [TV RGB mod thread p.130: tentativa num 2134(B)SL](https://shmups.system11.org/viewtopic.php?t=56155&start=3870)
 - [Modo de serviço de TVs com TDA12165 (genérico, inglês)](https://electronicshelponline.blogspot.com/2019/02/how-to-enter-service-mode-of-tvs-using.html)
-- Ficha comercial: [Zoom – TV 2134SL](https://www.zoom.com.br/tv/tv-semp-toshiba-21-crt-tubo-tv-2134sl)
+- Ficha comercial: [Zoom: TV 2134SL](https://www.zoom.com.br/tv/tv-semp-toshiba-21-crt-tubo-tv-2134sl)
 - Vídeos: ver [`videos/README.md`](../videos/README.md)
 
 ## Lacunas conhecidas (o que NÃO foi encontrado)
 
-- Manual de serviço específico do **(C)SL** (existe, não baixado – item 1 acima). Diferenças (B)×(C) não confirmadas.
+- Manual de serviço específico do **(C)SL** (existe, não baixado: item 1 acima). Diferenças (B)×(C) não confirmadas.
 - **Dump de EEPROM 24C08** do 2134(B)/(C)SL. → Faça o da sua.
-- Significado dos parâmetros das páginas 4–15 do modo desenvolvimento (só há vídeo mostrando os valores).
+- Significado dos parâmetros das páginas 4-15 do modo desenvolvimento (só há vídeo mostrando os valores).
 - Datasheet completo do TDA12165PS e confirmação de entrada RGB comutável.
 - Modelo exato do cinescópio e equivalência de flyback fora os dois de fábrica.
 - Tópicos do Tapatalk/JR Eletrônica e downloads do EletrônicaBR (exigem login).
-- 3 vídeos sem legenda (ver índice de vídeos) — precisariam de transcrição por áudio.
+- 3 vídeos sem legenda (ver índice de vídeos), precisariam de transcrição por áudio.
